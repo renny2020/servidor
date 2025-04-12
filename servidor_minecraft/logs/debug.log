@@ -5679,3 +5679,33 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Apr2025 18:29:53.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> deja llamarte en el dicord
 [12Apr2025 18:32:06.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Monster Hunter]
 [12Apr2025 18:32:35.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Getting an Upgrade]
+[12Apr2025 18:33:49.747] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.world.Containers
+[12Apr2025 18:33:49.747] [Server thread/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[12Apr2025 18:33:59.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest was slain by Spider
+[12Apr2025 18:33:59.463] [Server thread/DEBUG] [tombstone/]: A new grave of the player Alest was created at position [x:-163, y:70, z:49, dim:minecraft:overworld]
+[12Apr2025 18:33:59.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Your First Grave]
+[12Apr2025 18:33:59.500] [Server thread/INFO] [tombstone/]: The player Alest has successfully been saved
+[12Apr2025 18:33:59.991] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744482839974
+[12Apr2025 18:34:38.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 18:34:38.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 18:37:50.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> 389 95 77
+[12Apr2025 18:39:38.525] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 18:39:38.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 18:43:12.934] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/CompoundContainer (target of net/minecraft/world/Container)
+[12Apr2025 18:43:15.246] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming org/violetmoon/quark/base/handler/InventoryTransferHandler$ContainerWrapper (target of net/minecraftforge/items/IItemHandler)
+[12Apr2025 18:44:38.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 18:44:38.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 18:49:38.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 18:49:38.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 18:49:56.056] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[12Apr2025 18:50:44.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has completed the challenge [Cannibal]
+[12Apr2025 18:51:04.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has completed the challenge [Learn to Fart]
+[12Apr2025 18:51:11.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest was slain by renny_lopez_2020
+[12Apr2025 18:51:11.233] [Server thread/DEBUG] [tombstone/]: A new grave of the player Alest was created at position [x:201, y:112, z:152, dim:minecraft:overworld]
+[12Apr2025 18:51:11.236] [Server thread/INFO] [tombstone/]: The player Alest has successfully been saved
+[12Apr2025 18:51:15.937] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1744483875937
+[12Apr2025 18:51:18.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Funeral Theft]
+[12Apr2025 18:52:30.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Knowledge raises the soul]
+[12Apr2025 18:54:04.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Sweet Dreams]
+[12Apr2025 18:54:38.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 18:54:38.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
