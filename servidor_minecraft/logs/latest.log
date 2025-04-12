@@ -578,3 +578,12 @@
 [12Apr2025 19:26:56.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> te saliste
 [12Apr2025 19:33:53.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest lost connection: Disconnected
 [12Apr2025 19:33:53.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest left the game
+[12Apr2025 19:36:55.427] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/7009, l='ServerLevel[world]', x=71.69, y=116.00, z=252.44] died, message: 'Toolsmith was slain by Zombie'
+[12Apr2025 19:37:50.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alest[/127.187.155.65:37021] logged in with entity id 22008 at (-168.50546596870896, 63.0, 766.0335436178631)
+[12Apr2025 19:37:50.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest joined the game
+[12Apr2025 19:38:28.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> jsdhfkjhfgojhojgfh
+[12Apr2025 19:38:31.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> queso
+[12Apr2025 19:38:35.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> asdasdasasd
+[12Apr2025 19:41:21.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [First Age]
+[12Apr2025 19:41:37.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Sneak 100]
+[12Apr2025 19:41:52.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> t

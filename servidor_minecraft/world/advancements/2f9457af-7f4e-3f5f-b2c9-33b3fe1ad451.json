@@ -186,6 +186,7 @@
       "minecraft:stony_shore": "2025-04-12 17:38:36 +0000",
       "minecraft:jagged_peaks": "2025-04-12 18:56:33 +0000",
       "minecraft:forest": "2025-04-12 17:27:46 +0000",
+      "minecraft:deep_dark": "2025-04-12 19:41:16 +0000",
       "minecraft:meadow": "2025-04-12 18:00:46 +0000",
       "minecraft:plains": "2025-04-12 17:27:05 +0000"
     },
@@ -283,6 +284,8 @@
     "criteria": {
       "minecraft:pillager": "2025-04-12 17:35:41 +0000",
       "minecraft:skeleton": "2025-04-12 18:13:36 +0000",
+      "minecraft:creeper": "2025-04-12 19:35:41 +0000",
+      "minecraft:silverfish": "2025-04-12 19:37:10 +0000",
       "minecraft:zombie": "2025-04-12 18:00:59 +0000",
       "minecraft:drowned": "2025-04-12 18:37:27 +0000"
     },
@@ -324,6 +327,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-12 19:41:37 +0000"
+    },
+    "done": true
+  },
   "evilcraft:cannibal": {
     "criteria": {
       "criteria_0": "2025-04-12 18:50:44 +0000"
@@ -333,6 +342,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-04-12 19:06:58 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-04-12 19:41:21 +0000"
     },
     "done": true
   },
