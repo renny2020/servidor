@@ -595,3 +595,5 @@
 [12Apr2025 19:53:13.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest left the game
 [12Apr2025 20:03:03.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Take Aim]
 [12Apr2025 20:03:13.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Best Friends Forever]
+[12Apr2025 20:08:57.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Disconnected
+[12Apr2025 20:08:57.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
