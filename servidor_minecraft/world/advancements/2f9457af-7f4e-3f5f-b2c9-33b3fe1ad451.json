@@ -184,6 +184,7 @@
       "minecraft:beach": "2025-04-12 17:37:36 +0000",
       "minecraft:river": "2025-04-12 17:34:11 +0000",
       "minecraft:stony_shore": "2025-04-12 17:38:36 +0000",
+      "minecraft:jagged_peaks": "2025-04-12 18:56:33 +0000",
       "minecraft:forest": "2025-04-12 17:27:46 +0000",
       "minecraft:meadow": "2025-04-12 18:00:46 +0000",
       "minecraft:plains": "2025-04-12 17:27:05 +0000"
@@ -336,6 +337,12 @@
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-04-12 18:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-12 19:01:16 +0000"
     },
     "done": true
   },
