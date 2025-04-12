@@ -5744,3 +5744,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Apr2025 19:24:38.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Apr2025 19:24:38.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Apr2025 19:25:34.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Isn't It Iron Pick]
+[12Apr2025 19:26:56.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> te saliste
+[12Apr2025 19:29:38.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 19:29:38.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 19:30:19.088] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming org/cyclops/evilcraft/blockentity/BlockEntityEnvironmentalAccumulator$Inventory (target of net/minecraft/world/Container)
+[12Apr2025 19:33:53.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest lost connection: Disconnected
+[12Apr2025 19:33:53.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest left the game
+[12Apr2025 19:34:38.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 19:34:38.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
