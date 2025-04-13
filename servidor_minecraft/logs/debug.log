@@ -5873,3 +5873,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [13Apr2025 20:18:33.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Apr2025 20:19:06.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> mani aprovecha para conseguir polvora
 [13Apr2025 20:22:32.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Amateur Archaeologist]
+[13Apr2025 20:23:33.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 20:23:33.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 20:25:48.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> ya me acorde que era
+[13Apr2025 20:25:53.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> ?
+[13Apr2025 20:25:58.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> arbusto muerto
+[13Apr2025 20:26:05.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> ...
+[13Apr2025 20:26:15.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> tenes
+[13Apr2025 20:26:28.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> nel
+[13Apr2025 20:28:33.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 20:28:33.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 20:29:37.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest lost connection: Timed out
+[13Apr2025 20:29:37.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest left the game
+[13Apr2025 20:29:37.064] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Apr2025 20:29:43.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Timed out
+[13Apr2025 20:29:43.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
