@@ -286,7 +286,9 @@
     "criteria": {
       "minecraft:pillager": "2025-04-12 17:35:41 +0000",
       "minecraft:skeleton": "2025-04-12 18:13:36 +0000",
+      "minecraft:spider": "2025-04-13 17:54:06 +0000",
       "minecraft:creeper": "2025-04-12 19:35:41 +0000",
+      "minecraft:cave_spider": "2025-04-13 17:59:04 +0000",
       "minecraft:silverfish": "2025-04-12 19:37:10 +0000",
       "minecraft:zombie": "2025-04-12 18:00:59 +0000",
       "minecraft:drowned": "2025-04-12 18:37:27 +0000"
@@ -323,9 +325,69 @@
     },
     "done": true
   },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-04-12 18:50:30 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2025-04-12 18:50:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-04-12 18:51:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-12 18:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-12 19:01:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-12 19:06:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-04-12 19:06:58 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-04-12 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-04-12 19:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-12 19:25:34 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-04-12 19:41:21 +0000"
     },
     "done": true
   },
@@ -341,9 +403,9 @@
     },
     "done": true
   },
-  "evilcraft:cannibal": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "criteria_0": "2025-04-12 18:50:44 +0000"
+      "shot_arrow": "2025-04-12 20:03:03 +0000"
     },
     "done": true
   },
@@ -353,63 +415,33 @@
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "artifacts:chest_slayer": {
     "criteria": {
-      "coded_trigger": "2025-04-12 19:06:58 +0000"
+      "kill_mimic": "2025-04-13 18:06:15 +0000"
     },
     "done": true
   },
-  "evilcraft:first_age": {
+  "artifacts:amateur_archaeologist": {
     "criteria": {
-      "criteria_0": "2025-04-12 19:41:21 +0000"
+      "find_artifact": "2025-04-13 18:06:16 +0000"
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "tombstone:adventure/first_grave": {
     "criteria": {
-      "deflected_projectile": "2025-04-12 19:06:16 +0000"
+      "coded_trigger": "2025-04-13 18:12:19 +0000"
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "iron_pickaxe": "2025-04-12 19:25:34 +0000"
+      "coded_trigger": "2025-04-13 18:12:19 +0000"
     },
     "done": true
   },
-  "tombstone:recipes/from_grave_dust": {
+  "tombstone:recipes/from_grave_key": {
     "criteria": {
-      "has_ingredient": "2025-04-12 19:08:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-04-12 20:03:03 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/funeral_theft": {
-    "criteria": {
-      "coded_trigger": "2025-04-12 18:51:18 +0000"
-    },
-    "done": true
-  },
-  "evilcraft:root": {
-    "criteria": {
-      "criteria_0": "2025-04-12 18:50:30 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-04-12 18:52:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-04-12 19:01:16 +0000"
+      "has_ingredient": "2025-04-13 18:12:21 +0000"
     },
     "done": true
   },
