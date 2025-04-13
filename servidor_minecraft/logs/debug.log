@@ -5867,3 +5867,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [13Apr2025 20:09:29.467] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming org/cyclops/cyclopscore/recipe/type/InventoryFluid (target of net/minecraft/world/Container)
 [13Apr2025 20:09:29.467] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming org/cyclops/cyclopscore/recipe/type/IInventoryFluid (target of net/minecraft/world/Container)
 [13Apr2025 20:09:29.468] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming org/cyclops/evilcraft/core/recipe/type/IInventoryFluidTier (target of net/minecraft/world/Container)
+[13Apr2025 20:13:33.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 20:13:33.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 20:18:33.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 20:18:33.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 20:19:06.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> mani aprovecha para conseguir polvora
+[13Apr2025 20:22:32.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Amateur Archaeologist]
