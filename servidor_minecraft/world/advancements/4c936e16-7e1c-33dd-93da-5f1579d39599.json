@@ -307,6 +307,7 @@
       "cooked_mutton": "2025-04-12 18:40:30 +0000",
       "cooked_beef": "2025-04-13 18:10:23 +0000",
       "apple": "2025-04-12 19:01:58 +0000",
+      "cookie": "2025-04-13 19:03:20 +0000",
       "cooked_chicken": "2025-04-12 18:58:06 +0000"
     },
     "done": false
@@ -392,6 +393,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-04-13 18:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-13 19:01:39 +0000"
     },
     "done": true
   },
