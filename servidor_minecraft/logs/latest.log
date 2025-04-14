@@ -724,3 +724,20 @@
 [14Apr2025 20:20:29.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
 [14Apr2025 20:21:25.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.157.80.225:50627] logged in with entity id 51043 at (165.75004299607346, 94.02223895519369, 224.73550349318072)
 [14Apr2025 20:21:25.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
+[14Apr2025 20:25:22.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Creative Mode]
+[14Apr2025 20:27:11.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
+[14Apr2025 20:30:19.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [We Need to Go Deeper]
+[14Apr2025 20:30:21.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3047ms or 60 ticks behind
+[14Apr2025 20:31:38.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Those Were the Days]
+[14Apr2025 20:33:07.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 was slain by Piglin Brute
+[14Apr2025 20:33:07.179] [Server thread/INFO] [tombstone/]: The player renny_lopez_2020 has successfully been saved
+[14Apr2025 20:33:26.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to 90.500000, 86.000000, 69.500000]
+[14Apr2025 20:33:27.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Timed out
+[14Apr2025 20:33:27.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
+[14Apr2025 20:34:04.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.157.80.225:57171] logged in with entity id 53181 at (90.5, 86.0, 69.5)
+[14Apr2025 20:34:04.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
+[14Apr2025 20:34:20.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to 201.500000, 112.000000, 150.500000]
+[14Apr2025 20:35:22.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has reached the goal [Here They Come]
+[14Apr2025 20:35:28.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [War Pigs]
+[14Apr2025 20:38:37.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to 38.500000, 88.000000, 27.500000]
+[14Apr2025 20:43:32.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [A Terrible Fortress]

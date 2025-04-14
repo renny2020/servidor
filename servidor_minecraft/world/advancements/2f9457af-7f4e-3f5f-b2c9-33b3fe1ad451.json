@@ -301,13 +301,18 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-12 17:35:41 +0000",
+      "minecraft:blaze": "2025-04-14 20:43:49 +0000",
       "minecraft:skeleton": "2025-04-12 18:13:36 +0000",
+      "minecraft:magma_cube": "2025-04-14 20:30:46 +0000",
       "minecraft:spider": "2025-04-13 17:54:06 +0000",
+      "minecraft:piglin_brute": "2025-04-14 20:35:22 +0000",
       "minecraft:creeper": "2025-04-12 19:35:41 +0000",
       "minecraft:slime": "2025-04-14 19:45:46 +0000",
       "quark:forgotten": "2025-04-14 17:08:45 +0000",
       "minecraft:witch": "2025-04-13 20:19:47 +0000",
       "minecraft:cave_spider": "2025-04-13 17:59:04 +0000",
+      "quark:wraith": "2025-04-14 20:31:21 +0000",
+      "minecraft:piglin": "2025-04-14 20:32:24 +0000",
       "minecraft:silverfish": "2025-04-12 19:37:10 +0000",
       "minecraft:enderman": "2025-04-13 18:58:24 +0000",
       "minecraft:zombie": "2025-04-12 18:00:59 +0000",
@@ -552,6 +557,50 @@
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-04-14 20:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-14 20:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-14 20:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-04-14 20:30:21 +0000",
+      "minecraft:nether_wastes": "2025-04-14 20:39:52 +0000",
+      "minecraft:basalt_deltas": "2025-04-14 20:30:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-14 20:31:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-04-14 20:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-14 20:43:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-04-14 20:35:28 +0000"
     },
     "done": true
   },
