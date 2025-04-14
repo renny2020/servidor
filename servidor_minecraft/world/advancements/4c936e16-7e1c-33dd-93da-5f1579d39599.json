@@ -219,6 +219,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-13 18:02:08 +0000",
       "quark:glimmering_weald": "2025-04-13 18:57:35 +0000",
+      "minecraft:sunflower_plains": "2025-04-14 15:56:16 +0000",
       "minecraft:beach": "2025-04-12 18:31:54 +0000",
       "minecraft:river": "2025-04-12 18:36:26 +0000",
       "minecraft:stony_shore": "2025-04-12 18:32:09 +0000",
@@ -273,7 +274,8 @@
       "minecraft:spider": "2025-04-12 18:33:59 +0000",
       "minecraft:creeper": "2025-04-13 18:54:43 +0000",
       "minecraft:enderman": "2025-04-13 18:08:36 +0000",
-      "minecraft:zombie": "2025-04-12 18:32:06 +0000"
+      "minecraft:zombie": "2025-04-12 18:32:06 +0000",
+      "minecraft:zombie_villager": "2025-04-14 16:02:33 +0000"
     },
     "done": false
   },
