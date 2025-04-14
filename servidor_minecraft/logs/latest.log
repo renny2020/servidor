@@ -523,3 +523,10 @@
 [14Apr2025 03:42:13.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [You Monster...]
 [14Apr2025 03:47:54.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to 201.500000, 112.000000, 150.500000]
 [14Apr2025 04:12:35.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Neighborhood Brawl]
+[14Apr2025 04:18:08.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Disconnected
+[14Apr2025 04:18:08.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
+[14Apr2025 04:18:08.952] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[14Apr2025 04:18:44.238] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.245.4.224:57943] logged in with entity id 19094 at (288.7185648199006, 119.36819527715333, 203.94056825905759)
+[14Apr2025 04:18:44.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
+[14Apr2025 04:19:23.443] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
+[14Apr2025 04:19:32.654] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
