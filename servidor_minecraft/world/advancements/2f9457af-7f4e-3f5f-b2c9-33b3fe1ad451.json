@@ -183,6 +183,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-12 20:05:10 +0000",
       "quark:glimmering_weald": "2025-04-13 18:58:49 +0000",
+      "minecraft:sunflower_plains": "2025-04-14 17:09:49 +0000",
       "minecraft:beach": "2025-04-12 17:37:36 +0000",
       "minecraft:river": "2025-04-12 17:34:11 +0000",
       "minecraft:stony_shore": "2025-04-12 17:38:36 +0000",
@@ -289,6 +290,7 @@
       "minecraft:skeleton": "2025-04-12 18:13:36 +0000",
       "minecraft:spider": "2025-04-13 17:54:06 +0000",
       "minecraft:creeper": "2025-04-12 19:35:41 +0000",
+      "quark:forgotten": "2025-04-14 17:08:45 +0000",
       "minecraft:witch": "2025-04-13 20:19:47 +0000",
       "minecraft:cave_spider": "2025-04-13 17:59:04 +0000",
       "minecraft:silverfish": "2025-04-12 19:37:10 +0000",
@@ -517,6 +519,12 @@
   "evilcraft:second_age": {
     "criteria": {
       "criteria_0": "2025-04-14 16:12:13 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-04-14 17:08:47 +0000"
     },
     "done": true
   },
