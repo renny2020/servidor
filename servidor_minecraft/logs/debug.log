@@ -7192,3 +7192,33 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Apr2025 16:27:45.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> ya vi con que, el cofre de sangre
 [14Apr2025 16:27:47.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Apr2025 16:27:47.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 16:27:56.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> y mas bien como se hace la escoba
+[14Apr2025 16:29:00.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> oeoeoeoeoeoe
+[14Apr2025 16:29:05.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> ?
+[14Apr2025 16:29:14.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> como se hace la escoba
+[14Apr2025 16:29:27.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> vaya xdd
+[14Apr2025 16:29:46.325] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming org/cyclops/cyclopscore/recipe/type/InventoryFluid (target of net/minecraft/world/Container)
+[14Apr2025 16:29:46.325] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming org/cyclops/cyclopscore/recipe/type/IInventoryFluid (target of net/minecraft/world/Container)
+[14Apr2025 16:29:46.326] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming org/cyclops/evilcraft/core/recipe/type/IInventoryFluidTier (target of net/minecraft/world/Container)
+[14Apr2025 16:29:56.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> DIOS MALDIGO CANTV
+[14Apr2025 16:30:03.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> xdxdxdxdxdxdxd
+[14Apr2025 16:32:43.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> tambien lo que haces en el suelo con la sangre
+[14Apr2025 16:32:47.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 16:32:47.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 16:32:48.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> para que es
+[14Apr2025 16:32:51.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> como
+[14Apr2025 16:33:07.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> aaaaa para dejar secar la sangre
+[14Apr2025 16:33:14.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> aaaa
+[14Apr2025 16:33:29.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> y de ah sacar unos fragmentos de sangre
+[14Apr2025 16:33:40.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> pero una vez tiraste una dark gem y se puso roja
+[14Apr2025 16:33:51.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> tambien para eso
+[14Apr2025 16:33:54.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> okk
+[14Apr2025 16:34:11.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> se puede hace 4x4?
+[14Apr2025 16:34:25.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> bueno 2x2 perdon
+[14Apr2025 16:34:31.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> es una de las maneras de hacer las gemas rojas
+[14Apr2025 16:35:00.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> y nel tiene que haber almenos 5 fuentes de sangr
+[14Apr2025 16:36:30.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> osea
+[14Apr2025 16:37:00.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> mejor hace un 2x3
+[14Apr2025 16:37:47.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Apr2025 16:37:47.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Apr2025 16:37:56.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> te quiero esteban sos un sol nunca deje de brillar
