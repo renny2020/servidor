@@ -1050,3 +1050,13 @@
 [14Apr2025 17:16:20.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> increible
 [14Apr2025 17:17:15.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> NOOOOOOOOOOOOOOOOOOOO MI PERROOOOOOOOOOOOOOOOOOOOOOOOOOOO
 [14Apr2025 17:17:30.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> NOOOOOOOOOOO
+[14Apr2025 17:20:09.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> un sec a comer
+[14Apr2025 17:20:47.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Timed out
+[14Apr2025 17:20:47.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
+[14Apr2025 17:22:43.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [A Seedy Place]
+[14Apr2025 17:25:38.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Enchanter]
+[14Apr2025 17:31:58.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest lost connection: Disconnected
+[14Apr2025 17:31:58.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest left the game
+[14Apr2025 17:32:18.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.157.80.225:35229] logged in with entity id 34842 at (539.3212453932645, -5.0, 343.4493657237902)
+[14Apr2025 17:32:18.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
+[14Apr2025 17:34:16.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to 201.500000, 112.000000, 150.500000]

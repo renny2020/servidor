@@ -311,6 +311,7 @@
       "apple": "2025-04-12 19:01:58 +0000",
       "bread": "2025-04-13 19:21:21 +0000",
       "cookie": "2025-04-13 19:03:20 +0000",
+      "rotten_flesh": "2025-04-14 17:23:36 +0000",
       "cooked_chicken": "2025-04-12 18:58:06 +0000",
       "carrot": "2025-04-14 17:09:10 +0000"
     },
@@ -457,6 +458,18 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-04-14 17:07:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-14 17:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-14 17:22:43 +0000"
     },
     "done": true
   },
