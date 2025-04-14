@@ -866,3 +866,8 @@
 [14Apr2025 14:55:49.795] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
 [14Apr2025 14:56:55.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Disconnected
 [14Apr2025 14:56:55.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
+[14Apr2025 15:01:07.216] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alest[/127.187.155.65:48129] logged in with entity id 4097 at (238.85283623239425, 123.0, 206.80331244133518)
+[14Apr2025 15:01:07.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest joined the game
+[14Apr2025 15:11:35.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Alest a server operator
+[14Apr2025 15:12:42.521] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
+[14Apr2025 15:12:42.522] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
