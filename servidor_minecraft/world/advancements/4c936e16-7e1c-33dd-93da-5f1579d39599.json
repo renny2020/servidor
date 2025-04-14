@@ -223,11 +223,13 @@
       "minecraft:beach": "2025-04-12 18:31:54 +0000",
       "minecraft:river": "2025-04-12 18:36:26 +0000",
       "minecraft:stony_shore": "2025-04-12 18:32:09 +0000",
+      "minecraft:grove": "2025-04-14 19:53:07 +0000",
       "minecraft:jagged_peaks": "2025-04-12 18:56:46 +0000",
       "minecraft:forest": "2025-04-12 18:19:20 +0000",
       "minecraft:flower_forest": "2025-04-12 19:29:49 +0000",
       "minecraft:deep_dark": "2025-04-13 18:25:57 +0000",
       "minecraft:meadow": "2025-04-12 18:43:03 +0000",
+      "minecraft:savanna": "2025-04-14 20:04:19 +0000",
       "minecraft:plains": "2025-04-12 18:18:08 +0000"
     },
     "done": false
@@ -477,6 +479,12 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-04-14 19:11:46 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-04-14 20:05:22 +0000"
     },
     "done": true
   },
