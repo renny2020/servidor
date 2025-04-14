@@ -182,13 +182,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-12 20:05:10 +0000",
+      "minecraft:frozen_river": "2025-04-14 18:05:05 +0000",
       "quark:glimmering_weald": "2025-04-13 18:58:49 +0000",
       "minecraft:sunflower_plains": "2025-04-14 17:09:49 +0000",
       "minecraft:beach": "2025-04-12 17:37:36 +0000",
       "minecraft:river": "2025-04-12 17:34:11 +0000",
       "minecraft:stony_shore": "2025-04-12 17:38:36 +0000",
+      "minecraft:snowy_plains": "2025-04-14 18:05:42 +0000",
+      "minecraft:snowy_taiga": "2025-04-14 18:05:29 +0000",
+      "minecraft:grove": "2025-04-14 18:05:31 +0000",
       "minecraft:jagged_peaks": "2025-04-12 18:56:33 +0000",
+      "minecraft:cold_ocean": "2025-04-14 18:04:43 +0000",
       "minecraft:forest": "2025-04-12 17:27:46 +0000",
+      "minecraft:frozen_ocean": "2025-04-14 18:05:00 +0000",
+      "minecraft:snowy_beach": "2025-04-14 18:04:56 +0000",
       "minecraft:flower_forest": "2025-04-12 20:05:59 +0000",
       "minecraft:deep_dark": "2025-04-12 19:41:16 +0000",
       "minecraft:meadow": "2025-04-12 18:00:46 +0000",
@@ -525,6 +532,12 @@
   "quark:get_forgotten_hat": {
     "criteria": {
       "get_forgotten_hat": "2025-04-14 17:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-14 18:07:42 +0000"
     },
     "done": true
   },
