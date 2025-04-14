@@ -876,3 +876,7 @@
 [14Apr2025 15:32:48.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest left the game
 [14Apr2025 15:33:47.260] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alest[/127.187.155.65:51973] logged in with entity id 9668 at (214.9616055380116, 112.0, 297.28481145213135)
 [14Apr2025 15:33:47.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest joined the game
+[14Apr2025 15:41:34.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest lost connection: Disconnected
+[14Apr2025 15:41:34.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest left the game
+[14Apr2025 15:45:57.358] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alest[/127.187.155.65:36571] logged in with entity id 11447 at (252.15287844067657, 125.0, 209.4336689991611)
+[14Apr2025 15:45:57.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest joined the game
