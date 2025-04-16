@@ -6391,3 +6391,22 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Apr2025 19:40:11.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> a la final nada
 [16Apr2025 19:40:17.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> ?
 [16Apr2025 19:40:28.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> nop
+[16Apr2025 19:40:44.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> pero disque las coord 4000 12000
+[16Apr2025 19:40:55.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 19:40:55.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 19:45:55.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 19:45:55.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 19:49:05.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> a verga se me desconecto el mouse
+[16Apr2025 19:49:11.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> ñelda
+[16Apr2025 19:49:27.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> puede que reinicie
+[16Apr2025 19:49:27.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> VAMOOOOOOOO
+[16Apr2025 19:49:30.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> SI HAY
+[16Apr2025 19:49:35.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> eh
+[16Apr2025 19:49:41.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> DESIERTO
+[16Apr2025 19:50:15.511] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.world.Containers
+[16Apr2025 19:50:15.512] [Server thread/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[16Apr2025 19:50:21.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> onde
+[16Apr2025 19:50:41.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> -4167 9750
+[16Apr2025 19:50:55.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 19:50:55.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 19:51:19.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> mmmmmmmm
