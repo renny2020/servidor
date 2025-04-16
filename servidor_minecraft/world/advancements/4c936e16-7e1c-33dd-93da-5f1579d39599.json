@@ -527,5 +527,17 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-16 20:18:43 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-04-16 20:15:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
