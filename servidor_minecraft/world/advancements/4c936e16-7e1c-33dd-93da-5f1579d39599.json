@@ -220,13 +220,18 @@
       "minecraft:snowy_slopes": "2025-04-13 18:02:08 +0000",
       "quark:glimmering_weald": "2025-04-13 18:57:35 +0000",
       "minecraft:sunflower_plains": "2025-04-14 15:56:16 +0000",
+      "minecraft:bamboo_jungle": "2025-04-16 19:01:20 +0000",
       "minecraft:beach": "2025-04-12 18:31:54 +0000",
+      "minecraft:sparse_jungle": "2025-04-16 19:01:31 +0000",
       "minecraft:river": "2025-04-12 18:36:26 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-16 19:13:23 +0000",
       "minecraft:stony_shore": "2025-04-12 18:32:09 +0000",
       "minecraft:grove": "2025-04-14 19:53:07 +0000",
       "minecraft:jagged_peaks": "2025-04-12 18:56:46 +0000",
       "minecraft:forest": "2025-04-12 18:19:20 +0000",
+      "minecraft:jungle": "2025-04-16 18:52:10 +0000",
       "minecraft:flower_forest": "2025-04-12 19:29:49 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-16 19:03:05 +0000",
       "minecraft:deep_dark": "2025-04-13 18:25:57 +0000",
       "minecraft:meadow": "2025-04-12 18:43:03 +0000",
       "minecraft:savanna": "2025-04-14 20:04:19 +0000",
@@ -485,6 +490,30 @@
   "mowziesmobs:kill_umvuthi": {
     "criteria": {
       "barako": "2025-04-14 20:05:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-04-16 18:55:36 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-04-16 18:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-16 19:30:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-04-16 19:28:24 +0000"
     },
     "done": true
   },

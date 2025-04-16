@@ -1,26 +1,26 @@
-[14Apr2025 17:53:02.226] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[14Apr2025 17:53:02.237] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[14Apr2025 17:53:05.379] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[14Apr2025 17:53:05.453] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/servidor/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[14Apr2025 17:53:06.050] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[14Apr2025 17:53:06.052] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14Apr2025 17:53:06.053] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14Apr2025 17:53:06.054] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14Apr2025 17:53:06.519] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
-[14Apr2025 17:53:09.584] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[14Apr2025 17:53:09.760] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[14Apr2025 17:53:09.762] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[14Apr2025 17:53:10.568] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
-[14Apr2025 17:53:10.571] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/gregtechmodernce.xml
-[14Apr2025 17:53:10.574] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
-[14Apr2025 17:53:10.575] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
-[14Apr2025 17:53:10.577] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
-[14Apr2025 17:53:10.578] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
-[14Apr2025 17:53:10.580] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
-[14Apr2025 17:53:10.582] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
-[14Apr2025 17:53:10.600] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 89 options available, 0 override(s) found
-[14Apr2025 17:53:10.725] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[14Apr2025 17:53:10.758] [main/INFO] [Puzzles Lib/]: Loading 43 mods:
+[16Apr2025 18:40:00.807] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[16Apr2025 18:40:00.812] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[16Apr2025 18:40:01.702] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[16Apr2025 18:40:01.765] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/servidor/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[16Apr2025 18:40:02.161] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[16Apr2025 18:40:02.163] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Apr2025 18:40:02.164] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Apr2025 18:40:02.165] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Apr2025 18:40:02.495] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
+[16Apr2025 18:40:04.515] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[16Apr2025 18:40:04.668] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[16Apr2025 18:40:04.670] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[16Apr2025 18:40:05.200] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
+[16Apr2025 18:40:05.203] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/gregtechmodernce.xml
+[16Apr2025 18:40:05.206] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
+[16Apr2025 18:40:05.207] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
+[16Apr2025 18:40:05.208] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
+[16Apr2025 18:40:05.210] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
+[16Apr2025 18:40:05.211] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
+[16Apr2025 18:40:05.213] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
+[16Apr2025 18:40:05.225] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 89 options available, 0 override(s) found
+[16Apr2025 18:40:05.311] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Apr2025 18:40:05.335] [main/INFO] [Puzzles Lib/]: Loading 43 mods:
 	- ambientsounds 6.1.6
 	- architectury 9.2.14
 	- artifacts 9.5.13
@@ -66,684 +66,698 @@
 	- treechop 0.19.0
 	- xpbook 2.2.1
 	- zeta 1.0-24
-[14Apr2025 17:53:12.751] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
-[14Apr2025 17:53:12.980] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
-[14Apr2025 17:53:13.321] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[14Apr2025 17:53:22.052] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[14Apr2025 17:53:22.056] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[14Apr2025 17:53:22.061] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[14Apr2025 17:53:22.069] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[14Apr2025 17:53:22.075] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[14Apr2025 17:53:22.083] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[14Apr2025 17:53:22.085] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[14Apr2025 17:53:22.088] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[14Apr2025 17:53:22.336] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[14Apr2025 17:53:22.337] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[14Apr2025 17:53:22.339] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[14Apr2025 17:53:22.339] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[14Apr2025 17:53:22.339] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[14Apr2025 17:53:22.339] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[14Apr2025 17:53:22.339] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[14Apr2025 17:53:22.640] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[14Apr2025 17:53:22.640] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[14Apr2025 17:53:23.057] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[14Apr2025 17:53:23.260] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[14Apr2025 17:53:23.832] [modloading-worker-0/INFO] [quark-zeta/]: Discovered 164 modules to load.
-[14Apr2025 17:53:23.833] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Abacus...
-[14Apr2025 17:53:23.845] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Adjustable Chat...
-[14Apr2025 17:53:23.845] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ambient Discs...
-[14Apr2025 17:53:23.846] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Tomes...
-[14Apr2025 17:53:23.874] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Wood...
-[14Apr2025 17:53:23.910] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Armed Armor Stands...
-[14Apr2025 17:53:23.913] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Auto Walk Keybind...
-[14Apr2025 17:53:23.917] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Recipe Unlock...
-[14Apr2025 17:53:23.918] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Tool Restock...
-[14Apr2025 17:53:23.934] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Azalea Wood...
-[14Apr2025 17:53:23.935] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Back Button Keybind...
-[14Apr2025 17:53:23.935] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Backpack...
-[14Apr2025 17:53:23.960] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beacon Redirection...
-[14Apr2025 17:53:23.961] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Better Elytra Rocket...
-[14Apr2025 17:53:23.961] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Big Stone Clusters...
-[14Apr2025 17:53:23.989] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Blossom Trees...
-[14Apr2025 17:53:23.991] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Bottled Cloud...
-[14Apr2025 17:53:24.002] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Buckets Show Inhabitants...
-[14Apr2025 17:53:24.005] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Camera...
-[14Apr2025 17:53:24.010] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Campfires Boost Elytra...
-[14Apr2025 17:53:24.011] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Celebratory Lamps...
-[14Apr2025 17:53:24.011] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chains Connect Blocks...
-[14Apr2025 17:53:24.012] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chest Searching...
-[14Apr2025 17:53:24.015] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chorus Vegetation...
-[14Apr2025 17:53:24.018] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chute...
-[14Apr2025 17:53:24.027] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Climate Control Remover...
-[14Apr2025 17:53:24.029] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Color Runes...
-[14Apr2025 17:53:24.038] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compasses Work Everywhere...
-[14Apr2025 17:53:24.044] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compressed Blocks...
-[14Apr2025 17:53:24.045] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Coral On Cactus...
-[14Apr2025 17:53:24.045] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Corundum...
-[14Apr2025 17:53:24.098] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crabs...
-[14Apr2025 17:53:24.106] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[14Apr2025 17:53:24.107] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crafter...
-[14Apr2025 17:53:24.109] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[14Apr2025 17:53:24.109] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crate...
-[14Apr2025 17:53:24.112] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Diamond Repair...
-[14Apr2025 17:53:24.113] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dispensers Place Blocks...
-[14Apr2025 17:53:24.114] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Double Door Opening...
-[14Apr2025 17:53:24.115] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dragon Scales...
-[14Apr2025 17:53:24.116] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Duskbound Blocks...
-[14Apr2025 17:53:24.117] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dyeable Item Frames...
-[14Apr2025 17:53:24.120] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Easy Transfering...
-[14Apr2025 17:53:24.121] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Elytra Indicator...
-[14Apr2025 17:53:24.121] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Emotes...
-[14Apr2025 17:53:24.122] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantment Predicates...
-[14Apr2025 17:53:24.123] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantments Begone...
-[14Apr2025 17:53:24.126] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ender Watcher...
-[14Apr2025 17:53:24.128] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Endermosh Music Disc...
-[14Apr2025 17:53:24.130] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enhanced Ladders...
-[14Apr2025 17:53:24.131] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Expanded Item Interactions...
-[14Apr2025 17:53:24.133] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[14Apr2025 17:53:24.134] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fairy Rings...
-[14Apr2025 17:53:24.140] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fallen Logs...
-[14Apr2025 17:53:24.148] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Feeding Trough...
-[14Apr2025 17:53:24.154] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[14Apr2025 17:53:24.154] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Forgotten...
-[14Apr2025 17:53:24.175] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Foxhound...
-[14Apr2025 17:53:24.181] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Framed Glass...
-[14Apr2025 17:53:24.182] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Game Nerfs...
-[14Apr2025 17:53:24.183] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Item Frame...
-[14Apr2025 17:53:24.193] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[14Apr2025 17:53:24.194] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Shard...
-[14Apr2025 17:53:24.197] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glimmering Weald...
-[14Apr2025 17:53:24.227] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Bars...
-[14Apr2025 17:53:24.229] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Tools Have Fortune...
-[14Apr2025 17:53:24.237] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grab Chickens...
-[14Apr2025 17:53:24.243] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grate...
-[14Apr2025 17:53:24.252] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gravisand...
-[14Apr2025 17:53:24.254] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Greener Grass...
-[14Apr2025 17:53:24.257] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hedges...
-[14Apr2025 17:53:24.259] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hoe Harvesting...
-[14Apr2025 17:53:24.260] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hollow Logs...
-[14Apr2025 17:53:24.261] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Horses Swim...
-[14Apr2025 17:53:24.262] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hotbar Changer...
-[14Apr2025 17:53:24.263] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Sponges...
-[14Apr2025 17:53:24.264] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Tooltips...
-[14Apr2025 17:53:24.266] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Industrial Palette...
-[14Apr2025 17:53:24.277] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Inventory Sorting...
-[14Apr2025 17:53:24.282] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Iron Rod...
-[14Apr2025 17:53:24.315] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Item Sharing...
-[14Apr2025 17:53:24.318] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Japanese Palette...
-[14Apr2025 17:53:24.320] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Leaf Carpet...
-[14Apr2025 17:53:24.320] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Lock Rotation...
-[14Apr2025 17:53:24.321] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Long Range Pick Block...
-[14Apr2025 17:53:24.321] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magma Keeps Concrete Powder...
-[14Apr2025 17:53:24.321] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magnets...
-[14Apr2025 17:53:24.327] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[14Apr2025 17:53:24.330] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Map Washing...
-[14Apr2025 17:53:24.332] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Matrix Enchanting...
-[14Apr2025 17:53:24.355] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[14Apr2025 17:53:24.358] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Metal Buttons...
-[14Apr2025 17:53:24.360] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Microcrafting Helper...
-[14Apr2025 17:53:24.361] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Midori...
-[14Apr2025 17:53:24.364] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Monster Box...
-[14Apr2025 17:53:24.365] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Banner Layers...
-[14Apr2025 17:53:24.366] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Brick Types...
-[14Apr2025 17:53:24.367] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Mud Blocks...
-[14Apr2025 17:53:24.368] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Note Block Sounds...
-[14Apr2025 17:53:24.371] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Potted Plants...
-[14Apr2025 17:53:24.373] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[14Apr2025 17:53:24.376] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Villagers...
-[14Apr2025 17:53:24.376] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Narrator Readout...
-[14Apr2025 17:53:24.378] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Brick Fence Gate...
-[14Apr2025 17:53:24.378] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Obsidian Spikes...
-[14Apr2025 17:53:24.385] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module New Stone Types...
-[14Apr2025 17:53:24.389] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No Durability On Cosmetics...
-[14Apr2025 17:53:24.390] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No More Lava Pockets...
-[14Apr2025 17:53:24.390] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Obsidian Plate...
-[14Apr2025 17:53:24.391] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Overlay Shader...
-[14Apr2025 17:53:24.391] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Parrot Eggs...
-[14Apr2025 17:53:24.392] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[14Apr2025 17:53:24.392] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pat The Dogs...
-[14Apr2025 17:53:24.396] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pathfinder Maps...
-[14Apr2025 17:53:24.400] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Permafrost...
-[14Apr2025 17:53:24.402] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Petals On Water...
-[14Apr2025 17:53:24.405] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pickarang...
-[14Apr2025 17:53:24.407] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pig Litters...
-[14Apr2025 17:53:24.408] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pipes...
-[14Apr2025 17:53:24.421] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pistons Move Tile Entities...
-[14Apr2025 17:53:24.424] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Poison Potato Usage...
-[14Apr2025 17:53:24.428] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Quick Armor Swapping...
-[14Apr2025 17:53:24.429] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rainbow Lamps...
-[14Apr2025 17:53:24.429] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Raw Metal Bricks...
-[14Apr2025 17:53:24.429] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Reacharound Placing...
-[14Apr2025 17:53:24.431] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Redstone Randomizer...
-[14Apr2025 17:53:24.433] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Renewable Spore Blossoms...
-[14Apr2025 17:53:24.435] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Replace Scaffolding...
-[14Apr2025 17:53:24.436] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rope...
-[14Apr2025 17:53:24.440] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Safer Creatures...
-[14Apr2025 17:53:24.443] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Seed Pouch...
-[14Apr2025 17:53:24.450] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shear Vines...
-[14Apr2025 17:53:24.470] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shiba...
-[14Apr2025 17:53:24.473] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[14Apr2025 17:53:24.475] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shingles...
-[14Apr2025 17:53:24.475] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shulker Packing...
-[14Apr2025 17:53:24.476] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Simple Harvest...
-[14Apr2025 17:53:24.478] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Skull Pikes...
-[14Apr2025 17:53:24.483] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[14Apr2025 17:53:24.485] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slabs To Blocks...
-[14Apr2025 17:53:24.486] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slime In A Bucket...
-[14Apr2025 17:53:24.490] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slimes To Magma Cubes...
-[14Apr2025 17:53:24.491] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Snow Golem Player Heads...
-[14Apr2025 17:53:24.491] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Candles...
-[14Apr2025 17:53:24.491] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Sandstone...
-[14Apr2025 17:53:24.492] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spawner Replacer...
-[14Apr2025 17:53:24.492] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spiral Spires...
-[14Apr2025 17:53:24.501] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stonelings...
-[14Apr2025 17:53:24.504] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[14Apr2025 17:53:24.508] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stools...
-[14Apr2025 17:53:24.509] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[14Apr2025 17:53:24.509] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Sturdy Stone...
-[14Apr2025 17:53:24.510] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Thatch...
-[14Apr2025 17:53:24.513] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Tiny Potato...
-[14Apr2025 17:53:24.520] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Torch Arrow...
-[14Apr2025 17:53:24.529] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Toretoise...
-[14Apr2025 17:53:24.530] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[14Apr2025 17:53:24.530] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Totem Of Holding...
-[14Apr2025 17:53:24.537] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Trowel...
-[14Apr2025 17:53:24.539] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Usage Ticker...
-[14Apr2025 17:53:24.540] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Uses For Curses...
-[14Apr2025 17:53:24.541] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Utility Recipes...
-[14Apr2025 17:53:24.544] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Animal Textures...
-[14Apr2025 17:53:24.547] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Bookshelves...
-[14Apr2025 17:53:24.548] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Chests...
-[14Apr2025 17:53:24.587] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Furnaces...
-[14Apr2025 17:53:24.596] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Ladders...
-[14Apr2025 17:53:24.596] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Selector...
-[14Apr2025 17:53:24.599] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Planks...
-[14Apr2025 17:53:24.599] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Slabs...
-[14Apr2025 17:53:24.621] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vexes Die With Their Masters...
-[14Apr2025 17:53:24.627] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villager Rerolling Rework...
-[14Apr2025 17:53:24.637] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villagers Follow Emeralds...
-[14Apr2025 17:53:24.638] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wooden Posts...
-[14Apr2025 17:53:24.640] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wool Shuts Up Minecarts...
-[14Apr2025 17:53:24.641] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wraith...
-[14Apr2025 17:53:24.644] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
-[14Apr2025 17:53:24.644] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Zombie Villagers On Normal...
-[14Apr2025 17:53:24.645] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Stone Variants...
-[14Apr2025 17:53:24.646] [modloading-worker-0/INFO] [quark-zeta/]: Constructed 164 modules.
-[14Apr2025 17:53:24.736] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/servidor/servidor_minecraft/config/quark-common.toml is not correct. Correcting
-[14Apr2025 17:53:24.880] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@227a79e5 has been registered twice for the same name treechop:chop_wood.
-[14Apr2025 17:53:31.385] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
-[14Apr2025 17:53:31.791] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
-[14Apr2025 17:53:32.007] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
-[14Apr2025 17:53:32.027] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
-[14Apr2025 17:53:32.171] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[14Apr2025 17:53:32.171] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[14Apr2025 17:53:32.171] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[14Apr2025 17:53:32.172] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[14Apr2025 17:53:32.172] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[14Apr2025 17:53:32.172] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[14Apr2025 17:53:32.172] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[14Apr2025 17:53:32.172] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[14Apr2025 17:53:32.204] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: OUTDATED Current: 1.19.8 Target: 1.19.10
-[14Apr2025 17:53:32.205] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
-[14Apr2025 17:53:32.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.5 Target: null
-[14Apr2025 17:53:32.600] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
-[14Apr2025 17:53:32.713] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: UP_TO_DATE Current: 1.2.52 Target: null
-[14Apr2025 17:53:32.713] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[14Apr2025 17:53:33.247] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[14Apr2025 17:53:33.247] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[14Apr2025 17:53:33.260] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[14Apr2025 17:53:33.260] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[14Apr2025 17:53:33.272] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[14Apr2025 17:53:33.273] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[14Apr2025 17:53:34.240] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.8 Target: 1.20.1-1.4.13
-[14Apr2025 17:53:34.240] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[14Apr2025 17:53:34.450] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[14Apr2025 17:53:34.450] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[14Apr2025 17:53:34.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
-[14Apr2025 17:53:34.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[14Apr2025 17:53:34.528] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.2 Target: 8.9.4
-[14Apr2025 17:53:34.528] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[14Apr2025 17:53:34.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[14Apr2025 17:53:34.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[14Apr2025 17:53:34.553] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.25 Target: 8.1.32
-[14Apr2025 17:53:34.553] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsenchantments] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Enchantments/update.json
-[14Apr2025 17:53:34.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsenchantments] Found status: UP_TO_DATE Current: 1.10.8 Target: null
-[14Apr2025 17:53:34.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
-[14Apr2025 17:53:34.579] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
-[14Apr2025 17:53:34.579] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Starting version check at https://forge.curseupdate.com/433068/presencefootsteps
-[14Apr2025 17:53:34.850] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Found status: BETA Current: 1.20.1-1.9.1-beta.1 Target: 1.20.1-1.9.1-beta.1
-[14Apr2025 17:53:38.235] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14Apr2025 17:53:42.236] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/assets/.mcassetsroot' uses unexpected schema
-[14Apr2025 17:53:42.236] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/data/.mcassetsroot' uses unexpected schema
-[14Apr2025 17:53:48.209] [Worker-Main-5/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.2.jar
-[14Apr2025 17:53:49.249] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.249] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[14Apr2025 17:53:49.260] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.261] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.261] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.264] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.264] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.265] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.271] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.277] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[14Apr2025 17:53:49.278] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.279] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[14Apr2025 17:53:49.280] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.282] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.284] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.285] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[14Apr2025 17:53:49.287] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[14Apr2025 17:53:49.288] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[14Apr2025 17:53:49.289] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[14Apr2025 17:53:49.289] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.290] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[14Apr2025 17:53:49.293] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.295] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.296] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.296] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.298] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.300] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.301] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.301] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.302] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.303] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.304] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.305] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[14Apr2025 17:53:49.306] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.315] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[14Apr2025 17:53:49.316] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[14Apr2025 17:53:49.316] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.317] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.319] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.319] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.320] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.320] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.321] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[14Apr2025 17:53:49.322] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.323] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[14Apr2025 17:53:49.323] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[14Apr2025 17:53:49.324] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.325] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.326] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.327] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.327] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.328] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.328] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.330] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[14Apr2025 17:53:49.331] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[14Apr2025 17:53:49.332] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.335] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.337] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[14Apr2025 17:53:49.339] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.340] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[14Apr2025 17:53:49.340] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.341] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.342] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[14Apr2025 17:53:49.342] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[14Apr2025 17:53:49.343] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.343] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.344] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.344] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[14Apr2025 17:53:49.344] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[14Apr2025 17:53:49.345] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.345] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.346] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[14Apr2025 17:53:49.346] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.346] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[14Apr2025 17:53:49.347] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.347] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.349] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.349] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.350] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.352] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.353] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[14Apr2025 17:53:49.353] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.354] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[14Apr2025 17:53:49.354] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.355] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.357] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.358] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[14Apr2025 17:53:49.360] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.360] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.360] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.361] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.361] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.361] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.363] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.363] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.366] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.366] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[14Apr2025 17:53:49.368] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[14Apr2025 17:53:49.370] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[14Apr2025 17:53:49.370] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[14Apr2025 17:53:49.371] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[14Apr2025 17:53:49.373] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[14Apr2025 17:53:49.375] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.377] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.378] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.379] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[14Apr2025 17:53:49.380] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.380] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.383] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[14Apr2025 17:53:49.384] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.386] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.387] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.392] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.393] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[14Apr2025 17:53:49.393] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.396] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.397] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[14Apr2025 17:53:49.400] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.403] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.404] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.404] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.406] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.406] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.407] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[14Apr2025 17:53:49.409] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.410] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.410] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[14Apr2025 17:53:49.411] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[14Apr2025 17:53:49.412] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.413] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.415] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.417] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
-[14Apr2025 17:53:49.419] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.421] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.422] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
-[14Apr2025 17:53:49.423] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[14Apr2025 17:53:49.424] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.424] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.424] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[14Apr2025 17:53:49.425] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
-[14Apr2025 17:53:49.428] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
-[14Apr2025 17:53:49.428] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
-[14Apr2025 17:53:49.429] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.430] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
-[14Apr2025 17:53:49.433] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[14Apr2025 17:53:49.539] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 1534 recipe advancements
-[14Apr2025 17:53:49.547] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 371 advancements
-[14Apr2025 17:53:49.678] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[14Apr2025 17:53:49.683] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[14Apr2025 17:53:49.693] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
-[14Apr2025 17:53:49.693] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
-[14Apr2025 17:53:49.693] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
-[14Apr2025 17:53:49.694] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
-[14Apr2025 17:53:49.694] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 2 patches
-[14Apr2025 17:53:49.694] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 1 patches
-[14Apr2025 17:53:49.695] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
-[14Apr2025 17:53:49.695] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
-[14Apr2025 17:53:49.695] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
-[14Apr2025 17:53:53.469] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
-[14Apr2025 17:53:53.753] [main/INFO] [majruszlibrary/]: [majruszsenchantments.json] Reloading configuration file took 3 milliseconds
-[14Apr2025 17:53:53.754] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 0 milliseconds
-[14Apr2025 17:53:53.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[14Apr2025 17:53:53.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[14Apr2025 17:53:53.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[14Apr2025 17:53:53.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[14Apr2025 17:53:53.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[14Apr2025 17:53:53.874] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[14Apr2025 17:53:53.954] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14Apr2025 17:53:53.955] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[14Apr2025 17:53:53.955] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14Apr2025 17:53:53.955] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[14Apr2025 17:53:54.021] [Server thread/INFO] [portb.configlib.ConfigLib/]: Reading stacksize ruleset
-[14Apr2025 17:53:54.026] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
-[14Apr2025 17:53:54.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[14Apr2025 17:53:58.606] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[14Apr2025 17:53:59.186] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[14Apr2025 17:53:59.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[14Apr2025 17:54:02.408] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[14Apr2025 17:54:03.774] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 17:54:03.803] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 17:54:03.817] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 17:54:03.831] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 17:54:03.843] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 17:54:03.851] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 17:54:03.860] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 17:54:03.874] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 17:54:03.936] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 17:54:04.142] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 17:54:04.592] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[14Apr2025 17:54:04.636] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Apr2025 17:54:05.135] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
-[14Apr2025 17:54:05.625] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5991 ms
-[14Apr2025 17:54:05.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.656s)! For help, type "help"
-[14Apr2025 17:54:05.673] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[14Apr2025 17:54:05.690] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
-[14Apr2025 17:54:05.699] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
-[14Apr2025 17:54:05.738] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
-[14Apr2025 17:54:05.738] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
-[14Apr2025 17:54:05.739] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
-[14Apr2025 17:54:05.739] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
-[14Apr2025 17:54:05.762] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.jei due to unsatisfied mod condition.
-[14Apr2025 17:54:14.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alest[/127.187.155.65:47147] logged in with entity id 328 at (245.54644942427922, 119.0, 206.10633265097087)
-[14Apr2025 17:54:14.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest joined the game
-[14Apr2025 17:54:33.042] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.157.80.225:43475] logged in with entity id 564 at (291.4041951428337, 122.0, 205.59245364922884)
-[14Apr2025 17:54:33.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
-[14Apr2025 17:54:50.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> ya
-[14Apr2025 17:54:56.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> ok todo bien
-[14Apr2025 17:55:30.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> mimamod
-[14Apr2025 17:55:55.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> no tendras por un casual hueso
-[14Apr2025 17:56:03.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> 23
-[14Apr2025 17:56:11.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> miti miti
-[14Apr2025 17:56:18.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> ven
-[14Apr2025 17:56:38.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> excelente
-[14Apr2025 18:05:23.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 10.465756844025691,2.4586327628378655,-10.742559005981803
-[14Apr2025 18:05:23.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 9.839558410169843,2.3168175154269477,-10.092845798030453
-[14Apr2025 18:05:23.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 9.209625437501018,2.175170924065384,-9.446122825833044
-[14Apr2025 18:05:23.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 8.577289224959145,2.0310712512904274,-8.801903905996738
-[14Apr2025 18:05:23.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 7.939649284932898,1.88792907368439,-8.162251105184026
-[14Apr2025 18:05:23.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 7.292190384630885,1.7470918667184776,-7.530938928441884
-[14Apr2025 18:07:23.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 11.72878655165573,1.172849269174435,10.620765016967084
-[14Apr2025 18:07:23.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 11.017617073504198,1.115518683689956,10.065226968653747
-[14Apr2025 18:07:23.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 10.315193726631946,1.069013512375335,9.498756906765493
-[14Apr2025 18:07:23.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 9.620733994309603,1.003445035790179,8.922673042960923
-[14Apr2025 18:07:23.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 8.93355232632689,0.9362148590551982,8.338045835151206
-[14Apr2025 18:07:23.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 8.249966889487837,0.8718151243281653,7.7501854303914115
-[14Apr2025 18:07:23.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 7.575168582808374,0.8063960977538898,7.151603164101175
-[14Apr2025 18:07:42.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Ice Bucket Challenge]
-[14Apr2025 18:07:51.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> what
-[14Apr2025 18:07:53.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> yeyeyeye
-[14Apr2025 18:07:59.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> compalta
-[14Apr2025 18:08:02.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> pero si lo obtuve antes
-[14Apr2025 18:08:26.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> el logro era miniarla
-[14Apr2025 18:08:52.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 drowned
-[14Apr2025 18:08:52.969] [Server thread/INFO] [tombstone/]: The player renny_lopez_2020 has successfully been saved
-[14Apr2025 18:09:01.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> QUE PASO
-[14Apr2025 18:09:03.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> hehehehhehe
-[14Apr2025 18:09:21.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to -599.500000, 40.000000, 719.500000]
-[14Apr2025 18:09:31.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> eeeeyyy eso no
-[14Apr2025 18:09:49.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Creative Mode]
-[14Apr2025 18:09:56.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> EEEEYYYYYY
-[14Apr2025 18:10:04.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> YA ESTUBO
-[14Apr2025 18:10:19.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> ESPERA
-[14Apr2025 18:10:38.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> literalmente me caido al agua
-[14Apr2025 18:10:44.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Disconnected
-[14Apr2025 18:10:44.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
-[14Apr2025 18:10:44.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alest: Kicked renny_lopez_2020: Kicked by an operator]
-[14Apr2025 18:10:45.030] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[14Apr2025 18:11:10.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.157.80.225:60271] logged in with entity id 8359 at (-602.9012702090957, 54.92727281335581, 718.3053843844652)
-[14Apr2025 18:11:10.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
-[14Apr2025 18:11:18.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> no creativo
-[14Apr2025 18:11:34.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> DESGRACIADO NO PUEDO NADAR EN EL AGUA
-[14Apr2025 18:11:35.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> no tp
-[14Apr2025 18:11:44.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> ey como asi
-[14Apr2025 18:11:53.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> NO ME DEJA NADAR
-[14Apr2025 18:12:01.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> por eso el creativo
-[14Apr2025 18:12:12.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> tendrias hambre no
-[14Apr2025 18:12:47.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> mani perdi mi pechera
-[14Apr2025 18:12:53.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
-[14Apr2025 18:14:15.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> tengo una de las cosas para progresar
-[14Apr2025 18:16:28.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 moved wrongly!
-[14Apr2025 18:16:56.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> mani encotre el acumulador ambiental
-[14Apr2025 18:17:18.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> a este punto no podemos hacer nada con el
-[14Apr2025 18:19:37.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> xdd
-[14Apr2025 18:19:49.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> por que quema esa wea
-[14Apr2025 18:19:49.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> tonces que encotraste
-[14Apr2025 18:19:55.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> ni idea
-[14Apr2025 18:20:12.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> yo tengo de eso y mucho
-[14Apr2025 18:20:16.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> como 32
-[14Apr2025 18:20:28.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> hubieras dicho guevonado
-[14Apr2025 18:20:34.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> peldon
-[14Apr2025 18:20:52.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> igual que se hace con eso
-[14Apr2025 18:21:25.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> the hell
-[14Apr2025 18:21:34.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> QUE VERDA
-[14Apr2025 18:21:43.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> VERGA*
-[14Apr2025 18:21:52.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> joer pero me pegan cada rato
-[14Apr2025 18:22:01.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> explica
-[14Apr2025 18:22:10.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> ten
-[14Apr2025 18:22:11.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> loh espiritu
-[14Apr2025 18:22:16.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> aaaaaa
-[14Apr2025 18:22:39.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> y oe
-[14Apr2025 18:22:49.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> e
-[14Apr2025 18:22:53.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> ven
-[14Apr2025 18:22:59.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> voy
-[14Apr2025 18:23:36.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> tambien te consegui un libro de reparacion
-[14Apr2025 18:23:57.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> tecnicamente ya tenemos con el cofre
-[14Apr2025 18:24:07.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> pon la escoba ahi
-[14Apr2025 18:24:11.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> a ver
-[14Apr2025 18:24:17.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> no deja
-[14Apr2025 18:24:35.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> :O
-[14Apr2025 18:24:38.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> e mi sangre
-[14Apr2025 18:24:41.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> ya se como es
-[14Apr2025 18:24:42.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> y que raro
-[14Apr2025 18:25:12.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> aaaaaaaaa
-[14Apr2025 18:25:41.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> como
-[14Apr2025 18:25:46.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> que
-[14Apr2025 18:25:57.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> que dijiste quee sabias
-[14Apr2025 18:26:20.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> lo de la escoba
-[14Apr2025 18:27:01.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> a vrg
-[14Apr2025 18:27:01.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> PERDON
-[14Apr2025 18:28:28.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> balace a un niño
-[14Apr2025 18:28:34.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> se sintio bine
-[14Apr2025 18:28:40.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> xd
-[14Apr2025 18:28:41.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> xdxdxdxdxd
-[14Apr2025 18:28:47.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> y cual es esa
-[14Apr2025 18:28:56.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> akm
-[14Apr2025 18:29:02.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> vrg y vas a gastar balas
-[14Apr2025 18:29:03.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> pero con modi
-[14Apr2025 18:30:17.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> tecnicamente saco mucha polvora y como mi pico tiene fundicion me da de una los lingotes de cobre
-[14Apr2025 18:30:39.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> tonces puedo disparar a lo loco
-[14Apr2025 18:30:48.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> perro
-[14Apr2025 18:31:12.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> cuanta experiencia tienes
-[14Apr2025 18:31:20.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> puedes usar la mesa
-[14Apr2025 18:31:25.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> 17
-[14Apr2025 18:31:31.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> la use antes
-[14Apr2025 18:31:44.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> otia un peruano
-[14Apr2025 18:36:31.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> mani ontas
-[14Apr2025 18:36:35.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> no nada
-[14Apr2025 18:36:36.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> casa
-[14Apr2025 18:36:46.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> era para preguntar
-[14Apr2025 18:36:54.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> que se hace con este anillo
-[14Apr2025 18:37:12.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> da bufos
-[14Apr2025 18:37:21.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> y ya?
-[14Apr2025 18:37:39.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> pero te empiezan a pegar los espiritus
-[14Apr2025 18:38:19.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> pero que se hace con los espiritus
-[14Apr2025 18:38:38.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> esa s la cosa
-[14Apr2025 18:38:44.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> no sabes
-[14Apr2025 18:38:46.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> no me acuerdo
-[14Apr2025 18:39:16.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> aunque tambien para progresar en eso podemos hacer las gafas
-[14Apr2025 18:39:36.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> y
-[14Apr2025 18:39:58.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> vrg pa verlos y poder encerrarlos
-[14Apr2025 18:41:37.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> voa comer ya vengo
-[14Apr2025 18:41:38.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Disconnected
-[14Apr2025 18:41:38.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
-[14Apr2025 19:11:46.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Sneak 100]
-[14Apr2025 19:29:04.170] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/388, l='ServerLevel[world]', x=172.64, y=111.00, z=201.35] died, message: 'Farmer was slain by Zombie'
-[14Apr2025 19:41:56.485] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.157.80.225:36695] logged in with entity id 29203 at (378.9856395512511, 10.0, 418.69665499639535)
-[14Apr2025 19:41:56.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
-[14Apr2025 19:42:12.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> casi muero en la ansient city
-[14Apr2025 19:42:16.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> maniiii
-[14Apr2025 19:42:23.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> e
-[14Apr2025 19:42:27.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> xdddd
-[14Apr2025 19:43:42.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> y que ibas a decir
-[14Apr2025 19:43:59.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> no creia que estabas afk
-[14Apr2025 19:44:26.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> staba to cagao alla abajo
-[14Apr2025 19:44:32.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> xddd
-[14Apr2025 19:44:41.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> pero nojoda si limpiaste esa mierda
-[14Apr2025 19:45:10.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> cuando tuve esa akm mataba al guarden
-[14Apr2025 19:45:37.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> aaaaaaaaa no claro asi cualquiera
-[14Apr2025 19:51:41.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> y ahora porque puedo ver fantasmas
-[14Apr2025 19:56:17.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest lost connection: Disconnected
-[14Apr2025 19:56:17.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest left the game
-[14Apr2025 19:56:25.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to 201.500000, 112.000000, 150.500000]
-[14Apr2025 19:56:27.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alest[/127.187.155.65:54277] logged in with entity id 36736 at (1210.565342148542, 86.0, 91.79423630417372)
-[14Apr2025 19:56:27.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest joined the game
-[14Apr2025 19:57:27.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> MANI
-[14Apr2025 19:57:37.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> r
-[14Apr2025 19:57:39.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> e
-[14Apr2025 19:57:52.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> que paso
-[14Apr2025 19:58:01.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> encontre a el weon del sol
-[14Apr2025 19:58:10.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> EN DONDE
-[14Apr2025 19:58:21.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> necesito balas
-[14Apr2025 19:58:27.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> muchas balas
-[14Apr2025 19:58:43.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> hay que farmear en la noche
-[14Apr2025 19:59:05.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> 1237 46 85
-[14Apr2025 19:59:10.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> YA
-[14Apr2025 19:59:15.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> te prestare oro y hierro para que te hagas un mejor arma
-[14Apr2025 19:59:33.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> ya me hice la akm
-[14Apr2025 20:00:29.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> espera encotre algo
-[14Apr2025 20:00:43.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Your First Receptacle]
-[14Apr2025 20:00:57.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> khe
-[14Apr2025 20:01:42.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> man nde chuchas estas
-[14Apr2025 20:02:23.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> obde estas tu
-[14Apr2025 20:02:33.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> te veo
-[14Apr2025 20:02:35.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> chuca te mande coors
-[14Apr2025 20:02:51.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> perate no te acer ques
-[14Apr2025 20:02:54.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> shit
-[14Apr2025 20:03:19.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> pera hasque se valla la llubia
-[14Apr2025 20:03:30.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> y justo ando sin municion
-[14Apr2025 20:03:39.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> vrg
-[14Apr2025 20:05:22.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has completed the challenge [Praise the Sun]
-[14Apr2025 20:06:25.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> oe
-[14Apr2025 20:06:31.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> las macaras
-[14Apr2025 20:06:32.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> e
-[14Apr2025 20:07:35.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> pasa comida
-[14Apr2025 20:08:14.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> que grande
-[14Apr2025 20:08:19.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> epico
-[14Apr2025 20:08:25.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> terraria referencia
-[14Apr2025 20:08:31.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest lost connection: Disconnected
-[14Apr2025 20:08:31.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest left the game
-[14Apr2025 20:08:39.140] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alest[/127.187.155.65:47393] logged in with entity id 42618 at (1302.510623881908, 78.0, 69.80389580083505)
-[14Apr2025 20:08:39.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest joined the game
-[14Apr2025 20:08:42.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest lost connection: Disconnected
-[14Apr2025 20:08:42.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest left the game
-[14Apr2025 20:09:25.776] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9c22de3[id=<null>,name=Alest,properties={},legacy=false] (/127.187.155.65:36507) lost connection: Disconnected
-[14Apr2025 20:15:59.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Timed out
-[14Apr2025 20:15:59.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
-[14Apr2025 20:17:03.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.157.80.225:54807] logged in with entity id 49507 at (-449.2382828235757, 73.90446522904972, 310.60270505515183)
-[14Apr2025 20:17:03.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
-[14Apr2025 20:17:48.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Timed out
-[14Apr2025 20:17:48.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
-[14Apr2025 20:18:54.412] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@349c701e[id=<null>,name=renny_lopez_2020,properties={},legacy=false] (/127.157.80.225:57769) lost connection: Disconnected
-[14Apr2025 20:19:45.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.157.80.225:47971] logged in with entity id 50447 at (-9.216503094488694, 94.02223895519369, 226.27583265407333)
-[14Apr2025 20:19:45.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
-[14Apr2025 20:20:29.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 was kicked for floating a vehicle too long!
-[14Apr2025 20:20:29.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Flying is not enabled on this server
-[14Apr2025 20:20:29.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
-[14Apr2025 20:21:25.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.157.80.225:50627] logged in with entity id 51043 at (165.75004299607346, 94.02223895519369, 224.73550349318072)
-[14Apr2025 20:21:25.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
-[14Apr2025 20:25:22.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Creative Mode]
-[14Apr2025 20:27:11.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Set own game mode to Survival Mode]
-[14Apr2025 20:30:19.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [We Need to Go Deeper]
-[14Apr2025 20:30:21.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3047ms or 60 ticks behind
-[14Apr2025 20:31:38.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Those Were the Days]
-[14Apr2025 20:33:07.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 was slain by Piglin Brute
-[14Apr2025 20:33:07.179] [Server thread/INFO] [tombstone/]: The player renny_lopez_2020 has successfully been saved
-[14Apr2025 20:33:26.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to 90.500000, 86.000000, 69.500000]
-[14Apr2025 20:33:27.120] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Timed out
-[14Apr2025 20:33:27.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
-[14Apr2025 20:34:04.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.157.80.225:57171] logged in with entity id 53181 at (90.5, 86.0, 69.5)
-[14Apr2025 20:34:04.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
-[14Apr2025 20:34:20.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to 201.500000, 112.000000, 150.500000]
-[14Apr2025 20:35:22.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has reached the goal [Here They Come]
-[14Apr2025 20:35:28.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [War Pigs]
-[14Apr2025 20:38:37.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to 38.500000, 88.000000, 27.500000]
-[14Apr2025 20:43:32.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [A Terrible Fortress]
-[14Apr2025 20:47:16.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has made the advancement [Into Fire]
-[14Apr2025 20:56:52.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to 38.500000, 88.000000, 27.500000]
-[14Apr2025 20:58:05.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [renny_lopez_2020: Teleported renny_lopez_2020 to -492.500000, 72.000000, 630.500000]
-[14Apr2025 20:58:12.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has reached the goal [Pray to the Goddess]
-[14Apr2025 21:00:08.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Disconnected
-[14Apr2025 21:00:08.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
+[16Apr2025 18:40:06.643] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/config/ConfigManager (java.lang.ClassNotFoundException: noobanidus.mods.lootr.config.ConfigManager)
+[16Apr2025 18:40:06.944] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
+[16Apr2025 18:40:07.093] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[16Apr2025 18:40:13.509] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[16Apr2025 18:40:13.513] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[16Apr2025 18:40:13.518] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[16Apr2025 18:40:13.519] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[16Apr2025 18:40:13.521] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[16Apr2025 18:40:13.525] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[16Apr2025 18:40:13.526] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[16Apr2025 18:40:13.527] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[16Apr2025 18:40:13.765] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[16Apr2025 18:40:13.770] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[16Apr2025 18:40:13.771] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[16Apr2025 18:40:13.771] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[16Apr2025 18:40:13.772] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[16Apr2025 18:40:13.772] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[16Apr2025 18:40:13.773] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[16Apr2025 18:40:14.049] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[16Apr2025 18:40:14.050] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[16Apr2025 18:40:14.352] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[16Apr2025 18:40:14.494] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[16Apr2025 18:40:14.723] [modloading-worker-0/INFO] [quark-zeta/]: Discovered 164 modules to load.
+[16Apr2025 18:40:14.726] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Abacus...
+[16Apr2025 18:40:14.738] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Adjustable Chat...
+[16Apr2025 18:40:14.738] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ambient Discs...
+[16Apr2025 18:40:14.740] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Tomes...
+[16Apr2025 18:40:14.762] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ancient Wood...
+[16Apr2025 18:40:14.779] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Armed Armor Stands...
+[16Apr2025 18:40:14.780] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Auto Walk Keybind...
+[16Apr2025 18:40:14.780] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Recipe Unlock...
+[16Apr2025 18:40:14.780] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Automatic Tool Restock...
+[16Apr2025 18:40:14.783] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Azalea Wood...
+[16Apr2025 18:40:14.783] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Back Button Keybind...
+[16Apr2025 18:40:14.784] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Backpack...
+[16Apr2025 18:40:14.791] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Beacon Redirection...
+[16Apr2025 18:40:14.792] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Better Elytra Rocket...
+[16Apr2025 18:40:14.794] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Big Stone Clusters...
+[16Apr2025 18:40:14.802] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Blossom Trees...
+[16Apr2025 18:40:14.806] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Bottled Cloud...
+[16Apr2025 18:40:14.807] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Buckets Show Inhabitants...
+[16Apr2025 18:40:14.808] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Camera...
+[16Apr2025 18:40:14.809] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Campfires Boost Elytra...
+[16Apr2025 18:40:14.810] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Celebratory Lamps...
+[16Apr2025 18:40:14.810] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chains Connect Blocks...
+[16Apr2025 18:40:14.810] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chest Searching...
+[16Apr2025 18:40:14.811] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chorus Vegetation...
+[16Apr2025 18:40:14.814] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Chute...
+[16Apr2025 18:40:14.816] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Climate Control Remover...
+[16Apr2025 18:40:14.816] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Color Runes...
+[16Apr2025 18:40:14.819] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compasses Work Everywhere...
+[16Apr2025 18:40:14.820] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Compressed Blocks...
+[16Apr2025 18:40:14.821] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Coral On Cactus...
+[16Apr2025 18:40:14.823] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Corundum...
+[16Apr2025 18:40:14.857] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crabs...
+[16Apr2025 18:40:14.861] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[16Apr2025 18:40:14.863] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crafter...
+[16Apr2025 18:40:14.866] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[16Apr2025 18:40:14.867] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Crate...
+[16Apr2025 18:40:14.868] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Diamond Repair...
+[16Apr2025 18:40:14.869] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dispensers Place Blocks...
+[16Apr2025 18:40:14.870] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Double Door Opening...
+[16Apr2025 18:40:14.870] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dragon Scales...
+[16Apr2025 18:40:14.871] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Duskbound Blocks...
+[16Apr2025 18:40:14.871] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Dyeable Item Frames...
+[16Apr2025 18:40:14.873] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Easy Transfering...
+[16Apr2025 18:40:14.874] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Elytra Indicator...
+[16Apr2025 18:40:14.874] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Emotes...
+[16Apr2025 18:40:14.875] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantment Predicates...
+[16Apr2025 18:40:14.875] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enchantments Begone...
+[16Apr2025 18:40:14.876] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Ender Watcher...
+[16Apr2025 18:40:14.877] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Endermosh Music Disc...
+[16Apr2025 18:40:14.878] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Enhanced Ladders...
+[16Apr2025 18:40:14.879] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Expanded Item Interactions...
+[16Apr2025 18:40:14.880] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[16Apr2025 18:40:14.881] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fairy Rings...
+[16Apr2025 18:40:14.882] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Fallen Logs...
+[16Apr2025 18:40:14.886] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Feeding Trough...
+[16Apr2025 18:40:14.888] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[16Apr2025 18:40:14.889] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Forgotten...
+[16Apr2025 18:40:14.898] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Foxhound...
+[16Apr2025 18:40:14.899] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Framed Glass...
+[16Apr2025 18:40:14.899] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Game Nerfs...
+[16Apr2025 18:40:14.900] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Item Frame...
+[16Apr2025 18:40:14.902] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[16Apr2025 18:40:14.905] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glass Shard...
+[16Apr2025 18:40:14.906] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Glimmering Weald...
+[16Apr2025 18:40:14.921] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Bars...
+[16Apr2025 18:40:14.921] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gold Tools Have Fortune...
+[16Apr2025 18:40:14.924] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grab Chickens...
+[16Apr2025 18:40:14.925] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Grate...
+[16Apr2025 18:40:14.928] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Gravisand...
+[16Apr2025 18:40:14.929] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Greener Grass...
+[16Apr2025 18:40:14.931] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hedges...
+[16Apr2025 18:40:14.933] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hoe Harvesting...
+[16Apr2025 18:40:14.933] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hollow Logs...
+[16Apr2025 18:40:14.934] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Horses Swim...
+[16Apr2025 18:40:14.935] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Hotbar Changer...
+[16Apr2025 18:40:14.935] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Sponges...
+[16Apr2025 18:40:14.936] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Improved Tooltips...
+[16Apr2025 18:40:14.937] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Industrial Palette...
+[16Apr2025 18:40:14.938] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Inventory Sorting...
+[16Apr2025 18:40:14.939] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Iron Rod...
+[16Apr2025 18:40:14.948] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Item Sharing...
+[16Apr2025 18:40:14.949] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Japanese Palette...
+[16Apr2025 18:40:14.949] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Leaf Carpet...
+[16Apr2025 18:40:14.950] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Lock Rotation...
+[16Apr2025 18:40:14.950] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Long Range Pick Block...
+[16Apr2025 18:40:14.951] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magma Keeps Concrete Powder...
+[16Apr2025 18:40:14.951] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Magnets...
+[16Apr2025 18:40:14.954] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[16Apr2025 18:40:14.954] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Map Washing...
+[16Apr2025 18:40:14.955] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Matrix Enchanting...
+[16Apr2025 18:40:14.962] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[16Apr2025 18:40:14.962] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Metal Buttons...
+[16Apr2025 18:40:14.963] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Microcrafting Helper...
+[16Apr2025 18:40:14.963] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Midori...
+[16Apr2025 18:40:14.964] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Monster Box...
+[16Apr2025 18:40:14.965] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Banner Layers...
+[16Apr2025 18:40:14.965] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Brick Types...
+[16Apr2025 18:40:14.966] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Mud Blocks...
+[16Apr2025 18:40:14.966] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Note Block Sounds...
+[16Apr2025 18:40:14.967] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Potted Plants...
+[16Apr2025 18:40:14.967] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[16Apr2025 18:40:14.968] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Villagers...
+[16Apr2025 18:40:14.968] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Narrator Readout...
+[16Apr2025 18:40:14.969] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Brick Fence Gate...
+[16Apr2025 18:40:14.969] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Nether Obsidian Spikes...
+[16Apr2025 18:40:14.971] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module New Stone Types...
+[16Apr2025 18:40:14.973] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No Durability On Cosmetics...
+[16Apr2025 18:40:14.974] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module No More Lava Pockets...
+[16Apr2025 18:40:14.974] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Obsidian Plate...
+[16Apr2025 18:40:14.975] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Overlay Shader...
+[16Apr2025 18:40:14.975] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Parrot Eggs...
+[16Apr2025 18:40:14.976] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[16Apr2025 18:40:14.976] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pat The Dogs...
+[16Apr2025 18:40:14.978] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pathfinder Maps...
+[16Apr2025 18:40:14.980] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Permafrost...
+[16Apr2025 18:40:14.981] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Petals On Water...
+[16Apr2025 18:40:14.982] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pickarang...
+[16Apr2025 18:40:14.984] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pig Litters...
+[16Apr2025 18:40:14.985] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pipes...
+[16Apr2025 18:40:14.988] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Pistons Move Tile Entities...
+[16Apr2025 18:40:14.989] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Poison Potato Usage...
+[16Apr2025 18:40:14.990] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Quick Armor Swapping...
+[16Apr2025 18:40:14.990] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rainbow Lamps...
+[16Apr2025 18:40:14.991] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Raw Metal Bricks...
+[16Apr2025 18:40:14.992] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Reacharound Placing...
+[16Apr2025 18:40:14.993] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Redstone Randomizer...
+[16Apr2025 18:40:14.994] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Renewable Spore Blossoms...
+[16Apr2025 18:40:14.995] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Replace Scaffolding...
+[16Apr2025 18:40:14.995] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Rope...
+[16Apr2025 18:40:14.997] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Safer Creatures...
+[16Apr2025 18:40:14.999] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Seed Pouch...
+[16Apr2025 18:40:15.002] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shear Vines...
+[16Apr2025 18:40:15.009] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shiba...
+[16Apr2025 18:40:15.010] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[16Apr2025 18:40:15.010] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shingles...
+[16Apr2025 18:40:15.010] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Shulker Packing...
+[16Apr2025 18:40:15.011] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Simple Harvest...
+[16Apr2025 18:40:15.012] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Skull Pikes...
+[16Apr2025 18:40:15.014] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[16Apr2025 18:40:15.014] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slabs To Blocks...
+[16Apr2025 18:40:15.014] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slime In A Bucket...
+[16Apr2025 18:40:15.016] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Slimes To Magma Cubes...
+[16Apr2025 18:40:15.016] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Snow Golem Player Heads...
+[16Apr2025 18:40:15.017] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Candles...
+[16Apr2025 18:40:15.017] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Soul Sandstone...
+[16Apr2025 18:40:15.018] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spawner Replacer...
+[16Apr2025 18:40:15.018] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Spiral Spires...
+[16Apr2025 18:40:15.022] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stonelings...
+[16Apr2025 18:40:15.023] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[16Apr2025 18:40:15.024] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Stools...
+[16Apr2025 18:40:15.025] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[16Apr2025 18:40:15.025] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Sturdy Stone...
+[16Apr2025 18:40:15.026] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Thatch...
+[16Apr2025 18:40:15.028] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Tiny Potato...
+[16Apr2025 18:40:15.032] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Torch Arrow...
+[16Apr2025 18:40:15.035] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Toretoise...
+[16Apr2025 18:40:15.035] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[16Apr2025 18:40:15.035] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Totem Of Holding...
+[16Apr2025 18:40:15.038] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Trowel...
+[16Apr2025 18:40:15.040] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Usage Ticker...
+[16Apr2025 18:40:15.043] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Uses For Curses...
+[16Apr2025 18:40:15.045] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Utility Recipes...
+[16Apr2025 18:40:15.046] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Animal Textures...
+[16Apr2025 18:40:15.049] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Bookshelves...
+[16Apr2025 18:40:15.050] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Chests...
+[16Apr2025 18:40:15.071] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Furnaces...
+[16Apr2025 18:40:15.080] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Ladders...
+[16Apr2025 18:40:15.081] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Variant Selector...
+[16Apr2025 18:40:15.085] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Planks...
+[16Apr2025 18:40:15.085] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vertical Slabs...
+[16Apr2025 18:40:15.102] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Vexes Die With Their Masters...
+[16Apr2025 18:40:15.102] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villager Rerolling Rework...
+[16Apr2025 18:40:15.105] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Villagers Follow Emeralds...
+[16Apr2025 18:40:15.106] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wooden Posts...
+[16Apr2025 18:40:15.107] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wool Shuts Up Minecarts...
+[16Apr2025 18:40:15.107] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Wraith...
+[16Apr2025 18:40:15.109] [modloading-worker-0/ERROR] [zeta/]: Client event interface org.violetmoon.zeta.client.event.load.ZClientSetup was found in a non client only class!
+[16Apr2025 18:40:15.109] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module Zombie Villagers On Normal...
+[16Apr2025 18:40:15.109] [modloading-worker-0/INFO] [quark-zeta/]: Constructing module More Stone Variants...
+[16Apr2025 18:40:15.110] [modloading-worker-0/INFO] [quark-zeta/]: Constructed 164 modules.
+[16Apr2025 18:40:15.172] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/servidor/servidor_minecraft/config/quark-common.toml is not correct. Correcting
+[16Apr2025 18:40:15.334] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@128921c4 has been registered twice for the same name treechop:chop_wood.
+[16Apr2025 18:40:20.264] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
+[16Apr2025 18:40:20.701] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
+[16Apr2025 18:40:20.887] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
+[16Apr2025 18:40:20.945] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[16Apr2025 18:40:21.049] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[16Apr2025 18:40:21.049] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[16Apr2025 18:40:21.050] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[16Apr2025 18:40:21.050] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[16Apr2025 18:40:21.050] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[16Apr2025 18:40:21.051] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[16Apr2025 18:40:21.051] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[16Apr2025 18:40:21.051] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[16Apr2025 18:40:21.059] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: OUTDATED Current: 1.19.8 Target: 1.19.10
+[16Apr2025 18:40:21.061] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
+[16Apr2025 18:40:21.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[16Apr2025 18:40:21.465] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
+[16Apr2025 18:40:21.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: UP_TO_DATE Current: 1.2.52 Target: null
+[16Apr2025 18:40:21.479] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[16Apr2025 18:40:22.045] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[16Apr2025 18:40:22.045] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[16Apr2025 18:40:22.057] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[16Apr2025 18:40:22.058] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[16Apr2025 18:40:22.166] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[16Apr2025 18:40:22.167] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[16Apr2025 18:40:22.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.8 Target: 1.20.1-1.4.13
+[16Apr2025 18:40:22.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[16Apr2025 18:40:23.185] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[16Apr2025 18:40:23.186] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[16Apr2025 18:40:23.250] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[16Apr2025 18:40:23.251] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[16Apr2025 18:40:23.268] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.2 Target: 8.9.4
+[16Apr2025 18:40:23.269] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[16Apr2025 18:40:23.285] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[16Apr2025 18:40:23.285] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[16Apr2025 18:40:23.300] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.25 Target: 8.1.32
+[16Apr2025 18:40:23.301] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsenchantments] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Enchantments/update.json
+[16Apr2025 18:40:23.316] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsenchantments] Found status: UP_TO_DATE Current: 1.10.8 Target: null
+[16Apr2025 18:40:23.316] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[16Apr2025 18:40:23.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
+[16Apr2025 18:40:23.338] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Starting version check at https://forge.curseupdate.com/433068/presencefootsteps
+[16Apr2025 18:40:23.629] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Found status: BETA Current: 1.20.1-1.9.1-beta.1 Target: 1.20.1-1.9.1-beta.1
+[16Apr2025 18:40:26.818] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16Apr2025 18:40:31.607] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/assets/.mcassetsroot' uses unexpected schema
+[16Apr2025 18:40:31.607] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/data/.mcassetsroot' uses unexpected schema
+[16Apr2025 18:40:37.535] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.2.jar
+[16Apr2025 18:40:38.529] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.529] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[16Apr2025 18:40:38.541] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.542] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.542] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.544] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.545] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.545] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.552] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.558] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[16Apr2025 18:40:38.559] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.560] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[16Apr2025 18:40:38.561] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.563] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.565] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.566] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[16Apr2025 18:40:38.568] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[16Apr2025 18:40:38.569] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[16Apr2025 18:40:38.570] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[16Apr2025 18:40:38.570] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.571] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[16Apr2025 18:40:38.574] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.577] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.578] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.578] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.580] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.582] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.584] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.584] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.585] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.586] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.587] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.587] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[16Apr2025 18:40:38.589] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.598] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[16Apr2025 18:40:38.598] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[16Apr2025 18:40:38.599] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.602] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.604] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.604] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.604] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.605] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.606] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[16Apr2025 18:40:38.606] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.607] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[16Apr2025 18:40:38.608] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[16Apr2025 18:40:38.609] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.609] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.610] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.611] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.611] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.612] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.612] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.614] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[16Apr2025 18:40:38.614] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[16Apr2025 18:40:38.615] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.617] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.619] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[16Apr2025 18:40:38.621] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.622] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[16Apr2025 18:40:38.622] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.622] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.623] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[16Apr2025 18:40:38.624] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[16Apr2025 18:40:38.625] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.626] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.626] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.626] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[16Apr2025 18:40:38.627] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[16Apr2025 18:40:38.628] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.628] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.628] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[16Apr2025 18:40:38.628] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.629] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[16Apr2025 18:40:38.629] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.629] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.631] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.631] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.632] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.634] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.634] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[16Apr2025 18:40:38.635] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.636] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[16Apr2025 18:40:38.636] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.637] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.638] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.639] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[16Apr2025 18:40:38.641] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.641] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.641] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.641] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.642] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.642] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.643] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.644] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.646] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.647] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[16Apr2025 18:40:38.648] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[16Apr2025 18:40:38.649] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[16Apr2025 18:40:38.650] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[16Apr2025 18:40:38.650] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[16Apr2025 18:40:38.652] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[16Apr2025 18:40:38.654] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.655] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.655] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.656] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[16Apr2025 18:40:38.657] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.657] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.659] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[16Apr2025 18:40:38.660] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.661] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.662] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.665] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.666] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[16Apr2025 18:40:38.666] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.669] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.669] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[16Apr2025 18:40:38.671] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.674] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.674] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.674] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.675] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.675] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.676] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[16Apr2025 18:40:38.678] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.678] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.679] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[16Apr2025 18:40:38.679] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[16Apr2025 18:40:38.679] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.683] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.685] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.687] [main/WARN] [quark-zeta/]: Non-existent flag granite being used
+[16Apr2025 18:40:38.689] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.693] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.694] [main/WARN] [quark-zeta/]: Non-existent flag calcite being used
+[16Apr2025 18:40:38.694] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[16Apr2025 18:40:38.695] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.695] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.695] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[16Apr2025 18:40:38.696] [main/WARN] [quark-zeta/]: Non-existent flag andesite being used
+[16Apr2025 18:40:38.699] [main/WARN] [quark-zeta/]: Non-existent flag diorite being used
+[16Apr2025 18:40:38.699] [main/WARN] [quark-zeta/]: Non-existent flag dripstone being used
+[16Apr2025 18:40:38.700] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.701] [main/WARN] [quark-zeta/]: Non-existent flag tuff being used
+[16Apr2025 18:40:38.706] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[16Apr2025 18:40:38.805] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 1534 recipe advancements
+[16Apr2025 18:40:38.812] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 371 advancements
+[16Apr2025 18:40:38.949] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[16Apr2025 18:40:38.958] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[16Apr2025 18:40:38.970] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
+[16Apr2025 18:40:38.970] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[16Apr2025 18:40:38.971] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[16Apr2025 18:40:38.971] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[16Apr2025 18:40:38.971] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/balanced_diet with 2 patches
+[16Apr2025 18:40:38.972] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_effects with 1 patches
+[16Apr2025 18:40:38.972] [main/INFO] [quark-zeta/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
+[16Apr2025 18:40:38.972] [main/INFO] [quark-zeta/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[16Apr2025 18:40:38.972] [main/INFO] [quark-zeta/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[16Apr2025 18:40:43.169] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
+[16Apr2025 18:40:43.274] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 1 milliseconds
+[16Apr2025 18:40:43.277] [main/INFO] [majruszlibrary/]: [majruszsenchantments.json] Reloading configuration file took 2 milliseconds
+[16Apr2025 18:40:43.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[16Apr2025 18:40:43.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[16Apr2025 18:40:43.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[16Apr2025 18:40:43.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[16Apr2025 18:40:43.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[16Apr2025 18:40:43.398] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[16Apr2025 18:40:43.479] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16Apr2025 18:40:43.479] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[16Apr2025 18:40:43.480] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16Apr2025 18:40:43.480] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[16Apr2025 18:40:43.552] [Server thread/INFO] [portb.configlib.ConfigLib/]: Reading stacksize ruleset
+[16Apr2025 18:40:43.560] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
+[16Apr2025 18:40:43.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[16Apr2025 18:40:49.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[16Apr2025 18:40:53.133] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 18:40:53.164] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 18:40:53.173] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 18:40:53.188] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 18:40:53.198] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 18:40:53.210] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 18:40:53.222] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 18:40:53.235] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 18:40:53.244] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 18:40:53.766] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 18:40:54.238] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[16Apr2025 18:40:54.738] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
+[16Apr2025 18:40:55.103] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5866 ms
+[16Apr2025 18:40:55.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.611s)! For help, type "help"
+[16Apr2025 18:40:55.169] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[16Apr2025 18:40:55.189] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[16Apr2025 18:40:55.198] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
+[16Apr2025 18:40:55.240] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[16Apr2025 18:40:55.240] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[16Apr2025 18:40:55.241] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[16Apr2025 18:40:55.244] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
+[16Apr2025 18:40:55.287] [Server thread/INFO] [evilcraft/]: Skipped section info_book.evilcraftcompat.mod_integrations.jei due to unsatisfied mod condition.
+[16Apr2025 18:43:04.656] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: renny_lopez_2020[/127.218.0.29:53387] logged in with entity id 324 at (293.804507890095, 106.0, 204.49073283369367)
+[16Apr2025 18:43:04.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 joined the game
+[16Apr2025 18:45:42.864] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1bf6c3ee[id=<null>,name=Alest,properties={},legacy=false] (/127.187.155.65:56197) lost connection: Disconnected
+[16Apr2025 18:45:49.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alest[/127.187.155.65:41939] logged in with entity id 837 at (1302.510623881908, 78.0, 69.80389580083505)
+[16Apr2025 18:45:49.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest joined the game
+[16Apr2025 18:46:33.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> ontas
+[16Apr2025 18:46:35.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> donde chucha stoy
+[16Apr2025 18:46:43.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> AAAA YA DONDE ESTAS
+[16Apr2025 18:46:45.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> xddd
+[16Apr2025 18:47:01.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> recuerda que matamos al pajaro
+[16Apr2025 18:47:07.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> ci
+[16Apr2025 18:47:20.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> bueno ahi estas
+[16Apr2025 18:47:27.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> tay lejos mani
+[16Apr2025 18:47:32.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> te tepeo
+[16Apr2025 18:47:36.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> siento que mi sencibilidad esa muy xd hoy
+[16Apr2025 18:47:39.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> nel
+[16Apr2025 18:47:42.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> ok
+[16Apr2025 18:47:43.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> nada de eso
+[16Apr2025 18:47:51.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> y eso de la sensi
+[16Apr2025 18:48:41.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> okkkk que hay que hacer en el evil
+[16Apr2025 18:48:46.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> nojoa pero la mascara ddel pajaro no es como antes
+[16Apr2025 18:48:56.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> ya no tira rayos
+[16Apr2025 18:49:40.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> y estoy en eso de evilcraft
+[16Apr2025 18:51:18.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -10.05251041270435,-0.18603967987051817,-7.588327825707438
+[16Apr2025 18:51:18.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.332848408310923,-0.16488294973207474,-7.025674821457187
+[16Apr2025 18:51:18.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -8.610913414159484,-0.1493470540880253,-6.465512942793566
+[16Apr2025 18:51:19.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -17.107006240085326,-0.1014403411339373,-12.541515421502936
+[16Apr2025 18:51:19.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -17.107006240085326,-0.1014403411339373,-12.541515421502936
+[16Apr2025 18:51:19.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -17.107006240085326,-0.1014403411339373,-12.541515421502936
+[16Apr2025 18:51:19.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -17.110592546852416,-0.10078415360773363,-12.543265300333587
+[16Apr2025 18:51:19.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -17.091032739355853,-0.1138847503528666,-12.529170845580893
+[16Apr2025 18:51:19.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -17.791961454351394,-0.12634033607898232,-13.039368527722559
+[16Apr2025 18:51:20.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -17.77303519403486,-0.13928007978913115,-13.02570479261908
+[16Apr2025 18:51:20.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -18.476073534478644,-0.14918217247469556,-13.537140587651834
+[16Apr2025 18:51:20.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -18.45830719136208,-0.1579698322831149,-13.524249922512126
+[16Apr2025 18:51:20.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -18.440632200580694,-0.1646238104729747,-13.511423876590356
+[16Apr2025 18:51:20.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -17.700846839504777,-0.170519422700238,-12.973530744608752
+[16Apr2025 18:51:20.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -17.683487593648977,-0.17102100738939896,-12.960971049222849
+[16Apr2025 18:51:20.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -17.66621002539435,-0.16900847871609415,-12.948465440519385
+[16Apr2025 18:51:20.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -18.374436277933313,-0.11859496245125456,-13.46322199350243
+[16Apr2025 18:51:20.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -18.35810928934194,-0.12614710214521097,-13.451353574652444
+[16Apr2025 18:51:20.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -17.618271500522354,-0.14043364030973748,-12.913578098246717
+[16Apr2025 18:51:20.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -17.60205045359021,-0.15189585950633955,-12.901823903533682
+[16Apr2025 18:51:20.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -17.58615923351246,-0.16068634268530957,-12.89030645473872
+[16Apr2025 18:51:20.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -17.572806026144065,-0.16632078091373614,-12.88051101541248
+[16Apr2025 18:51:20.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -18.282475845236746,-0.16809543603238808,-13.396305395285367
+[16Apr2025 18:51:20.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -18.26758060072001,-0.16852378249589606,-13.38548736085852
+[16Apr2025 18:51:20.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -14.44760916325211,0.03599697838970428,-10.506291893955222
+[16Apr2025 18:51:20.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -14.44760916325211,0.03599697838970428,-10.506291893955222
+[16Apr2025 18:51:20.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -14.44760916325211,0.03599697838970428,-10.506291893955222
+[16Apr2025 18:51:20.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -13.72831991612594,0.03489085327035468,-9.982649699035505
+[16Apr2025 18:51:20.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -13.008570358203997,0.03366167859248037,-9.45877498384607
+[16Apr2025 18:51:20.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -11.56801410945755,0.030882035082598236,-8.410524078372077
+[16Apr2025 18:51:20.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -10.847253588124403,0.029352469986790197,-7.886164110236791
+[16Apr2025 18:51:20.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.404497878564854,0.026057483011967975,-6.836741674574569
+[16Apr2025 18:51:20.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -8.682521576394464,0.024307201095936648,-6.311680143804097
+[16Apr2025 18:52:01.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved wrongly! 0.3363897744533233
+[16Apr2025 18:52:19.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -11.097959295151782,-1.601999281013633,2.464810092300013
+[16Apr2025 18:52:19.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -10.224057871315836,-1.4902488448975362,2.2830459209950504
+[16Apr2025 18:53:05.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest moved too quickly! -7.8002454795419,-2.0499999999998835,-6.059383885568764
+[16Apr2025 18:53:05.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -19.16032272408006,7.61658368476661,8.596030428160589
+[16Apr2025 18:53:05.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -18.955312987990737,7.47892396877883,8.469562357291352
+[16Apr2025 18:53:05.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -18.73626935050902,7.3431514149800705,8.339502178034763
+[16Apr2025 18:53:05.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -18.502859140969804,7.208074711968848,8.20622663920426
+[16Apr2025 18:53:05.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -18.25526453494581,7.074326229105097,8.070039653315234
+[16Apr2025 18:53:05.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -17.993884564697964,6.939759006138772,7.93113796539285
+[16Apr2025 18:53:05.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -17.71913415068093,6.8053887190179125,7.789671874402984
+[16Apr2025 18:53:05.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -17.43131653749151,6.669374855054542,7.646045685567628
+[16Apr2025 18:53:05.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -17.144016857082534,6.5373923786257535,7.508743214395963
+[16Apr2025 18:53:05.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -16.85849454318827,6.408951379135985,7.379469817342738
+[16Apr2025 18:53:05.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -16.57453975116914,6.282327090208284,7.2596914618189885
+[16Apr2025 18:53:05.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -16.29141444738957,6.158412023129273,7.152285104292673
+[16Apr2025 18:53:05.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -16.009759174678948,6.035328947374936,7.056784787461652
+[16Apr2025 18:53:05.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -15.730324375288319,5.9132189588385415,6.9720247426741935
+[16Apr2025 18:53:05.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -15.453713189507653,5.79313779704502,6.897001820450214
+[16Apr2025 18:53:05.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -15.180409429272231,5.673679345834941,6.830667524781347
+[16Apr2025 18:53:05.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -14.910784971696557,5.557178926981251,6.772060649282935
+[16Apr2025 18:53:05.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -14.645120006323168,5.44216918556252,6.720315071004961
+[16Apr2025 18:53:05.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -14.383620894678643,5.331346766859426,6.674654206352216
+[16Apr2025 18:53:05.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -14.12643479457347,5.223360816713864,6.634383934226662
+[16Apr2025 18:53:05.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -13.873661517328173,5.120462659330471,6.598885345504982
+[16Apr2025 18:53:05.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -13.625363096844467,5.021649343656293,6.567607591713113
+[16Apr2025 18:53:05.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -13.38159902472421,4.928775016242014,6.5400062635887934
+[16Apr2025 18:53:05.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -13.142401278284751,4.839741492243434,6.515594301337387
+[16Apr2025 18:53:05.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -12.907777613322196,4.7569412945312735,6.493941321094553
+[16Apr2025 18:53:05.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -12.677692218906486,4.678537602531094,6.4747206357051255
+[16Apr2025 18:53:05.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -12.452224278969652,4.603876687374608,6.456751844474525
+[16Apr2025 18:53:05.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -12.231336809544018,4.533457627877752,6.439402827318077
+[16Apr2025 18:53:06.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -13.111083860035023,4.92094821220735,6.80861426096908
+[16Apr2025 18:53:06.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -12.899114499032294,4.854792716272755,6.792033018228267
+[16Apr2025 18:53:06.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -12.691500711757726,4.790754375606639,6.775636380480819
+[16Apr2025 18:53:06.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -12.488178207196597,4.726970489597633,6.759329439206908
+[16Apr2025 18:53:06.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -12.289055931286384,4.661744826968032,6.743128504438687
+[16Apr2025 18:53:06.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -12.094063172290362,4.595819787738279,6.727012781080816
+[16Apr2025 18:53:06.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -11.903110127643686,4.527994099284442,6.71100513483816
+[16Apr2025 18:53:06.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -11.716107554904283,4.457824199843131,6.695129132334046
+[16Apr2025 18:53:06.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -11.532968591572626,4.385147499616082,6.679405203720648
+[16Apr2025 18:53:06.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -11.353608816287306,4.309813573714024,6.66385064080896
+[16Apr2025 18:53:06.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -11.17794616731021,4.232057744111742,6.648479973862209
+[16Apr2025 18:53:06.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -11.0059008096473,4.152582188082178,6.633305270773803
+[16Apr2025 18:53:06.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -10.837395048250073,4.073106569245255,6.618336495064682
+[16Apr2025 18:53:06.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -10.672353204760157,3.992352426488395,6.603581740399136
+[16Apr2025 18:53:06.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -10.51070153652131,3.9118881631752487,6.589047481213015
+[16Apr2025 18:53:06.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -10.352368174191952,3.8329009771548783,6.574738751325526
+[16Apr2025 18:53:06.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -10.197283014222648,3.7563829370059665,6.560659375085947
+[16Apr2025 18:53:06.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -10.045377670180414,3.68426364692219,6.5468120817550925
+[16Apr2025 18:53:06.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.896706197519961,3.6144491842589304,6.533033524375583
+[16Apr2025 18:53:06.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.751303216580936,3.549213912325584,6.519203324260616
+[16Apr2025 18:53:06.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.609451014579918,3.4869838790721843,6.505114742845308
+[16Apr2025 18:53:06.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.471533832077284,3.428456143989308,6.490244260697182
+[16Apr2025 18:53:06.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.337775201995555,3.3720270270671193,6.474190422544325
+[16Apr2025 18:53:06.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.193601082143687,3.3107287678328134,6.4532570279576476
+[16Apr2025 18:53:06.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.039058814598548,3.241060174955109,6.424040172167338
+[16Apr2025 18:53:06.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -8.87641068975313,3.16302783448765,6.381954662522162
+[16Apr2025 18:53:06.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -8.708263988461113,3.07387983406862,6.323918870101124
+[16Apr2025 18:53:06.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -8.537882462203925,2.9739293380311125,6.24737560702556
+[16Apr2025 18:53:06.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -8.367541770067874,2.859651606676735,6.152440322056236
+[16Apr2025 18:53:06.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -8.198665339997888,2.737926585367319,6.040203792664897
+[16Apr2025 18:53:06.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -8.042856497425646,2.737926585367319,5.9201675973382635
+[16Apr2025 18:53:06.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -8.547520377554292,3.0,6.099352008002597
+[16Apr2025 18:53:06.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -8.701248525485653,3.1657552806211555,6.151193420305503
+[16Apr2025 18:53:06.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -8.841362827191006,3.3551129650963247,6.213267259332724
+[16Apr2025 18:53:06.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -8.731933858751745,3.3551129650963247,6.082375956420606
+[16Apr2025 18:53:06.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -8.868085189366184,3.552299434442318,6.15188623033589
+[16Apr2025 18:53:06.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.18804773995862,3.9600175117435867,6.435723037307298
+[16Apr2025 18:53:06.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.102746583758062,3.9600175117435867,6.306522866496152
+[16Apr2025 18:53:06.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.203482182044127,4.168022366590577,6.388275127484917
+[16Apr2025 18:53:06.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.29461449427049,4.377495453737623,6.471357457428212
+[16Apr2025 18:53:06.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.377165087828416,4.587651140516272,6.55490799123163
+[16Apr2025 18:53:06.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.579548758046712,5.0,6.841000519099111
+[16Apr2025 18:53:06.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.636367026963399,5.0,6.921255826156653
+[16Apr2025 18:53:06.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.685459081943009,5.0,7.001552492169822
+[16Apr2025 18:53:06.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.618136033284827,5.0,6.8937794254351275
+[16Apr2025 18:53:06.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.544958473931047,5.0,6.793584332772525
+[16Apr2025 18:53:06.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.586422620865733,5.0,6.882513464534213
+[16Apr2025 18:53:06.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.633365128131118,5.0,6.9640875447551025
+[16Apr2025 18:53:06.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.685787540479396,5.175519152320334,7.038422630008085
+[16Apr2025 18:53:07.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -10.081139800754727,5.716709281048139,7.34473480640429
+[16Apr2025 18:53:07.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -9.976841155823195,5.640613716606808,7.28120486595185
+[16Apr2025 18:53:07.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -10.233631865689176,5.846008692704501,7.415025835212646
+[16Apr2025 18:53:07.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -10.121672242735485,5.7703481861966,7.364796573519129
+[16Apr2025 18:53:07.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -10.196828425156582,5.699566715967407,7.399427400070749
+[16Apr2025 18:53:07.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! -10.081172818276173,5.630575527714072,7.361133223809361
+[16Apr2025 18:53:32.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest moved too quickly! 5.265131868451817,-1.5498489493422483,-8.575560764420516
+[16Apr2025 18:53:33.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest was kicked for floating too long!
+[16Apr2025 18:53:33.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest lost connection: Disconnected
+[16Apr2025 18:53:33.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest left the game
+[16Apr2025 18:53:33.283] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Apr2025 18:53:53.420] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alest[/127.187.155.65:40987] logged in with entity id 9630 at (1672.6560861409057, 74.35892968305852, -614.8385874725012)
+[16Apr2025 18:53:53.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest joined the game
+[16Apr2025 18:54:00.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest lost connection: Disconnected
+[16Apr2025 18:54:00.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest left the game
+[16Apr2025 18:54:16.463] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alest[/127.187.155.65:47901] logged in with entity id 9989 at (1672.6560861409057, 74.35892968305852, -614.8385874725012)
+[16Apr2025 18:54:16.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest joined the game
+[16Apr2025 18:54:28.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> increible
+[16Apr2025 18:54:43.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> ?
+[16Apr2025 18:55:36.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Your First Receptacle]
+[16Apr2025 18:55:45.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> como asi
+[16Apr2025 18:56:36.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Jennifer Dumped Me]
+[16Apr2025 18:56:46.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> MANI EXPLICA
+[16Apr2025 18:56:51.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> hehehehe
+[16Apr2025 18:57:06.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> y mani no pude encontrar el modelo de la dell
+[16Apr2025 18:58:49.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> a verga con los bajones
+[16Apr2025 18:59:18.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 9.002478789738916,-4.397524347934009,-5.7287032274574585
+[16Apr2025 18:59:18.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 9.08517880676277,-4.3810953180088035,-5.696865674434321
+[16Apr2025 18:59:18.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 8.532021460766146,-4.100694537852405,-5.322480107514593
+[16Apr2025 18:59:18.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 7.961910517279421,-3.8315682428993654,-4.959498629135055
+[16Apr2025 18:59:19.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 12.576401528761153,-2.0010848961245387,-3.508957054774669
+[16Apr2025 18:59:19.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 11.823193354185833,-1.7888902079236004,-3.290440038775955
+[16Apr2025 18:59:19.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 11.80561652808774,-1.8041108722774055,-3.3217932405475494
+[16Apr2025 18:59:19.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 13.556702715026404,-2.1080389501330643,-3.3597623807016816
+[16Apr2025 18:59:19.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 13.556702715026404,-2.1080389501330643,-3.3597623807016816
+[16Apr2025 18:59:19.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 13.556702715026404,-2.1080389501330643,-3.3597623807016816
+[16Apr2025 18:59:19.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 12.772511854024515,-1.9097313511198593,-3.245283753681747
+[16Apr2025 18:59:19.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 12.772581383466559,-1.9129589997189669,-3.2558623398747386
+[16Apr2025 18:59:19.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 11.968816756205342,-1.724920164174847,-3.1983611532378973
+[16Apr2025 18:59:19.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 12.768633187542264,-1.9093005275720287,-3.271453858221662
+[16Apr2025 18:59:19.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 11.947511746720465,-1.7515177608194676,-3.2909292021103056
+[16Apr2025 18:59:19.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 12.754163207443753,-1.9541805949779416,-3.3226793835331137
+[16Apr2025 18:59:19.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 12.747376912160234,-1.9784827211394287,-3.3473984197338496
+[16Apr2025 18:59:19.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 12.741789934210601,-1.999840060911069,-3.3704486225543633
+[16Apr2025 18:59:20.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 12.7374347920545,-2.0183843854953807,-3.391449561143645
+[16Apr2025 19:00:27.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> mani explica que chuhcas
+[16Apr2025 19:00:30.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> gaces
+[16Apr2025 19:00:35.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> haces*
+[16Apr2025 19:01:01.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> necesito buscar cosas
+[16Apr2025 19:01:11.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> y no hay ni un pto desierto
+[16Apr2025 19:01:43.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest lost connection: Disconnected
+[16Apr2025 19:01:43.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest left the game
+[16Apr2025 19:01:57.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alest[/127.187.155.65:33117] logged in with entity id 15499 at (1634.1679334899336, 65.0, -907.3666782105689)
+[16Apr2025 19:01:57.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest joined the game
+[16Apr2025 19:02:08.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> aaa vergaa
+[16Apr2025 19:06:28.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> ok yo tambienvoa buscar
+[16Apr2025 19:07:12.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> necesito brote muerto porsi acaso
+[16Apr2025 19:07:39.746] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=806, y=8, z=-725} but found not block entity block Block{minecraft:water}[level=0] at location
+[16Apr2025 19:07:39.746] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=806, y=8, z=-725}
+[16Apr2025 19:11:09.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> MANIIIIIII
+[16Apr2025 19:11:23.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> TENGO PICOTA DE NETHERITA
+[16Apr2025 19:11:39.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> a y tambien polvo de dark gem
+[16Apr2025 19:12:05.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> PERO VERGACION EL NETHER TAMPRONTO NOOOOOOO
+[16Apr2025 19:12:19.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> VERGA
+[16Apr2025 19:12:26.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> me lo dio una tumba
+[16Apr2025 19:13:00.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> le devuelve que el tieso la necesita mas
+[16Apr2025 19:13:10.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> xd
+[16Apr2025 19:13:31.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> mani
+[16Apr2025 19:13:38.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> y quien vrg le dice picota
+[16Apr2025 19:13:39.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> casco de netherita
+[16Apr2025 19:13:49.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> pa matarte
+[16Apr2025 19:14:07.636] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2689, y=12, z=-1743} but found not block entity block Block{minecraft:water}[level=1] at location
+[16Apr2025 19:14:07.636] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=2689, y=12, z=-1743}
+[16Apr2025 19:14:19.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> lo de la pregun tecnicamente los chilenos
+[16Apr2025 19:14:59.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> pero chucha ni una sola estructura
+[16Apr2025 19:15:58.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> mani que se hace una estatua maligna
+[16Apr2025 19:16:13.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> ni la toques
+[16Apr2025 19:16:23.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> que despues te pasa como en el zelda
+[16Apr2025 19:16:30.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> a
+[16Apr2025 19:17:19.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 10.74997899236007,0.7313379741219705,2.006488733653441
+[16Apr2025 19:17:19.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 10.124164694116757,0.6711763240722775,1.8911748764894583
+[16Apr2025 19:26:18.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> mani tendre que usar chuk base para ubicar un desierto
+[16Apr2025 19:26:56.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> mani
+[16Apr2025 19:27:03.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> encontre algo
+[16Apr2025 19:27:04.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> frostmaw
+[16Apr2025 19:27:05.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> yque
+[16Apr2025 19:27:08.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> mmmmmm
+[16Apr2025 19:27:21.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 has completed the challenge [Rude Awakening]
+[16Apr2025 19:27:39.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> naaaah con balas cualquiera
+[16Apr2025 19:28:09.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> deja de lloriquear
+[16Apr2025 19:28:19.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> tu mataste al pajaro asi
+[16Apr2025 19:28:24.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Funeral Theft]
+[16Apr2025 19:30:50.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Ice Bucket Challenge]
+[16Apr2025 19:34:18.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 8.23130208686544,1.3103080033750132,-15.683538080217545
+[16Apr2025 19:34:18.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 7.807364308764939,1.264172875399339,-14.875786862206496
+[16Apr2025 19:34:18.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 7.383426530556292,1.2190945710402445,-14.068035643989447
+[16Apr2025 19:34:18.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 6.959488752241704,1.1725615252859143,-13.26028442557049
+[16Apr2025 19:34:18.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 6.535550973823341,1.1265876180667362,-12.45253320695383
+[16Apr2025 19:34:18.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 6.111613195303313,1.0789227474150493,-11.64478198814345
+[16Apr2025 19:34:18.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 5.687675416683696,1.0286473538852192,-10.837030769143325
+[16Apr2025 19:34:18.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 5.263956415828488,0.9737685622777121,-10.029692171857391
+[16Apr2025 19:34:18.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 4.840287414887463,0.9149142621158433,-9.222441074407925
+[16Apr2025 19:34:19.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 5.999111892707539,1.1022318510846674,-11.430392465493469
+[16Apr2025 19:34:19.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 5.575207241497601,1.0379977805919225,-10.622702507965982
+[16Apr2025 19:34:19.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 5.151272775188517,0.9703215206791072,-9.814957414292962
+[16Apr2025 19:34:19.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of renny_lopez_2020) moved too quickly! 4.727335327290497,0.9003263802876234,-9.007206806854924
+[16Apr2025 19:37:48.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest has made the advancement [Ambush]
+[16Apr2025 19:37:56.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> what
+[16Apr2025 19:40:11.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> a la final nada
+[16Apr2025 19:40:17.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> ?
+[16Apr2025 19:40:28.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> nop
