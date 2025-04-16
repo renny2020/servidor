@@ -6657,3 +6657,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Apr2025 20:22:30.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> igual me tengo que desconectar
 [16Apr2025 20:22:35.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> oka
 [16Apr2025 20:22:41.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> dentro de nada
+[16Apr2025 20:23:34.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> mani antes que te desconectes para que es esto
+[16Apr2025 20:23:46.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> el
+[16Apr2025 20:23:54.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> la promesa
+[16Apr2025 20:24:33.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> como un tier adicional para el horno o el bloque quelo pueda utilizar
+[16Apr2025 20:24:45.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alest> para obtener otros ciertos items
+[16Apr2025 20:24:51.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <renny_lopez_2020> aaaaa
+[16Apr2025 20:25:55.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 20:25:55.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 20:26:06.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: renny_lopez_2020 lost connection: Disconnected
+[16Apr2025 20:26:06.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: renny_lopez_2020 left the game
+[16Apr2025 20:26:38.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[16Apr2025 20:26:38.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: remove op alest<--[HERE]
+[16Apr2025 20:28:06.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alest lost connection: Disconnected
+[16Apr2025 20:28:06.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alest left the game
+[16Apr2025 20:30:55.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 20:30:55.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
