@@ -1,359 +1,164 @@
-[15:57:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[15:57:55] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[15:57:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[15:57:55] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[15:57:55] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[15:57:55] [main/INFO] [FML]: Searching /workspaces/servidor/servidor_minecraft/./mods for mods
-[15:57:55] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.6.0.jar
-[15:57:55] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in tlskincape1.12.2-1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[15:57:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[15:57:55] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[15:57:55] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.7.11 Source=file:/workspaces/servidor/servidor_minecraft/./mods/SpartanWeaponry-1.12.2-1.6.0.jar Service=LaunchWrapper Env=SERVER
-[15:57:55] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
-[15:57:55] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[15:57:55] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[15:57:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[15:57:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[15:57:55] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:57:57] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[15:57:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:57:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:57:57] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container gloomyfolken.hooklib.minecraft.SecondaryTransformerHook
-[15:57:57] [main/INFO] [FML]: [HOOKLIB]  Obfuscated: true
-[15:57:58] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container org.tlauncher.skin.cape.asm.TLSkinCapeHooks
-[15:57:58] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[15:57:58] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@272a179c
-[15:57:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[15:57:58] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraftforge.fml.common.Loader
-[15:57:58] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraftforge.fml.common.Loader#injectData([Ljava/lang/Object;)
-[15:57:58] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Methods dictionary loaded in 9 ms
-[15:57:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[15:57:58] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[15:57:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[15:57:58] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[15:57:58] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.entity.player.EntityPlayer
-[15:57:59] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:warning:25]: [WARNING] Can not find target method of hook AsmHook: net.minecraft.entity.player.EntityPlayer#isWearing(Lnet/minecraft/entity/player/EnumPlayerModelParts;) -> org.tlauncher.skin.cape.asm.TLSkinCapeHooks#isWearing(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/entity/player/EnumPlayerModelParts;)Z, ReturnCondition=ALWAYS, ReturnValue=HOOK_RETURN_VALUE, InjectorFactory: gloomyfolken.hooklib.asm.HookInjectorFactory$MethodExit, CreateMethod = false
-[15:57:59] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[15:58:01] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.entity.player.EntityPlayer
-[15:58:01] [main/INFO] [STDOUT]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:warning:25]: [WARNING] Can not find target method of hook AsmHook: net.minecraft.entity.player.EntityPlayer#isWearing(Lnet/minecraft/entity/player/EnumPlayerModelParts;) -> org.tlauncher.skin.cape.asm.TLSkinCapeHooks#isWearing(Lnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/entity/player/EnumPlayerModelParts;)Z, ReturnCondition=ALWAYS, ReturnValue=HOOK_RETURN_VALUE, InjectorFactory: gloomyfolken.hooklib.asm.HookInjectorFactory$MethodExit, CreateMethod = false
-[15:58:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[15:58:03] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[15:58:03] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[15:58:03] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[15:58:03] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[15:58:04] [Server thread/INFO] [FML]: Searching /workspaces/servidor/servidor_minecraft/./mods for mods
-[15:58:04] [Server thread/INFO] [FML]: Mod geckolib3 is missing the required element 'name'. Substituting geckolib3
-[15:58:05] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
-[15:58:05] [Server thread/INFO] [FML]: Forge Mod Loader has identified 22 mods to load
-[15:58:05] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[15:58:05] [Server thread/WARN] [FML]: Missing English translation for appleskin: assets/appleskin/lang/en_us.lang
-[15:58:05] [Server thread/WARN] [FML]: Missing English translation for geckolib3: assets/geckolib3/lang/en_us.lang
-[15:58:05] [Server thread/WARN] [FML]: Missing English translation for tlauncher_custom_cape_skin: assets/tlauncher_custom_cape_skin/lang/en_us.lang
-[15:58:06] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, aether_legacy, appleskin, artifacts, baubles, carryon, sexmod, geckolib3, jei, journeymap, oreexcavation, simple_hammers, spartanshields, spartanweaponry, tlauncher_custom_cape_skin, travelersbackpack, twilightforest, waystones, jade] at CLIENT
-[15:58:06] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, aether_legacy, appleskin, artifacts, baubles, carryon, sexmod, geckolib3, jei, journeymap, oreexcavation, simple_hammers, spartanshields, spartanweaponry, tlauncher_custom_cape_skin, travelersbackpack, twilightforest, waystones, jade] at SERVER
-[15:58:06] [Server thread/ERROR] [FML]: The mod carryon is expecting signature fd21553434f4905f2f73ea7838147ac4ea07bd88 for source carryon-1.12.2-1.12.7.23.jar, however there is no signature matching that description
-[15:58:07] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[15:58:07] [Server thread/INFO] [FML]: Found 1460 ObjectHolder annotations
-[15:58:07] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[15:58:07] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[15:58:07] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[15:58:07] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
-[15:58:08] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
-[15:58:08] [Forge Version Check/INFO] [forge.VersionCheck]: [aether_legacy] Starting version check at https://raw.githubusercontent.com/Modding-Legacy/Aether-Legacy/master/aether-legacy-changelog.json
-[15:58:08] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Starting version check at https://raw.githubusercontent.com/ochotonida/artifacts/1.12/update.json
-[15:58:08] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Found status: AHEAD Target: null
-[15:58:08] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[15:58:08] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[15:58:08] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
-[15:58:08] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[15:58:08] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
-[15:58:09] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
-[15:58:09] [Server thread/INFO] [Spartan Weaponry]: Starting up Spartan Weaponry!
-[15:58:09] [Server thread/INFO] [Spartan Weaponry]: API: Loaded internal method handler. API functionality should work now!
-[15:58:09] [Server thread/INFO] [Spartan Weaponry]: Defined config version: 2.0 - Loaded config version: 2.0
-[15:58:09] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
-[15:58:09] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
-[15:58:09] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
-[15:58:09] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
-[15:58:09] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
-[15:58:09] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
-[15:58:09] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Baubles.
-[15:58:09] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
-[15:58:09] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
-[15:58:09] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
-[15:58:09] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
-[15:58:09] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
-[15:58:09] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
-[15:58:09] [Server thread/INFO] [FML]: Applying holder lookups
-[15:58:09] [Server thread/INFO] [FML]: Holder lookups applied
-[15:58:09] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:wooden_hammer
-[15:58:09] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.wooden_hammer
-[15:58:09] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:stone_hammer
-[15:58:09] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.stone_hammer
-[15:58:09] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:golden_hammer
-[15:58:09] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.golden_hammer
-[15:58:09] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:iron_hammer
-[15:58:09] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.iron_hammer
-[15:58:09] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:diamond_hammer
-[15:58:09] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.diamond_hammer
-[15:58:10] [Server thread/INFO] [Spartan Shields]: Items Registered!
-[15:58:10] [Server thread/INFO] [Spartan Weaponry]: Registering 10 modded material based weapons
-[15:58:10] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for materials: Copper, Tin, Bronze, Steel, Silver, Invar, Platinum, Electrum, Nickel, Lead
-[15:58:10] [Server thread/INFO] [Spartan Weaponry]: Items Registered!
-[15:58:10] [Server thread/INFO] [FML]: Applying holder lookups
-[15:58:10] [Server thread/INFO] [FML]: Holder lookups applied
-[15:58:10] [Server thread/INFO] [Spartan Weaponry]: Registering Enchantments!
-[15:58:10] [Server thread/INFO] [Spartan Weaponry]: Registering entities!
-[15:58:10] [Server thread/INFO] [FML]: Applying holder lookups
-[15:58:10] [Server thread/INFO] [FML]: Holder lookups applied
-[15:58:10] [Server thread/INFO] [FML]: Applying holder lookups
-[15:58:10] [Server thread/INFO] [FML]: Holder lookups applied
-[15:58:10] [Server thread/INFO] [FML]: Injecting itemstacks
-[15:58:10] [Server thread/INFO] [FML]: Itemstack injection complete
-[15:58:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[15:58:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[15:58:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[15:58:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[15:58:10] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[15:58:10] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:58:10] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[15:58:10] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:58:10] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:58:11] [Server thread/INFO] [Spartan Shields]: Recipes added!
-[15:58:11] [Server thread/INFO] [Spartan Weaponry]: Registering recipes for Tipped Bolts!
-[15:58:11] [Server thread/INFO] [Spartan Weaponry]: Recipes added!
-[15:58:11] [Server thread/INFO] [FML]: Applying holder lookups
-[15:58:11] [Server thread/INFO] [FML]: Holder lookups applied
-[15:58:11] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.trolmastercard.sexmod.em from class com.trolmastercard.sexmod.ei
-[15:58:12] [Server thread/INFO] [Spartan Weaponry]: Registering OreDictionary entries
-[15:58:12] [Server thread/INFO] [Spartan Weaponry]: Attempting to add new advancement triggers...
-[15:58:12] [Server thread/INFO] [Spartan Weaponry]: New advancement triggers added successfully!
-[15:58:12] [Server thread/INFO] [FML]: Injecting itemstacks
-[15:58:12] [Server thread/INFO] [FML]: Itemstack injection complete
-[15:58:12] [Server thread/INFO] [sexmod]: loading up custom models...
-[15:58:12] [Server thread/INFO] [sexmod]: found 0 custom model(s)
-[15:58:12] [Server thread/ERROR] [org.tlauncher.skin.cape.util.PreparedProfileManager]: couldn't calculate size of the cape
-java.lang.NoClassDefFoundError: net/minecraft/client/renderer/texture/DynamicTexture
-	at org.tlauncher.skin.cape.util.PreparedProfileManager.calculateSizeCape(PreparedProfileManager.java:62) [PreparedProfileManager.class:?]
-	at org.tlauncher.skin.cape.util.PreparedProfileManager.<init>(PreparedProfileManager.java:42) [PreparedProfileManager.class:?]
-	at org.tlauncher.skin.cape.TLSkinCape.event(TLSkinCape.java:28) [TLSkinCape.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_452]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_452]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_452]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_452]
-	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637) [FMLModContainer.class:?]
-	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_452]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_452]
-	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [minecraft_server.1.12.2.jar:?]
-	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219) [LoadController.class:?]
-	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197) [LoadController.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_452]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_452]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_452]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_452]
-	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) [minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.EventBus.post(EventBus.java:217) [minecraft_server.1.12.2.jar:?]
-	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136) [LoadController.class:?]
-	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754) [Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
-Caused by: java.lang.ClassNotFoundException: net.minecraft.client.renderer.texture.DynamicTexture
-	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_452]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_452]
-	... 38 more
-Caused by: java.lang.NullPointerException
-	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182) ~[launchwrapper-1.12.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_452]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_452]
-	... 38 more
-[15:58:12] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
-net.minecraftforge.fml.common.LoaderExceptionModCrash: Caught exception from TLSkinCape (tlauncher_custom_cape_skin)
-
-Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/Minecraft
-	at org.tlauncher.skin.cape.util.PreparedProfileManager.<init>(PreparedProfileManager.java:43) ~[PreparedProfileManager.class:?]
-	at org.tlauncher.skin.cape.TLSkinCape.event(TLSkinCape.java:28) ~[TLSkinCape.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_452]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_452]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_452]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_452]
-	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637) ~[forge-1.12.2-14.23.5.2860.jar:?]
-	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_452]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_452]
-	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.EventBus.post(EventBus.java:217) ~[minecraft_server.1.12.2.jar:?]
-	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219) ~[LoadController.class:?]
-	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197) ~[LoadController.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_452]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_452]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_452]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_452]
-	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.EventBus.post(EventBus.java:217) ~[minecraft_server.1.12.2.jar:?]
-	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136) ~[LoadController.class:?]
-	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754) ~[Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) ~[FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) ~[FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) ~[nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
-Caused by: java.lang.ClassNotFoundException: net.minecraft.client.Minecraft
-	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_452]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_452]
-	at org.tlauncher.skin.cape.util.PreparedProfileManager.<init>(PreparedProfileManager.java:43) ~[PreparedProfileManager.class:?]
-	at org.tlauncher.skin.cape.TLSkinCape.event(TLSkinCape.java:28) ~[TLSkinCape.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_452]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_452]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_452]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_452]
-	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637) ~[forge-1.12.2-14.23.5.2860.jar:?]
-	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_452]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_452]
-	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.EventBus.post(EventBus.java:217) ~[minecraft_server.1.12.2.jar:?]
-	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219) ~[LoadController.class:?]
-	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197) ~[LoadController.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_452]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_452]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_452]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_452]
-	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.EventBus.post(EventBus.java:217) ~[minecraft_server.1.12.2.jar:?]
-	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136) ~[LoadController.class:?]
-	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754) ~[Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) ~[FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) ~[FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) ~[nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) ~[MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) ~[?:1.8.0_452]
-Caused by: net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@61f2c3f0 from coremod FMLCorePlugin
-	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:260) ~[forge-1.12.2-14.23.5.2860.jar:?]
-	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
-	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_452]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_452]
-	at org.tlauncher.skin.cape.util.PreparedProfileManager.<init>(PreparedProfileManager.java:43) ~[PreparedProfileManager.class:?]
-	at org.tlauncher.skin.cape.TLSkinCape.event(TLSkinCape.java:28) ~[TLSkinCape.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_452]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_452]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_452]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_452]
-	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637) ~[forge-1.12.2-14.23.5.2860.jar:?]
-	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_452]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_452]
-	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.EventBus.post(EventBus.java:217) ~[minecraft_server.1.12.2.jar:?]
-	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219) ~[LoadController.class:?]
-	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197) ~[LoadController.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_452]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_452]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_452]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_452]
-	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.EventBus.post(EventBus.java:217) ~[minecraft_server.1.12.2.jar:?]
-	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136) ~[LoadController.class:?]
-	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754) ~[Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) ~[FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) ~[FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) ~[nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) ~[MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) ~[?:1.8.0_452]
-Caused by: java.lang.RuntimeException: Attempted to load class bib for invalid side SERVER
-	at net.minecraftforge.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:62) ~[forge-1.12.2-14.23.5.2860.jar:?]
-	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:256) ~[forge-1.12.2-14.23.5.2860.jar:?]
-	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
-	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_452]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_452]
-	at org.tlauncher.skin.cape.util.PreparedProfileManager.<init>(PreparedProfileManager.java:43) ~[PreparedProfileManager.class:?]
-	at org.tlauncher.skin.cape.TLSkinCape.event(TLSkinCape.java:28) ~[TLSkinCape.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_452]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_452]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_452]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_452]
-	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637) ~[forge-1.12.2-14.23.5.2860.jar:?]
-	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source) ~[?:?]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_452]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_452]
-	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.EventBus.post(EventBus.java:217) ~[minecraft_server.1.12.2.jar:?]
-	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219) ~[LoadController.class:?]
-	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197) ~[LoadController.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_452]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_452]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_452]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_452]
-	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116) ~[minecraft_server.1.12.2.jar:?]
-	at com.google.common.eventbus.EventBus.post(EventBus.java:217) ~[minecraft_server.1.12.2.jar:?]
-	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136) ~[LoadController.class:?]
-	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754) ~[Loader.class:?]
-	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) ~[FMLServerHandler.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) ~[FMLCommonHandler.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) ~[nz.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) ~[MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) ~[?:1.8.0_452]
-[15:58:12] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: This crash report has been saved to: /workspaces/servidor/servidor_minecraft/./crash-reports/crash-2025-06-01_15.58.12-server.txt
-[15:58:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[15:58:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[15:58:12] [Server thread/INFO] [FML]: The state engine was in incorrect state AVAILABLE and forced into state SERVER_STOPPED. Errors may have been discarded.
-[15:58:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[15:58:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[16:00:32] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:00:32] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:00:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:00:32] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[16:00:32] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[16:00:32] [main/INFO] [FML]: Searching /workspaces/servidor/servidor_minecraft/./mods for mods
+[16:00:32] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.6.0.jar
+[16:00:32] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:00:32] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[16:00:32] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.7.11 Source=file:/workspaces/servidor/servidor_minecraft/./mods/SpartanWeaponry-1.12.2-1.6.0.jar Service=LaunchWrapper Env=SERVER
+[16:00:32] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
+[16:00:32] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[16:00:32] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:00:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:00:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:00:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:00:34] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[16:00:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:00:34] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[16:00:34] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@352e612e
+[16:00:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:00:35] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:00:35] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[16:00:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:00:35] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[16:00:36] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[16:00:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[16:00:39] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[16:00:40] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[16:00:40] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[16:00:40] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[16:00:40] [Server thread/INFO] [FML]: Searching /workspaces/servidor/servidor_minecraft/./mods for mods
+[16:00:41] [Server thread/INFO] [FML]: Mod geckolib3 is missing the required element 'name'. Substituting geckolib3
+[16:00:42] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
+[16:00:42] [Server thread/INFO] [FML]: Forge Mod Loader has identified 21 mods to load
+[16:00:42] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[16:00:42] [Server thread/WARN] [FML]: Missing English translation for appleskin: assets/appleskin/lang/en_us.lang
+[16:00:42] [Server thread/WARN] [FML]: Missing English translation for geckolib3: assets/geckolib3/lang/en_us.lang
+[16:00:42] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, aether_legacy, appleskin, artifacts, baubles, carryon, sexmod, geckolib3, jei, journeymap, oreexcavation, simple_hammers, spartanshields, spartanweaponry, travelersbackpack, twilightforest, waystones, jade] at CLIENT
+[16:00:42] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, aether_legacy, appleskin, artifacts, baubles, carryon, sexmod, geckolib3, jei, journeymap, oreexcavation, simple_hammers, spartanshields, spartanweaponry, travelersbackpack, twilightforest, waystones, jade] at SERVER
+[16:00:43] [Server thread/ERROR] [FML]: The mod carryon is expecting signature fd21553434f4905f2f73ea7838147ac4ea07bd88 for source carryon-1.12.2-1.12.7.23.jar, however there is no signature matching that description
+[16:00:44] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[16:00:44] [Server thread/INFO] [FML]: Found 1460 ObjectHolder annotations
+[16:00:44] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[16:00:44] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[16:00:44] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[16:00:44] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Starting version check at https://raw.githubusercontent.com/ochotonida/artifacts/1.12/update.json
+[16:00:44] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Found status: AHEAD Target: null
+[16:00:44] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
+[16:00:45] [Forge Version Check/INFO] [forge.VersionCheck]: [aether_legacy] Starting version check at https://raw.githubusercontent.com/Modding-Legacy/Aether-Legacy/master/aether-legacy-changelog.json
+[16:00:45] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[16:00:45] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
+[16:00:45] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[16:00:45] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[16:00:45] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[16:00:45] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[16:00:45] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
+[16:00:45] [Server thread/INFO] [Spartan Weaponry]: Starting up Spartan Weaponry!
+[16:00:45] [Server thread/INFO] [Spartan Weaponry]: API: Loaded internal method handler. API functionality should work now!
+[16:00:45] [Server thread/INFO] [Spartan Weaponry]: Defined config version: 2.0 - Loaded config version: 2.0
+[16:00:45] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[16:00:45] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[16:00:45] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[16:00:45] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[16:00:45] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[16:00:45] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[16:00:46] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Baubles.
+[16:00:46] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
+[16:00:46] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
+[16:00:46] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
+[16:00:46] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
+[16:00:46] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
+[16:00:46] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
+[16:00:46] [Server thread/INFO] [FML]: Applying holder lookups
+[16:00:46] [Server thread/INFO] [FML]: Holder lookups applied
+[16:00:46] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:wooden_hammer
+[16:00:46] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.wooden_hammer
+[16:00:46] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:stone_hammer
+[16:00:46] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.stone_hammer
+[16:00:46] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:golden_hammer
+[16:00:46] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.golden_hammer
+[16:00:46] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:iron_hammer
+[16:00:46] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.iron_hammer
+[16:00:46] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:diamond_hammer
+[16:00:46] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.diamond_hammer
+[16:00:46] [Server thread/INFO] [Spartan Shields]: Items Registered!
+[16:00:47] [Server thread/INFO] [Spartan Weaponry]: Registering 10 modded material based weapons
+[16:00:47] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for materials: Copper, Tin, Bronze, Steel, Silver, Invar, Platinum, Electrum, Nickel, Lead
+[16:00:47] [Server thread/INFO] [Spartan Weaponry]: Items Registered!
+[16:00:47] [Server thread/INFO] [FML]: Applying holder lookups
+[16:00:47] [Server thread/INFO] [FML]: Holder lookups applied
+[16:00:47] [Server thread/INFO] [Spartan Weaponry]: Registering Enchantments!
+[16:00:47] [Server thread/INFO] [Spartan Weaponry]: Registering entities!
+[16:00:47] [Server thread/INFO] [FML]: Applying holder lookups
+[16:00:47] [Server thread/INFO] [FML]: Holder lookups applied
+[16:00:47] [Server thread/INFO] [FML]: Applying holder lookups
+[16:00:47] [Server thread/INFO] [FML]: Holder lookups applied
+[16:00:47] [Server thread/INFO] [FML]: Injecting itemstacks
+[16:00:47] [Server thread/INFO] [FML]: Itemstack injection complete
+[16:00:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[16:00:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[16:00:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[16:00:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[16:00:48] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[16:00:48] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:00:48] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[16:00:48] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:00:48] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:00:48] [Server thread/INFO] [Spartan Shields]: Recipes added!
+[16:00:48] [Server thread/INFO] [Spartan Weaponry]: Registering recipes for Tipped Bolts!
+[16:00:48] [Server thread/INFO] [Spartan Weaponry]: Recipes added!
+[16:00:48] [Server thread/INFO] [FML]: Applying holder lookups
+[16:00:48] [Server thread/INFO] [FML]: Holder lookups applied
+[16:00:48] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.trolmastercard.sexmod.em from class com.trolmastercard.sexmod.ei
+[16:00:49] [Server thread/INFO] [Spartan Weaponry]: Registering OreDictionary entries
+[16:00:49] [Server thread/INFO] [Spartan Weaponry]: Attempting to add new advancement triggers...
+[16:00:49] [Server thread/INFO] [Spartan Weaponry]: New advancement triggers added successfully!
+[16:00:49] [Server thread/INFO] [FML]: Injecting itemstacks
+[16:00:49] [Server thread/INFO] [FML]: Itemstack injection complete
+[16:00:49] [Server thread/INFO] [sexmod]: loading up custom models...
+[16:00:49] [Server thread/INFO] [sexmod]: found 0 custom model(s)
+[16:00:50] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 21 mods
+[16:00:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[16:00:50] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[16:00:50] [Server thread/INFO] [FML]: Applying holder lookups
+[16:00:50] [Server thread/INFO] [FML]: Holder lookups applied
+[16:00:50] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@721722e5)
+[16:00:51] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 821 advancements
+[16:00:51] [Server thread/INFO] [twilightforest]: Loaded a world with the tfEnforcedProgression game rule not defined. Defining it.
+[16:00:51] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@721722e5)
+[16:00:51] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@721722e5)
+[16:00:51] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@721722e5)
+[16:00:51] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@721722e5)
+[16:00:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[16:00:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 17%
+[16:00:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.249s)! For help, type "help" or "?"
+[16:00:53] [Server thread/INFO] [journeymap]: global (FirstLoaded) Setting config file to version "5.7.1p2": journeymap.server.global.config
+[16:00:53] [Server thread/INFO] [journeymap]: global (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.global.config
+[16:00:53] [Server thread/INFO] [journeymap]: default (FirstLoaded) Setting config file to version "5.7.1p2": journeymap.server.default.config
+[16:00:53] [Server thread/INFO] [journeymap]: default (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.default.config
+[16:00:53] [Server thread/INFO] [journeymap]: dim0 (Initialized) Setting config file to version "5.7.1p2": journeymap.server.dim0.config
+[16:00:53] [Server thread/INFO] [journeymap]: dim0 (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.dim0.config
+[16:00:53] [Server thread/INFO] [journeymap]: dim-1 (Initialized) Setting config file to version "5.7.1p2": journeymap.server.dim-1.config
+[16:00:53] [Server thread/INFO] [journeymap]: dim-1 (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.dim-1.config
+[16:00:53] [Server thread/INFO] [journeymap]: dim1 (Initialized) Setting config file to version "5.7.1p2": journeymap.server.dim1.config
+[16:00:53] [Server thread/INFO] [journeymap]: dim1 (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.dim1.config
+[16:00:53] [Server thread/INFO] [journeymap]: dim4 (Initialized) Setting config file to version "5.7.1p2": journeymap.server.dim4.config
+[16:00:53] [Server thread/INFO] [journeymap]: dim4 (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.dim4.config
+[16:00:53] [Server thread/INFO] [journeymap]: dim7 (Initialized) Setting config file to version "5.7.1p2": journeymap.server.dim7.config
+[16:00:53] [Server thread/INFO] [journeymap]: dim7 (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.dim7.config
+[16:00:53] [Server thread/INFO] [FML]: Unloading dimension -1
+[16:00:53] [Server thread/INFO] [FML]: Unloading dimension 1
+[16:00:53] [Server thread/INFO] [FML]: Unloading dimension 4
+[16:00:53] [Server thread/INFO] [FML]: Unloading dimension 7
+[16:01:00] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.trolmastercard.sexmod.em from class com.trolmastercard.sexmod.ex
+[16:01:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[16:01:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[16:01:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[16:01:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[16:01:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[16:01:16] [Server thread/INFO] [FML]: Unloading dimension 0
+[16:01:16] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[16:01:16] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[16:01:16] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
