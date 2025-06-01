@@ -545,6 +545,15 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-06-01 22:19:28 +0000",
+      "iron_chestplate": "2025-06-01 22:19:28 +0000",
+      "iron_leggings": "2025-06-01 22:19:28 +0000",
+      "iron_helmet": "2025-06-01 22:19:28 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/misc/yellow_cape": {
     "criteria": {
       "has_the_recipe": "2025-06-01 16:14:20 +0000"

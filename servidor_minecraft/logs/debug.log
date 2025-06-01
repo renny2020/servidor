@@ -20914,3 +20914,68 @@ Caused by: com.google.gson.stream.MalformedJsonException: Invalid escape sequenc
 [22:11:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:12:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:13:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:14:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:14:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:15:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:16:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:16:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[22:16:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[22:16:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[22:16:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[22:17:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:17:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[22:17:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[22:17:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[22:17:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[22:17:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[22:17:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[22:17:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[22:17:33] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[22:17:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:17:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[22:17:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[22:17:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[22:17:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[22:18:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[22:18:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[22:18:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[22:18:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[22:18:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:19:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:19:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: renny_lopez_2020 has made the advancement [Suit Up]
+[22:19:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[22:19:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[22:19:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[22:19:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[22:20:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:20:27] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [Artifacts, AutoRegLib, Baubles, Carry On, Fapcraft, Jade, OreExcavation, Simple Hammers, Spartan Shields, Spartan Weaponry, The Aether, The Twilight Forest, Traveler's Backpack, Waystones, geckolib3]
+[22:20:36] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [Artifacts, AutoRegLib, Baubles, Carry On, Fapcraft, Jade, OreExcavation, Simple Hammers, Spartan Shields, Spartan Weaponry, The Aether, The Twilight Forest, Traveler's Backpack, Waystones, geckolib3]
+[22:20:41] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[22:20:41] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[22:20:41] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[22:20:41] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[22:20:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:20:53] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[22:20:53] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[22:20:53] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[22:20:53] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[22:21:14] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[22:21:14] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[22:21:14] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[22:21:14] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[22:21:17] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [Artifacts, AutoRegLib, Baubles, Carry On, Fapcraft, Jade, OreExcavation, Simple Hammers, Spartan Shields, Spartan Weaponry, The Aether, The Twilight Forest, Traveler's Backpack, Waystones, geckolib3]
+[22:21:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[22:21:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[22:21:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[22:21:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[22:21:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:21:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[22:21:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[22:21:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[22:21:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[22:22:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:22:38] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[22:22:38] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[22:22:38] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[22:22:38] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[22:23:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
