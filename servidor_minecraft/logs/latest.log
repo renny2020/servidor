@@ -446,3 +446,44 @@
 [22:02:53] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
 [22:02:53] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
 [22:02:53] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[22:03:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Dovni with UUID a9778cb0-8719-4083-9ef6-08d56ea9d011 owned by null
+[22:03:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID 98d4eaff-1eac-4213-b423-c8fd51aefc87 owned by null
+[22:03:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 986b65f6-04a4-4f78-9ad0-7c7a168b388d owned by null
+[22:03:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Dovni with UUID 2b868579-f945-4ba5-a511-13a8d9bea327 owned by null
+[22:04:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: renny_lopez_2020 walked into fire whilst fighting Mimic
+[22:05:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: renny_lopez_2020 lost connection: Timed out
+[22:05:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: renny_lopez_2020 left the game
+[22:05:47] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[22:05:47] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,FML@8.0.99.99,baubles@1.5.2,jade@0.1.0,spartanweaponry@1.6.0,appleskin@1.0.14,jei@4.16.1.1013,aether_legacy@1.5.4.1,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,forge@14.23.5.2859,sexmod@1.1.0,quark@r1.6-179,spartanshields@1.5.5,twilightforest@3.11.1021,geckolib3@3.0.30,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p2,simple_hammers@0.0.1-BACKPORT,autoreglib@1.3-32,artifacts@1.12.2-1.2.4,oreexcavation@1.4.150,travelersbackpack@1.0.35
+[22:05:47] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[22:05:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:05:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: renny_lopez_2020[/127.90.18.106:60769] logged in with entity id 52734 at (-37.5, 79.02159847259522, 214.5)
+[22:05:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: renny_lopez_2020 joined the game
+[22:05:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 4be7f3e6-577c-4cb7-885f-32522f53f5e7 owned by null
+[22:05:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snok with UUID 5790f997-3ebc-465d-a9fc-9189b59f3f4d owned by null
+[22:05:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kugs with UUID 277b88ae-a682-409f-9711-0ab8855c4532 owned by null
+[22:05:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID c65dbba2-e03e-45b5-b834-1638861e3e35 owned by null
+[22:05:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[22:05:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[22:05:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[22:05:59] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[22:06:09] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vags with UUID 44ddaa9c-5836-4fbe-8e31-67950135fb9a owned by null
+[22:06:09] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID a8fca36b-a84c-4a0c-ac7c-f3aa3162f4d4 owned by null
+[22:06:09] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID c84fb9a8-da27-4993-b35b-068400d4e0b0 owned by null
+[22:06:09] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID be31ae82-a89e-45b8-9461-2a96bd4ff8be owned by null
+[22:06:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [renny_lopez_2020: Set own game mode to Creative Mode]
+[22:07:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [renny_lopez_2020: Set own game mode to Survival Mode]
+[22:07:28] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[22:07:28] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[22:07:28] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[22:07:28] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[22:08:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Dovni with UUID a9778cb0-8719-4083-9ef6-08d56ea9d011 owned by null
+[22:08:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID 98d4eaff-1eac-4213-b423-c8fd51aefc87 owned by null
+[22:08:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 986b65f6-04a4-4f78-9ad0-7c7a168b388d owned by null
+[22:08:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Dovni with UUID 2b868579-f945-4ba5-a511-13a8d9bea327 owned by null
+[22:10:22] [Server thread/WARN] [FML]: Quark loaded a new chunk [-3, -6] in dimension 0 (overworld) while populating chunk [-4, -6], causing cascading worldgen lag.
+[22:10:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:10:48] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 4be7f3e6-577c-4cb7-885f-32522f53f5e7 owned by null
+[22:10:48] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snok with UUID 5790f997-3ebc-465d-a9fc-9189b59f3f4d owned by null
+[22:10:48] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kugs with UUID 277b88ae-a682-409f-9711-0ab8855c4532 owned by null
+[22:10:48] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID c65dbba2-e03e-45b5-b834-1638861e3e35 owned by null
