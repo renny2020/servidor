@@ -1,1171 +1,318 @@
-[16:09:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[16:09:02] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[16:09:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[16:09:02] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[16:09:02] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[16:09:02] [main/INFO] [FML]: Searching /workspaces/servidor/servidor_minecraft/./mods for mods
-[16:09:02] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Quark-r1.6-179.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[16:09:02] [main/WARN] [FML]: The coremod Quark Plugin (vazkii.quark.base.asm.LoadingPlugin) is not signed!
-[16:09:02] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.6.0.jar
-[16:09:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:09:02] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[16:09:02] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.7.11 Source=file:/workspaces/servidor/servidor_minecraft/./mods/SpartanWeaponry-1.12.2-1.6.0.jar Service=LaunchWrapper Env=SERVER
-[16:09:02] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
-[16:09:02] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[16:09:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[16:09:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:09:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:09:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:09:04] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[16:09:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:09:04] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[16:09:04] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@54534abf
-[16:09:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[16:09:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:09:05] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[16:09:05] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[16:09:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[16:09:05] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[16:09:05] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.Entity
-[16:09:05] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
-[16:09:05] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:05] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:05] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:05] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
-[16:09:05] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:05] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
-[16:09:05] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:05] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:05] [main/INFO] [Quark ASM]: Transforming net.minecraft.world.WorldServer
-[16:09:05] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [areAllPlayersAsleep, func_73056_e] Descriptor ()Z)
-[16:09:05] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:05] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:05] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [wakeAllPlayers, func_73053_d] Descriptor ()V)
-[16:09:05] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:05] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:05] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemStack
-[16:09:05] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getTextComponent, func_151000_E] Descriptor ()Lnet/minecraft/util/text/ITextComponent;)
-[16:09:05] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:05] [main/INFO] [Quark ASM]: Located patch target node ARETURN
-[16:09:05] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:05] [main/INFO] [Quark ASM]: Transforming net.minecraft.util.DamageSource
-[16:09:05] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [causePlayerDamage, func_76365_a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/util/DamageSource;)
-[16:09:05] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:05] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:05] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.Entity
-[16:09:05] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
-[16:09:05] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:05] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:05] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:05] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
-[16:09:05] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:05] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
-[16:09:05] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:05] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:05] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[16:09:06] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.Enchantment
-[16:09:06] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
-[16:09:06] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:06] [main/INFO] [Quark ASM]: Located patch target node IRETURN
-[16:09:06] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:06] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityItem
-[16:09:06] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onUpdate, func_70071_h_] Descriptor ()V)
-[16:09:06] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:06] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:06] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemStack
-[16:09:06] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getTextComponent, func_151000_E] Descriptor ()Lnet/minecraft/util/text/ITextComponent;)
-[16:09:06] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:06] [main/INFO] [Quark ASM]: Located patch target node ARETURN
-[16:09:06] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:06] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockDynamicLiquid
-[16:09:06] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isBlocked, func_176372_g] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z)
-[16:09:06] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:06] [main/INFO] [Quark ASM]: Located patch target node IRETURN
-[16:09:06] [main/INFO] [Quark ASM]: Located patch target node IRETURN
-[16:09:06] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:06] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockPistonBase
-[16:09:06] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canPush, func_185646_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;ZLnet/minecraft/util/EnumFacing;)Z)
-[16:09:06] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:06] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/Block.hasTileEntity (Lnet/minecraft/block/state/IBlockState;)Z
-[16:09:06] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:06] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
-[16:09:06] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:06] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/state/BlockPistonStructureHelper.func_177254_c ()Ljava/util/List;
-[16:09:06] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:06] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
-[16:09:06] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:06] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
-[16:09:06] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:06] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [checkForMove, func_176316_e] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V)
-[16:09:06] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:06] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
-[16:09:06] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:06] [main/INFO] [Quark ASM]: Transforming net.minecraft.tileentity.TileEntityPiston
-[16:09:06] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
-[16:09:06] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:06] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:06] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [clearPistonTileEntity, func_145866_f] Descriptor ()V)
-[16:09:06] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:06] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
-[16:09:06] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:06] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
-[16:09:06] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:06] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
-[16:09:06] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:07] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentDamage
-[16:09:07] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
-[16:09:07] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:07] [main/INFO] [Quark ASM]: Located patch target node IRETURN
-[16:09:07] [main/INFO] [Quark ASM]: Located patch target node IRETURN
-[16:09:07] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:07] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityMinecart
-[16:09:07] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [killMinecart, func_94095_a] Descriptor (Lnet/minecraft/util/DamageSource;)V)
-[16:09:07] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:07] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityMinecart.func_70099_a (Lnet/minecraft/item/ItemStack;F)Lnet/minecraft/entity/item/EntityItem;
-[16:09:07] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:07] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityBoat
-[16:09:07] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [attackEntityFrom, func_70097_a] Descriptor (Lnet/minecraft/util/DamageSource;F)Z)
-[16:09:07] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:07] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityBoat.func_145778_a (Lnet/minecraft/item/Item;IF)Lnet/minecraft/entity/item/EntityItem;
-[16:09:07] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:08] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemBanner
-[16:09:08] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [appendHoverTextFromTileEntityTag, func_185054_a] Descriptor (Lnet/minecraft/item/ItemStack;Ljava/util/List;)V)
-[16:09:08] [main/INFO] [Quark ASM]: Failed to locate the method!
-[16:09:08] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.ai.EntityAITarget
-[16:09:08] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isSuitableTarget, func_179445_a] Descriptor (Lnet/minecraft/entity/EntityLiving;Lnet/minecraft/entity/EntityLivingBase;ZZ)Z)
-[16:09:08] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:08] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:08] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern
-[16:09:08] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [matches, func_77569_a] Descriptor (Lnet/minecraft/inventory/InventoryCrafting;Lnet/minecraft/world/World;)Z)
-[16:09:08] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:08] [main/INFO] [Quark ASM]: Located patch target node INVOKESTATIC net/minecraft/tileentity/TileEntityBanner.func_175113_c (Lnet/minecraft/item/ItemStack;)I
-[16:09:08] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:09] [main/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerMerchant
-[16:09:09] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
-[16:09:09] [main/INFO] [Quark ASM]: Located Method, patching...
-[16:09:09] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
-[16:09:09] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
-[16:09:09] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
-[16:09:09] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
-[16:09:09] [main/INFO] [Quark ASM]: Patch result: true
-[16:09:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[16:09:09] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[16:09:09] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[16:09:10] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[16:09:10] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[16:09:10] [Server thread/INFO] [FML]: Searching /workspaces/servidor/servidor_minecraft/./mods for mods
-[16:09:11] [Server thread/INFO] [FML]: Mod geckolib3 is missing the required element 'name'. Substituting geckolib3
-[16:09:12] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
-[16:09:12] [Server thread/INFO] [FML]: Forge Mod Loader has identified 23 mods to load
-[16:09:12] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[16:09:12] [Server thread/WARN] [FML]: Missing English translation for appleskin: assets/appleskin/lang/en_us.lang
-[16:09:12] [Server thread/WARN] [FML]: Missing English translation for geckolib3: assets/geckolib3/lang/en_us.lang
-[16:09:12] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, aether_legacy, appleskin, artifacts, autoreglib, baubles, carryon, sexmod, geckolib3, jei, journeymap, oreexcavation, quark, simple_hammers, spartanshields, spartanweaponry, travelersbackpack, twilightforest, waystones, jade] at CLIENT
-[16:09:12] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, aether_legacy, appleskin, artifacts, autoreglib, baubles, carryon, sexmod, geckolib3, jei, journeymap, oreexcavation, quark, simple_hammers, spartanshields, spartanweaponry, travelersbackpack, twilightforest, waystones, jade] at SERVER
-[16:09:13] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.util.DamageSource
-[16:09:13] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [causePlayerDamage, func_76365_a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/util/DamageSource;)
-[16:09:13] [Server thread/INFO] [Quark ASM]: Located Method, patching...
-[16:09:13] [Server thread/INFO] [Quark ASM]: Patch result: true
-[16:09:13] [Server thread/ERROR] [FML]: The mod carryon is expecting signature fd21553434f4905f2f73ea7838147ac4ea07bd88 for source carryon-1.12.2-1.12.7.23.jar, however there is no signature matching that description
-[16:09:14] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[16:09:14] [Server thread/INFO] [FML]: Found 1460 ObjectHolder annotations
-[16:09:14] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[16:09:14] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[16:09:14] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[16:09:14] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[16:09:15] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
-[16:09:15] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
-[16:09:15] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
-[16:09:15] [Forge Version Check/INFO] [forge.VersionCheck]: [aether_legacy] Starting version check at https://raw.githubusercontent.com/Modding-Legacy/Aether-Legacy/master/aether-legacy-changelog.json
-[16:09:15] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Starting version check at https://raw.githubusercontent.com/ochotonida/artifacts/1.12/update.json
-[16:09:15] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Found status: AHEAD Target: null
-[16:09:15] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[16:09:15] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[16:09:15] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
-[16:09:15] [Server thread/INFO] [Quark]: 'Food tooltip' is forcefully disabled as it's incompatible with the following loaded mods: [appleskin]
-[16:09:16] [Server thread/INFO] [Quark]: Module management is enabled
-[16:09:16] [Server thread/INFO] [Quark]: Module experimental is enabled
-[16:09:16] [Server thread/INFO] [Quark]: Module tweaks is enabled
-[16:09:16] [Server thread/INFO] [Quark]: Module decoration is enabled
-[16:09:16] [Server thread/INFO] [Quark]: Module misc is enabled
-[16:09:16] [Server thread/INFO] [Quark]: Module client is enabled
-[16:09:16] [Server thread/INFO] [Quark]: Module world is enabled
-[16:09:16] [Server thread/INFO] [Quark]: Module vanity is enabled
-[16:09:16] [Server thread/INFO] [Quark]: Module building is enabled
-[16:09:16] [Server thread/INFO] [Quark]: Module automation is enabled
-[16:09:18] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
-[16:09:18] [Server thread/INFO] [Spartan Weaponry]: Starting up Spartan Weaponry!
-[16:09:18] [Server thread/INFO] [Spartan Weaponry]: API: Loaded internal method handler. API functionality should work now!
-[16:09:18] [Server thread/INFO] [Spartan Weaponry]: Defined config version: 2.0 - Loaded config version: 2.0
-[16:09:18] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
-[16:09:18] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
-[16:09:18] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
-[16:09:18] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
-[16:09:18] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
-[16:09:18] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
-[16:09:19] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Baubles.
-[16:09:19] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
-[16:09:19] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
-[16:09:19] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
-[16:09:19] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
-[16:09:19] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
-[16:09:19] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
-[16:09:19] [Server thread/INFO] [FML]: Applying holder lookups
-[16:09:19] [Server thread/INFO] [FML]: Holder lookups applied
-[16:09:19] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:wooden_hammer
-[16:09:19] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.wooden_hammer
-[16:09:19] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:stone_hammer
-[16:09:19] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.stone_hammer
-[16:09:19] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:golden_hammer
-[16:09:19] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.golden_hammer
-[16:09:19] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:iron_hammer
-[16:09:19] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.iron_hammer
-[16:09:19] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:diamond_hammer
-[16:09:19] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.diamond_hammer
-[16:09:19] [Server thread/INFO] [Spartan Shields]: Items Registered!
-[16:09:19] [Server thread/INFO] [Spartan Weaponry]: Registering 10 modded material based weapons
-[16:09:19] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for materials: Copper, Tin, Bronze, Steel, Silver, Invar, Platinum, Electrum, Nickel, Lead
-[16:09:19] [Server thread/INFO] [Spartan Weaponry]: Items Registered!
-[16:09:19] [Server thread/INFO] [FML]: Applying holder lookups
-[16:09:19] [Server thread/INFO] [FML]: Holder lookups applied
-[16:09:21] [Server thread/INFO] [Spartan Weaponry]: Registering Enchantments!
-[16:09:21] [Server thread/INFO] [Spartan Weaponry]: Registering entities!
-[16:09:21] [Server thread/INFO] [FML]: Applying holder lookups
-[16:09:21] [Server thread/INFO] [FML]: Holder lookups applied
-[16:09:21] [Server thread/INFO] [FML]: Applying holder lookups
-[16:09:21] [Server thread/INFO] [FML]: Holder lookups applied
-[16:09:21] [Server thread/INFO] [FML]: Injecting itemstacks
-[16:09:21] [Server thread/INFO] [FML]: Itemstack injection complete
-[16:09:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[16:09:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[16:09:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[16:09:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[16:09:21] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[16:09:21] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:09:21] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[16:09:21] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:09:21] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:09:22] [Server thread/INFO] [Spartan Shields]: Recipes added!
-[16:09:22] [Server thread/INFO] [Spartan Weaponry]: Registering recipes for Tipped Bolts!
-[16:09:22] [Server thread/INFO] [Spartan Weaponry]: Recipes added!
-[16:09:22] [Server thread/INFO] [FML]: Applying holder lookups
-[16:09:22] [Server thread/INFO] [FML]: Holder lookups applied
-[16:09:22] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.trolmastercard.sexmod.em from class com.trolmastercard.sexmod.ei
-[16:09:22] [Server thread/INFO] [Spartan Weaponry]: Registering OreDictionary entries
-[16:09:22] [Server thread/INFO] [Spartan Weaponry]: Attempting to add new advancement triggers...
-[16:09:22] [Server thread/INFO] [Spartan Weaponry]: New advancement triggers added successfully!
-[16:09:22] [Server thread/INFO] [FML]: Injecting itemstacks
-[16:09:22] [Server thread/INFO] [FML]: Itemstack injection complete
-[16:09:22] [Server thread/INFO] [sexmod]: loading up custom models...
-[16:09:22] [Server thread/INFO] [sexmod]: found 0 custom model(s)
-[16:09:23] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 23 mods
-[16:09:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[16:09:23] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:elder_prismarine Expected: 357 Got: 506
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:smoker Expected: 394 Got: 507
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_andesite_wall Expected: 415 Got: 508
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_gray_slab_double Expected: 459 Got: 509
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_yellow_slab_double Expected: 506 Got: 510
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:custom_bookshelf Expected: 280 Got: 511
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_jasper_slab Expected: 346 Got: 512
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:charcoal_block Expected: 300 Got: 513
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:jungle_trapdoor Expected: 256 Got: 514
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:icy_stone_slab_double Expected: 366 Got: 515
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:sandstone_bricks_stairs Expected: 396 Got: 516
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:colored_flowerpot_gray Expected: 271 Got: 517
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_black_slab_double Expected: 475 Got: 518
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_lime_stairs Expected: 486 Got: 519
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:netherrack_speleothem Expected: 317 Got: 520
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_light_blue_stairs Expected: 431 Got: 521
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:glowshroom Expected: 392 Got: 522
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_purple_stairs Expected: 438 Got: 523
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_blue_slab_double Expected: 520 Got: 524
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_blue_slab Expected: 519 Got: 525
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:jungle_pressure_plate Expected: 291 Got: 526
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles Expected: 480 Got: 527
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:jungle_button Expected: 296 Got: 528
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_jasper_stairs Expected: 348 Got: 529
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:custom_chest_trap Expected: 283 Got: 530
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_purple_slab_double Expected: 465 Got: 531
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:biotite_block Expected: 324 Got: 532
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:biotite_wall Expected: 328 Got: 533
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:sandstone_new Expected: 395 Got: 534
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_pink_stairs Expected: 434 Got: 536
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_purple_slab_double Expected: 518 Got: 537
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_red_stairs Expected: 495 Got: 538
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:icy_stone_stairs Expected: 367 Got: 539
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_red_slab Expected: 472 Got: 540
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:dark_prismarine_wall Expected: 423 Got: 541
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_red_slab Expected: 525 Got: 543
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:bark Expected: 529 Got: 544
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_slate_slab_double Expected: 352 Got: 546
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_limestone_stairs Expected: 343 Got: 547
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:icy_stone_brick_slab_double Expected: 369 Got: 548
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:sandstone_smooth_slab_double Expected: 400 Got: 549
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:fire_stone_wall Expected: 383 Got: 551
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:bark_birch_slab_double Expected: 541 Got: 552
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:diorite_speleothem Expected: 315 Got: 554
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_magenta_stairs Expected: 430 Got: 555
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_pink_slab_double Expected: 457 Got: 556
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_lime_slab_double Expected: 508 Got: 558
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_red_slab_double Expected: 473 Got: 559
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:roots_blue_flower Expected: 306 Got: 560
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:bark_acacia_stairs Expected: 547 Got: 562
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:elder_prismarine_bricks_wall Expected: 389 Got: 563
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:cobbed_stone_wall Expected: 385 Got: 564
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:slate_speleothem Expected: 322 Got: 565
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:soul_sandstone_smooth_slab Expected: 407 Got: 566
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_diorite_wall Expected: 414 Got: 568
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:spruce_trapdoor Expected: 253 Got: 569
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:bark_birch_stairs Expected: 539 Got: 570
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:bark_acacia_slab Expected: 548 Got: 571
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_marble_slab Expected: 336 Got: 572
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_yellow_stairs Expected: 432 Got: 573
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:polished_stone Expected: 411 Got: 574
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_wall Expected: 412 Got: 575
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:marble_wall Expected: 339 Got: 576
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:crystal_pane Expected: 312 Got: 577
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:colored_flowerpot_magenta Expected: 266 Got: 578
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_gray_slab_double Expected: 512 Got: 579
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:colored_flowerpot_purple Expected: 274 Got: 580
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:blaze_lantern Expected: 286 Got: 581
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:variant_sapling Expected: 310 Got: 582
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_cyan_stairs Expected: 490 Got: 584
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_silver_stairs Expected: 436 Got: 585
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:elder_prismarine_dark_stairs Expected: 382 Got: 587
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_speleothem Expected: 313 Got: 589
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_gray_slab Expected: 458 Got: 590
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_red_slab_double Expected: 526 Got: 591
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:biome_brick Expected: 356 Got: 592
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:jasper_wall Expected: 349 Got: 594
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:gunpowder_block Expected: 303 Got: 595
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:colored_flowerpot_cyan Expected: 273 Got: 596
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:colored_flowerpot_silver Expected: 272 Got: 597
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:biotite_stairs Expected: 327 Got: 600
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_white_slab_double Expected: 498 Got: 601
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:cobblestone_mossy_stairs Expected: 589 Got: 602
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:prismarine_bricks_wall Expected: 422 Got: 604
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_red_stairs Expected: 442 Got: 609
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_lime_stairs Expected: 433 Got: 610
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:colored_flowerpot_brown Expected: 276 Got: 611
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:limestone_wall Expected: 344 Got: 615
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:elder_prismarine_dark_slab Expected: 380 Got: 620
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:sandstone_smooth_slab Expected: 399 Got: 621
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:spruce_pressure_plate Expected: 289 Got: 622
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_limestone_bricks_stairs Expected: 620 Got: 624
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:colored_flowerpot_pink Expected: 270 Got: 626
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_basalt_stairs Expected: 333 Got: 627
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_gray_slab Expected: 511 Got: 629
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:fire_stone_brick_slab Expected: 362 Got: 631
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:iron_ladder Expected: 262 Got: 633
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_granite_slab Expected: 566 Got: 634
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:red_sandstone_smooth_slab_double Expected: 404 Got: 636
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_lime_slab_double Expected: 455 Got: 637
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stonebrick_mossy_wall Expected: 426 Got: 638
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:bark_oak_slab Expected: 532 Got: 639
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_blue_slab Expected: 466 Got: 640
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:prismarine_bricks_stairs Expected: 580 Got: 641
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:roots Expected: 305 Got: 642
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_black_slab_double Expected: 528 Got: 644
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:icy_stone_slab Expected: 365 Got: 645
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:elder_prismarine_slab Expected: 374 Got: 646
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:sandstone_bricks_slab Expected: 401 Got: 647
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:red_sandstone_wall Expected: 417 Got: 648
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_limestone_bricks_slab Expected: 621 Got: 649
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:fire_stone_slab_double Expected: 360 Got: 650
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_purple_slab Expected: 464 Got: 651
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:sandstone_wall Expected: 416 Got: 654
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:icy_stone_brick_stairs Expected: 370 Got: 655
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:midori_pillar Expected: 638 Got: 656
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_slate_slab Expected: 351 Got: 657
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:birch_trapdoor Expected: 254 Got: 658
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:sturdy_stone Expected: 554 Got: 660
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_stairs Expected: 564 Got: 661
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:magma_bricks_slab Expected: 645 Got: 663
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_brown_slab Expected: 468 Got: 664
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_orange_slab Expected: 499 Got: 665
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:bark_spruce_slab Expected: 536 Got: 666
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:iron_plate_slab_double Expected: 558 Got: 667
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:colored_flowerpot_yellow Expected: 268 Got: 668
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_light_blue_slab_double Expected: 504 Got: 669
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:elder_sea_lantern Expected: 358 Got: 670
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_magenta_slab_double Expected: 449 Got: 671
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_andesite_slab_double Expected: 573 Got: 672
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:dark_oak_trapdoor Expected: 258 Got: 675
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:biome_cobblestone Expected: 355 Got: 676
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:charred_nether_brick_slab Expected: 601 Got: 677
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_yellow_stairs Expected: 485 Got: 678
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:end_bricks_wall Expected: 425 Got: 679
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_brown_slab_double Expected: 522 Got: 680
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:thatch_slab Expected: 597 Got: 681
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:hardened_clay_tiles_slab_double Expected: 479 Got: 682
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:reed_block Expected: 656 Got: 683
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:charred_nether_brick_slab_double Expected: 602 Got: 687
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:polished_netherrack_bricks_wall Expected: 682 Got: 688
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_black_slab Expected: 474 Got: 689
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_basalt_slab Expected: 331 Got: 690
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:birch_button Expected: 295 Got: 693
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:red_sandstone_bricks_slab Expected: 405 Got: 696
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:hardened_clay_tiles_slab Expected: 478 Got: 697
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_slate_stairs Expected: 353 Got: 698
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:sandstone_bricks_slab_double Expected: 402 Got: 699
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:black_ash Expected: 304 Got: 700
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_cyan_slab Expected: 462 Got: 701
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:crystal Expected: 311 Got: 702
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_pink_slab_double Expected: 510 Got: 703
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:biotite_slab Expected: 325 Got: 704
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:sandy_bricks Expected: 559 Got: 705
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:midori_block_stairs Expected: 639 Got: 706
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_pink_slab Expected: 509 Got: 707
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:world_stone_pavement Expected: 655 Got: 708
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:bark_birch_wall Expected: 538 Got: 709
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:prismarine_dark_slab Expected: 584 Got: 710
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_light_blue_slab Expected: 450 Got: 711
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:bark_oak_slab_double Expected: 533 Got: 712
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:bark_dark_oak_slab Expected: 552 Got: 713
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_brown_slab Expected: 521 Got: 714
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:cobbed_stone_slab Expected: 371 Got: 715
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_black_stairs Expected: 496 Got: 716
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_limestone_slab_double Expected: 342 Got: 717
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:midori_block_slab Expected: 640 Got: 718
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:sandy_bricks_wall Expected: 563 Got: 719
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stonebrick_wall Expected: 418 Got: 720
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:basalt_wall Expected: 334 Got: 721
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:sandy_bricks_slab_double Expected: 562 Got: 722
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_marble_slab_double Expected: 337 Got: 723
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_purple_stairs Expected: 491 Got: 724
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_diorite_stairs Expected: 568 Got: 725
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_black_slab Expected: 527 Got: 726
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:end_bricks_stairs Expected: 574 Got: 727
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:quartz_wall Expected: 420 Got: 728
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:cobbed_stone_stairs Expected: 373 Got: 729
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:iron_plate_stairs Expected: 556 Got: 730
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_slate_bricks_stairs Expected: 626 Got: 731
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:candle Expected: 284 Got: 732
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:roots_white_flower Expected: 308 Got: 733
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:hardened_clay_tiles Expected: 476 Got: 734
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:nether_brick_fence_gate Expected: 287 Got: 735
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_magenta_slab Expected: 501 Got: 736
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:slate_wall Expected: 354 Got: 737
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:bark_acacia_wall Expected: 546 Got: 738
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:acacia_pressure_plate Expected: 292 Got: 739
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_magenta_slab Expected: 448 Got: 740
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:bark_birch_slab Expected: 540 Got: 741
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:elder_prismarine_bricks_slab_double Expected: 378 Got: 742
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:soul_sandstone_stairs Expected: 670 Got: 743
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_orange_slab_double Expected: 447 Got: 744
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_basalt_slab_double Expected: 332 Got: 745
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:dark_oak_button Expected: 298 Got: 746
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:paper_wall_big Expected: 260 Got: 747
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:framed_glass Expected: 676 Got: 748
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:bark_jungle_stairs Expected: 543 Got: 749
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:thatch Expected: 595 Got: 750
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_diorite_slab Expected: 569 Got: 751
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:blaze_rod Expected: 301 Got: 752
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:iron_button Expected: 687 Got: 753
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:limestone Expected: 340 Got: 754
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:iron_rod Expected: 690 Got: 755
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:colored_flowerpot_blue Expected: 275 Got: 756
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:basalt Expected: 330 Got: 757
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:polished_netherrack Expected: 678 Got: 758
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:icy_stone_brick_slab Expected: 368 Got: 759
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:elder_prismarine_stairs Expected: 376 Got: 760
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:limestone_speleothem Expected: 320 Got: 761
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:biotite_ore Expected: 323 Got: 762
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:bark_dark_oak_stairs Expected: 551 Got: 763
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:red_sandstone_bricks_stairs Expected: 397 Got: 764
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_silver_slab Expected: 460 Got: 765
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:cobbed_stone_slab_double Expected: 372 Got: 766
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:elder_prismarine_slab_double Expected: 375 Got: 767
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:reed_block_slab Expected: 658 Got: 768
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_diorite_bricks_slab Expected: 609 Got: 769
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:red_nether_brick_slab Expected: 587 Got: 770
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:vertical_stained_planks Expected: 648 Got: 771
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_silver_slab Expected: 513 Got: 772
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_cyan_slab_double Expected: 516 Got: 773
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_silver_stairs Expected: 489 Got: 774
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:paper_wall_sakura Expected: 261 Got: 775
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_light_blue_slab Expected: 503 Got: 776
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_yellow_slab Expected: 452 Got: 777
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_slate_bricks_wall Expected: 636 Got: 778
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:spruce_button Expected: 294 Got: 779
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:variant_leaves Expected: 309 Got: 780
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_yellow_slab Expected: 505 Got: 781
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:glowstone_dust_block Expected: 302 Got: 782
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:rope Expected: 285 Got: 783
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:andesite_speleothem Expected: 316 Got: 784
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_blue_stairs Expected: 492 Got: 785
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:soul_sandstone_slab_double Expected: 669 Got: 786
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:prismarine_bricks_slab Expected: 581 Got: 787
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_jasper_slab_double Expected: 347 Got: 788
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:brick_wall Expected: 419 Got: 789
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:fire_stone_brick_stairs Expected: 364 Got: 790
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:magma_bricks_stairs Expected: 644 Got: 791
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:elder_prismarine_bricks_stairs Expected: 379 Got: 792
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:redstone_inductor Expected: 693 Got: 793
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:basalt_speleothem Expected: 318 Got: 794
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:acacia_button Expected: 297 Got: 795
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:bark_jungle_slab Expected: 544 Got: 796
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:bark_acacia_slab_double Expected: 549 Got: 797
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:cobblestone_mossy_slab_double Expected: 591 Got: 798
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:snow_bricks_wall Expected: 665 Got: 799
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_green_stairs Expected: 494 Got: 800
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_white_slab_double Expected: 445 Got: 801
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_granite_bricks_wall Expected: 629 Got: 802
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_lime_slab Expected: 507 Got: 803
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_andesite_bricks_stairs Expected: 611 Got: 804
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_green_slab Expected: 470 Got: 805
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:granite_speleothem Expected: 314 Got: 806
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_green_slab_double Expected: 471 Got: 807
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_white_slab Expected: 444 Got: 808
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:polished_netherrack_bricks_stairs Expected: 679 Got: 809
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:elder_prismarine_dark_wall Expected: 390 Got: 810
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:cobblestone_mossy_slab Expected: 590 Got: 811
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:duskbound_block_stairs Expected: 651 Got: 812
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:framed_glass_pane Expected: 677 Got: 813
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:colored_flowerpot_white Expected: 264 Got: 814
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:soul_sandstone_bricks_slab_double Expected: 410 Got: 815
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_limestone_slab Expected: 341 Got: 816
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:soul_sandstone_wall Expected: 671 Got: 817
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:soul_sandstone_bricks_slab Expected: 409 Got: 818
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_green_slab Expected: 523 Got: 819
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:prismarine_stairs Expected: 577 Got: 820
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_green_slab_double Expected: 524 Got: 821
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_brown_slab_double Expected: 469 Got: 822
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_green_stairs Expected: 441 Got: 823
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:charred_nether_brick_stairs Expected: 600 Got: 824
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:purpur_block_wall Expected: 424 Got: 825
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:polished_netherrack_bricks_slab_double Expected: 681 Got: 826
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:marble Expected: 335 Got: 827
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:prismarine_slab_double Expected: 579 Got: 828
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:dark_oak_pressure_plate Expected: 293 Got: 829
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:birch_pressure_plate Expected: 290 Got: 830
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:end_bricks_slab_double Expected: 576 Got: 831
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_gray_stairs Expected: 435 Got: 832
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_black_stairs Expected: 443 Got: 833
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:colored_flowerpot_green Expected: 277 Got: 834
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_brown_stairs Expected: 493 Got: 835
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:paper_lantern Expected: 263 Got: 836
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_white_stairs Expected: 428 Got: 837
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_diorite_slab_double Expected: 570 Got: 838
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:elder_prismarine_bricks_slab Expected: 377 Got: 839
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:reed_block_stairs Expected: 657 Got: 840
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:elder_prismarine_wall Expected: 388 Got: 841
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:turf Expected: 672 Got: 842
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:red_sandstone_smooth_slab Expected: 403 Got: 843
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:quilted_wool Expected: 683 Got: 844
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:colored_flowerpot_light_blue Expected: 267 Got: 845
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_blue_stairs Expected: 439 Got: 846
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:midori_block_slab_double Expected: 641 Got: 847
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_diorite_bricks_slab_double Expected: 610 Got: 848
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:biotite_slab_double Expected: 326 Got: 849
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:prismarine_dark_slab_double Expected: 585 Got: 850
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:elder_prismarine_dark_slab_double Expected: 381 Got: 851
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:duskbound_block_wall Expected: 654 Got: 852
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_white_slab Expected: 497 Got: 853
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:fire_stone_slab Expected: 359 Got: 854
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:red_sandstone_bricks_slab_double Expected: 406 Got: 855
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:prismarine_slab Expected: 578 Got: 856
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_silver_slab_double Expected: 461 Got: 857
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:soul_sandstone_slab Expected: 668 Got: 858
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:midori_block Expected: 637 Got: 859
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:carved_wood Expected: 666 Got: 860
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:end_bricks_slab Expected: 575 Got: 861
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:sandy_bricks_stairs Expected: 560 Got: 862
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_cyan_slab Expected: 515 Got: 863
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_brown_stairs Expected: 440 Got: 864
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:colored_flowerpot_red Expected: 278 Got: 865
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:fire_stone_brick_slab_double Expected: 363 Got: 866
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:colored_flowerpot_orange Expected: 265 Got: 867
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stonebrick_mossy_slab_double Expected: 594 Got: 868
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:glowcelium Expected: 391 Got: 869
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:prismarine_rough_wall Expected: 421 Got: 870
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_pink_slab Expected: 456 Got: 871
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:hardened_clay_tiles_stairs Expected: 477 Got: 872
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:turf_slab_double Expected: 675 Got: 873
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_andesite_bricks_wall Expected: 631 Got: 874
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:icy_stone_wall Expected: 384 Got: 875
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_purple_slab Expected: 517 Got: 876
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:acacia_trapdoor Expected: 257 Got: 877
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:slate Expected: 350 Got: 878
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:fire_stone_stairs Expected: 361 Got: 879
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_light_blue_slab_double Expected: 451 Got: 880
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:magma_bricks_slab_double Expected: 646 Got: 881
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:jasper Expected: 345 Got: 882
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:glowshroom_block Expected: 393 Got: 883
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:paper_wall Expected: 259 Got: 884
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:bark_oak_stairs Expected: 531 Got: 885
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_basalt_bricks_slab Expected: 615 Got: 886
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_marble_stairs Expected: 338 Got: 887
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:polished_netherrack_bricks_slab Expected: 680 Got: 888
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_orange_stairs Expected: 482 Got: 889
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_silver_slab_double Expected: 514 Got: 890
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:grate Expected: 299 Got: 891
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:colored_flowerpot_black Expected: 279 Got: 892
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:fire_stone_brick_wall Expected: 386 Got: 893
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_limestone_bricks_slab_double Expected: 622 Got: 894
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:gold_button Expected: 688 Got: 895
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:snow_bricks_slab_double Expected: 664 Got: 896
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks Expected: 427 Got: 897
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_yellow_slab_double Expected: 453 Got: 898
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_andesite_stairs Expected: 571 Got: 899
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:ender_watcher Expected: 689 Got: 900
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:marble_speleothem Expected: 319 Got: 901
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stonebrick_mossy_stairs Expected: 592 Got: 902
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:colored_flowerpot_lime Expected: 269 Got: 903
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:monster_box Expected: 329 Got: 904
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:custom_chest Expected: 282 Got: 905
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_magenta_slab_double Expected: 502 Got: 906
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_jasper_bricks_slab Expected: 624 Got: 907
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_light_blue_stairs Expected: 484 Got: 908
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:prismarine_bricks_slab_double Expected: 582 Got: 909
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:leaf_carpet Expected: 288 Got: 910
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:snow_bricks Expected: 661 Got: 911
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_orange_slab_double Expected: 500 Got: 912
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:lit_lamp Expected: 281 Got: 913
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_cyan_slab_double Expected: 463 Got: 914
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:midori_block_wall Expected: 642 Got: 915
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:bark_spruce_slab_double Expected: 537 Got: 916
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:thatch_stairs Expected: 596 Got: 917
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_gray_stairs Expected: 488 Got: 918
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_cyan_stairs Expected: 437 Got: 919
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_white_stairs Expected: 481 Got: 920
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:soul_sandstone_bricks_stairs Expected: 398 Got: 921
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:world_stone_carved Expected: 604 Got: 922
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_pink_stairs Expected: 487 Got: 923
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_orange_stairs Expected: 429 Got: 924
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:roots_black_flower Expected: 307 Got: 925
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_limestone_bricks_wall Expected: 634 Got: 926
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:icy_stone_brick_wall Expected: 387 Got: 927
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:snow_bricks_slab Expected: 663 Got: 928
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:bark_spruce_wall Expected: 534 Got: 929
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:reed_block_wall Expected: 660 Got: 930
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:bark_oak_wall Expected: 530 Got: 931
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_orange_slab Expected: 446 Got: 932
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:soul_sandstone Expected: 667 Got: 933
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_slate_bricks_slab Expected: 627 Got: 934
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_granite_wall Expected: 413 Got: 935
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_lime_slab Expected: 454 Got: 936
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_marble_bricks_wall Expected: 633 Got: 937
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_clay_tiles_magenta_stairs Expected: 483 Got: 938
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:jasper_speleothem Expected: 321 Got: 939
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:duskbound_lantern Expected: 650 Got: 940
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:soul_sandstone_smooth_slab_double Expected: 408 Got: 941
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:vertical_planks Expected: 647 Got: 942
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_granite_stairs Expected: 565 Got: 943
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:iron_plate Expected: 555 Got: 944
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:duskbound_block Expected: 649 Got: 945
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stone_andesite_slab Expected: 572 Got: 946
-[16:09:23] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: quark:stained_planks_blue_slab_double Expected: 467 Got: 947
-[16:09:23] [Server thread/INFO] [FML]: Registry Block: Activating override autoreglib for minecraft:flower_pot
-[16:09:23] [Server thread/INFO] [FML]: Registry Block: Activating override autoreglib for minecraft:slime
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:elder_prismarine Expected: 4262 Got: 5052
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:hardened_clay_tiles Expected: 4353 Got: 5053
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:nether_brick_fence_gate Expected: 4176 Got: 5054
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:iron_plate_slab Expected: 4411 Got: 5055
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_magenta_slab Expected: 4375 Got: 5056
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:slate_wall Expected: 4259 Got: 5057
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:bark_acacia_wall Expected: 4402 Got: 5058
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:cooked_crab_leg Expected: 4242 Got: 5059
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:acacia_pressure_plate Expected: 4181 Got: 5060
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:charred_nether_bricks Expected: 4440 Got: 5061
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_magenta_slab Expected: 4339 Got: 5062
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:crab_leg Expected: 4241 Got: 5063
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:bark_spruce_stairs Expected: 4394 Got: 5064
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:bark_birch_slab Expected: 4398 Got: 5065
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:smoker Expected: 4292 Got: 5066
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_andesite_wall Expected: 4308 Got: 5067
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:soul_sandstone_stairs Expected: 4496 Got: 5068
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:custom_bookshelf Expected: 4167 Got: 5069
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:arrow_explosive Expected: 4193 Got: 5070
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_jasper_slab Expected: 4253 Got: 5071
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:dark_oak_button Expected: 4187 Got: 5072
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:paper_wall_big Expected: 4147 Got: 5073
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:charcoal_block Expected: 4189 Got: 5074
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:framed_glass Expected: 4501 Got: 5075
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:bark_jungle_stairs Expected: 4400 Got: 5076
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:thatch Expected: 4437 Got: 5077
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_diorite_slab Expected: 4420 Got: 5078
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:jungle_trapdoor Expected: 4143 Got: 5079
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:bark_jungle_wall Expected: 4399 Got: 5080
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:iron_button Expected: 4512 Got: 5081
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:limestone Expected: 4248 Got: 5082
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:iron_rod Expected: 4515 Got: 5083
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:colored_flowerpot_blue Expected: 4162 Got: 5084
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:sandstone_bricks_stairs Expected: 4295 Got: 5085
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:basalt Expected: 4233 Got: 5086
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:polished_netherrack Expected: 4503 Got: 5087
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:colored_flowerpot_gray Expected: 4158 Got: 5088
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:bark_dark_oak_wall Expected: 4405 Got: 5089
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:icy_stone_brick_slab Expected: 4270 Got: 5090
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:elder_prismarine_stairs Expected: 4275 Got: 5091
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:limestone_speleothem Expected: 4223 Got: 5092
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_lime_stairs Expected: 4362 Got: 5093
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:biotite_ore Expected: 4226 Got: 5094
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:netherrack_speleothem Expected: 4220 Got: 5095
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_light_blue_stairs Expected: 4324 Got: 5096
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_marble_bricks_stairs Expected: 4453 Got: 5097
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_jasper_bricks_wall Expected: 4467 Got: 5098
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:glowshroom Expected: 4289 Got: 5099
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_purple_stairs Expected: 4331 Got: 5100
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_blue_slab Expected: 4384 Got: 5101
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:bark_dark_oak_stairs Expected: 4406 Got: 5102
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:red_sandstone_bricks_stairs Expected: 4296 Got: 5103
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:red_nether_brick_stairs Expected: 4431 Got: 5104
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_silver_slab Expected: 4345 Got: 5105
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:jungle_pressure_plate Expected: 4180 Got: 5106
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles Expected: 4356 Got: 5107
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:jungle_button Expected: 4185 Got: 5108
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_jasper_stairs Expected: 4254 Got: 5109
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:reed_block_slab Expected: 4487 Got: 5110
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_diorite_bricks_slab Expected: 4448 Got: 5111
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:custom_chest_trap Expected: 4171 Got: 5112
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_basalt_bricks_stairs Expected: 4451 Got: 5113
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:root Expected: 4204 Got: 5114
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:red_nether_brick_slab Expected: 4432 Got: 5115
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:vertical_stained_planks Expected: 4478 Got: 5116
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:biotite_block Expected: 4227 Got: 5117
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_silver_slab Expected: 4381 Got: 5118
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_diorite_bricks_stairs Expected: 4447 Got: 5119
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:rain_detector Expected: 4520 Got: 5120
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_silver_stairs Expected: 4365 Got: 5121
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:paper_wall_sakura Expected: 4148 Got: 5122
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:biotite_wall Expected: 4231 Got: 5123
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_light_blue_slab Expected: 4376 Got: 5124
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_granite_bricks_stairs Expected: 4445 Got: 5125
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:sandstone_new Expected: 4294 Got: 5126
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_pink_stairs Expected: 4327 Got: 5127
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_yellow_slab Expected: 4341 Got: 5128
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_red_stairs Expected: 4371 Got: 5129
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_slate_bricks_wall Expected: 4468 Got: 5130
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:spruce_button Expected: 4183 Got: 5131
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:variant_leaves Expected: 4212 Got: 5132
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_yellow_slab Expected: 4377 Got: 5133
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:icy_stone_stairs Expected: 4269 Got: 5134
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_red_slab Expected: 4351 Got: 5135
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:rope Expected: 4174 Got: 5136
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:andesite_speleothem Expected: 4219 Got: 5137
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:world_stone_bricks Expected: 4443 Got: 5138
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:dark_prismarine_wall Expected: 4316 Got: 5139
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:sandy_bricks_slab Expected: 4414 Got: 5140
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_blue_stairs Expected: 4368 Got: 5141
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_red_slab Expected: 4387 Got: 5142
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:bark Expected: 4389 Got: 5143
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:crab_shell Expected: 4243 Got: 5144
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:prismarine_bricks_slab Expected: 4428 Got: 5145
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:brick_wall Expected: 4312 Got: 5146
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_limestone_stairs Expected: 4250 Got: 5147
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:duskbound_block_slab Expected: 4482 Got: 5148
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:fire_stone_brick_stairs Expected: 4267 Got: 5149
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:fire_stone_wall Expected: 4280 Got: 5150
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:horse_whistle Expected: 4199 Got: 5151
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:diamond_heart Expected: 4210 Got: 5152
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:magma_bricks_stairs Expected: 4475 Got: 5153
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:pirate_hat Expected: 4240 Got: 5154
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:elder_prismarine_bricks_stairs Expected: 4277 Got: 5155
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:diorite_speleothem Expected: 4218 Got: 5156
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_magenta_stairs Expected: 4323 Got: 5157
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:redstone_inductor Expected: 4518 Got: 5158
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:basalt_speleothem Expected: 4221 Got: 5159
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:acacia_button Expected: 4186 Got: 5160
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:bark_jungle_slab Expected: 4401 Got: 5161
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:snow_bricks_wall Expected: 4492 Got: 5162
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:roots_blue_flower Expected: 4205 Got: 5163
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_green_stairs Expected: 4370 Got: 5164
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:bark_acacia_stairs Expected: 4403 Got: 5165
-[16:09:23] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:elder_prismarine_bricks_wall Expected: 4286 Got: 5166
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_granite_bricks_wall Expected: 4461 Got: 5167
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:cobbed_stone_wall Expected: 4282 Got: 5168
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_lime_slab Expected: 4378 Got: 5169
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:pickarang Expected: 4191 Got: 5170
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_marble_bricks_slab Expected: 4454 Got: 5171
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_andesite_bricks_stairs Expected: 4449 Got: 5172
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_green_slab Expected: 4350 Got: 5173
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:granite_speleothem Expected: 4217 Got: 5174
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:slate_speleothem Expected: 4225 Got: 5175
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_white_slab Expected: 4337 Got: 5176
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_granite_bricks_slab Expected: 4446 Got: 5177
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:soul_sandstone_smooth_slab Expected: 4302 Got: 5178
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:polished_netherrack_bricks_stairs Expected: 4504 Got: 5179
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:elder_prismarine_dark_wall Expected: 4287 Got: 5180
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_diorite_wall Expected: 4307 Got: 5181
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:cobblestone_mossy_slab Expected: 4434 Got: 5182
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:duskbound_block_stairs Expected: 4481 Got: 5183
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:framed_glass_pane Expected: 4502 Got: 5184
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:spruce_trapdoor Expected: 4141 Got: 5185
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:bark_birch_stairs Expected: 4397 Got: 5186
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:magma_bricks Expected: 4474 Got: 5187
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:bark_acacia_slab Expected: 4404 Got: 5188
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:colored_flowerpot_white Expected: 4151 Got: 5189
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_limestone_slab Expected: 4249 Got: 5190
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:sugar_block Expected: 4510 Got: 5191
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:soul_sandstone_wall Expected: 4497 Got: 5192
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_marble_slab Expected: 4245 Got: 5193
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_yellow_stairs Expected: 4325 Got: 5194
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stonebrick_mossy_slab Expected: 4436 Got: 5195
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:soul_powder Expected: 4200 Got: 5196
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:parrot_egg Expected: 4201 Got: 5197
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:soul_sandstone_bricks_slab Expected: 4303 Got: 5198
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:polished_stone Expected: 4304 Got: 5199
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_green_slab Expected: 4386 Got: 5200
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:prismarine_stairs Expected: 4425 Got: 5201
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_wall Expected: 4305 Got: 5202
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:marble_wall Expected: 4247 Got: 5203
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:crystal_pane Expected: 4215 Got: 5204
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_green_stairs Expected: 4334 Got: 5205
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:biotite Expected: 4228 Got: 5206
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:charred_nether_brick_stairs Expected: 4441 Got: 5207
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:turf_slab Expected: 4500 Got: 5208
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:colored_flowerpot_magenta Expected: 4153 Got: 5209
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:tallow Expected: 4173 Got: 5210
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:purpur_block_wall Expected: 4317 Got: 5211
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:marble Expected: 4244 Got: 5212
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:dark_oak_pressure_plate Expected: 4182 Got: 5213
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:colored_flowerpot_purple Expected: 4161 Got: 5214
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:blaze_lantern Expected: 4175 Got: 5215
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:birch_pressure_plate Expected: 4179 Got: 5216
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:prismarine_dark_stairs Expected: 4429 Got: 5217
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_gray_stairs Expected: 4328 Got: 5218
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:gravisand Expected: 4517 Got: 5219
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:soul_bead Expected: 4291 Got: 5220
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:variant_sapling Expected: 4213 Got: 5221
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_black_stairs Expected: 4336 Got: 5222
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_cyan_stairs Expected: 4366 Got: 5223
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:colored_flowerpot_green Expected: 4164 Got: 5224
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_silver_stairs Expected: 4329 Got: 5225
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:trowel Expected: 4507 Got: 5226
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_brown_stairs Expected: 4369 Got: 5227
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:elder_prismarine_dark_stairs Expected: 4279 Got: 5228
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:paper_lantern Expected: 4150 Got: 5229
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_speleothem Expected: 4216 Got: 5230
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_white_stairs Expected: 4321 Got: 5231
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:elder_prismarine_bricks_slab Expected: 4276 Got: 5232
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:reed_block_stairs Expected: 4486 Got: 5233
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:arrow_ender Expected: 4192 Got: 5234
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_andesite_bricks_slab Expected: 4450 Got: 5235
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:elder_prismarine_wall Expected: 4285 Got: 5236
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_gray_slab Expected: 4344 Got: 5237
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_jasper_bricks_stairs Expected: 4457 Got: 5238
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:turf Expected: 4498 Got: 5239
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:biome_brick Expected: 4261 Got: 5240
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:jasper_wall Expected: 4255 Got: 5241
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:glass_item_frame Expected: 4190 Got: 5242
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:chain Expected: 4521 Got: 5243
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_diorite_bricks_wall Expected: 4462 Got: 5244
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:snow_bricks_stairs Expected: 4490 Got: 5245
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:red_sandstone_smooth_slab Expected: 4300 Got: 5246
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_basalt_bricks_wall Expected: 4464 Got: 5247
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:quilted_wool Expected: 4508 Got: 5248
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:colored_flowerpot_light_blue Expected: 4154 Got: 5249
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:colored_flowerpot_cyan Expected: 4160 Got: 5250
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:witch_hat Expected: 4293 Got: 5251
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_blue_stairs Expected: 4332 Got: 5252
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:colored_flowerpot_silver Expected: 4159 Got: 5253
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:biotite_stairs Expected: 4230 Got: 5254
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:arrow_torch Expected: 4194 Got: 5255
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:cobblestone_mossy_stairs Expected: 4433 Got: 5256
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:prismarine_bricks_wall Expected: 4315 Got: 5257
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_red_stairs Expected: 4335 Got: 5258
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_lime_stairs Expected: 4326 Got: 5259
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:colored_flowerpot_brown Expected: 4163 Got: 5260
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:duskbound_block_wall Expected: 4483 Got: 5261
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:limestone_wall Expected: 4251 Got: 5262
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_white_slab Expected: 4373 Got: 5263
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:fire_stone_slab Expected: 4264 Got: 5264
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:elder_prismarine_dark_slab Expected: 4278 Got: 5265
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:sandstone_smooth_slab Expected: 4298 Got: 5266
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:spruce_pressure_plate Expected: 4178 Got: 5267
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_limestone_bricks_stairs Expected: 4455 Got: 5268
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:cooked_frog_leg Expected: 4238 Got: 5269
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:colored_flowerpot_pink Expected: 4157 Got: 5270
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:prismarine_slab Expected: 4426 Got: 5271
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:frog_leg Expected: 4237 Got: 5272
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:soul_sandstone_slab Expected: 4495 Got: 5273
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:midori_block Expected: 4469 Got: 5274
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:redstone_randomizer Expected: 4511 Got: 5275
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_basalt_stairs Expected: 4235 Got: 5276
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:carved_wood Expected: 4493 Got: 5277
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_gray_slab Expected: 4380 Got: 5278
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:end_bricks_slab Expected: 4424 Got: 5279
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:root_flower Expected: 4208 Got: 5280
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:root_dye Expected: 4209 Got: 5281
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:fire_stone_brick_slab Expected: 4266 Got: 5282
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:iron_ladder Expected: 4149 Got: 5283
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:ancient_tome Expected: 4198 Got: 5284
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:sandy_bricks_stairs Expected: 4413 Got: 5285
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_cyan_slab Expected: 4382 Got: 5286
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_granite_slab Expected: 4418 Got: 5287
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:obsidian_pressure_plate Expected: 4519 Got: 5288
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stonebrick_mossy_wall Expected: 4319 Got: 5289
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_brown_stairs Expected: 4333 Got: 5290
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:bark_oak_slab Expected: 4392 Got: 5291
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_blue_slab Expected: 4348 Got: 5292
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:colored_flowerpot_red Expected: 4165 Got: 5293
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:colored_flowerpot_orange Expected: 4152 Got: 5294
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:prismarine_bricks_stairs Expected: 4427 Got: 5295
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:glass_shards Expected: 4140 Got: 5296
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:roots Expected: 4203 Got: 5297
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:archaeologist_hat Expected: 4211 Got: 5298
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:glowcelium Expected: 4288 Got: 5299
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:icy_stone_slab Expected: 4268 Got: 5300
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:prismarine_rough_wall Expected: 4314 Got: 5301
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:chute Expected: 4509 Got: 5302
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_pink_slab Expected: 4343 Got: 5303
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:hardened_clay_tiles_stairs Expected: 4354 Got: 5304
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:elder_prismarine_slab Expected: 4274 Got: 5305
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:sandstone_bricks_slab Expected: 4299 Got: 5306
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:red_sandstone_wall Expected: 4310 Got: 5307
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_limestone_bricks_slab Expected: 4456 Got: 5308
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_purple_slab Expected: 4347 Got: 5309
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_andesite_bricks_wall Expected: 4463 Got: 5310
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:icy_stone_wall Expected: 4281 Got: 5311
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:turf_stairs Expected: 4499 Got: 5312
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:golden_frog_leg Expected: 4239 Got: 5313
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:sandstone_wall Expected: 4309 Got: 5314
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_purple_slab Expected: 4383 Got: 5315
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:acacia_trapdoor Expected: 4144 Got: 5316
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:icy_stone_brick_stairs Expected: 4271 Got: 5317
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:midori_pillar Expected: 4470 Got: 5318
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:slime_bucket Expected: 4195 Got: 5319
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_slate_slab Expected: 4257 Got: 5320
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:birch_trapdoor Expected: 4142 Got: 5321
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:slate Expected: 4256 Got: 5322
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:sturdy_stone Expected: 4408 Got: 5323
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_stairs Expected: 4416 Got: 5324
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:fire_stone_stairs Expected: 4265 Got: 5325
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:magma_bricks_slab Expected: 4476 Got: 5326
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_brown_slab Expected: 4349 Got: 5327
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_orange_slab Expected: 4374 Got: 5328
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:bark_spruce_slab Expected: 4395 Got: 5329
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:jasper Expected: 4252 Got: 5330
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:colored_flowerpot_yellow Expected: 4155 Got: 5331
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:glowshroom_block Expected: 4290 Got: 5332
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:elder_sea_lantern Expected: 4263 Got: 5333
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:paper_wall Expected: 4146 Got: 5334
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:bark_oak_stairs Expected: 4391 Got: 5335
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_basalt_bricks_slab Expected: 4452 Got: 5336
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_marble_stairs Expected: 4246 Got: 5337
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:dark_oak_trapdoor Expected: 4145 Got: 5338
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:biome_cobblestone Expected: 4260 Got: 5339
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:charred_nether_brick_slab Expected: 4442 Got: 5340
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:polished_netherrack_bricks_slab Expected: 4505 Got: 5341
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_orange_stairs Expected: 4358 Got: 5342
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:grate Expected: 4188 Got: 5343
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:colored_flowerpot_black Expected: 4166 Got: 5344
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_yellow_stairs Expected: 4361 Got: 5345
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:end_bricks_wall Expected: 4318 Got: 5346
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:thatch_slab Expected: 4439 Got: 5347
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:reed_block Expected: 4485 Got: 5348
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:enderdragon_scale Expected: 4202 Got: 5349
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:fire_stone_brick_wall Expected: 4283 Got: 5350
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:polished_netherrack_bricks_wall Expected: 4506 Got: 5351
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_black_slab Expected: 4352 Got: 5352
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_basalt_slab Expected: 4234 Got: 5353
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:gold_button Expected: 4513 Got: 5354
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:color_slime Expected: 4516 Got: 5355
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:birch_button Expected: 4184 Got: 5356
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:red_sandstone_bricks_slab Expected: 4301 Got: 5357
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks Expected: 4320 Got: 5358
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:hardened_clay_tiles_slab Expected: 4355 Got: 5359
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_slate_stairs Expected: 4258 Got: 5360
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_andesite_stairs Expected: 4421 Got: 5361
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:black_ash Expected: 4197 Got: 5362
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_cyan_slab Expected: 4346 Got: 5363
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:ender_watcher Expected: 4514 Got: 5364
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:crystal Expected: 4214 Got: 5365
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:marble_speleothem Expected: 4222 Got: 5366
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stonebrick_mossy_stairs Expected: 4435 Got: 5367
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:biotite_slab Expected: 4229 Got: 5368
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:sandy_bricks Expected: 4412 Got: 5369
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:midori_block_stairs Expected: 4471 Got: 5370
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:colored_flowerpot_lime Expected: 4156 Got: 5371
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:monster_box Expected: 4232 Got: 5372
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:custom_chest Expected: 4170 Got: 5373
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_jasper_bricks_slab Expected: 4458 Got: 5374
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_light_blue_stairs Expected: 4360 Got: 5375
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:leaf_carpet Expected: 4177 Got: 5376
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:snow_bricks Expected: 4489 Got: 5377
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_pink_slab Expected: 4379 Got: 5378
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:world_stone_pavement Expected: 4484 Got: 5379
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:bark_birch_wall Expected: 4396 Got: 5380
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:prismarine_dark_slab Expected: 4430 Got: 5381
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:lit_lamp Expected: 4169 Got: 5382
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_light_blue_slab Expected: 4340 Got: 5383
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:midori_block_wall Expected: 4473 Got: 5384
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:thatch_stairs Expected: 4438 Got: 5385
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:colored_item_frame Expected: 4168 Got: 5386
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:bark_dark_oak_slab Expected: 4407 Got: 5387
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_gray_stairs Expected: 4364 Got: 5388
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_cyan_stairs Expected: 4330 Got: 5389
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_brown_slab Expected: 4385 Got: 5390
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:cobbed_stone_slab Expected: 4272 Got: 5391
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_white_stairs Expected: 4357 Got: 5392
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_black_stairs Expected: 4372 Got: 5393
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:midori_block_slab Expected: 4472 Got: 5394
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:sandy_bricks_wall Expected: 4415 Got: 5395
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:soul_sandstone_bricks_stairs Expected: 4297 Got: 5396
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:world_stone_carved Expected: 4444 Got: 5397
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_pink_stairs Expected: 4363 Got: 5398
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stonebrick_wall Expected: 4311 Got: 5399
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_orange_stairs Expected: 4322 Got: 5400
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:roots_black_flower Expected: 4206 Got: 5401
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_limestone_bricks_wall Expected: 4466 Got: 5402
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:basalt_wall Expected: 4236 Got: 5403
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:icy_stone_brick_wall Expected: 4284 Got: 5404
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:snow_bricks_slab Expected: 4491 Got: 5405
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_purple_stairs Expected: 4367 Got: 5406
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_diorite_stairs Expected: 4419 Got: 5407
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:bark_spruce_wall Expected: 4393 Got: 5408
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:reed_block_wall Expected: 4488 Got: 5409
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:bark_oak_wall Expected: 4390 Got: 5410
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_orange_slab Expected: 4338 Got: 5411
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_black_slab Expected: 4388 Got: 5412
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:soul_sandstone Expected: 4494 Got: 5413
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:rune Expected: 4196 Got: 5414
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:end_bricks_stairs Expected: 4423 Got: 5415
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_slate_bricks_slab Expected: 4460 Got: 5416
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:quartz_wall Expected: 4313 Got: 5417
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:cobbed_stone_stairs Expected: 4273 Got: 5418
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_granite_wall Expected: 4306 Got: 5419
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_planks_lime_slab Expected: 4342 Got: 5420
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_marble_bricks_wall Expected: 4465 Got: 5421
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stained_clay_tiles_magenta_stairs Expected: 4359 Got: 5422
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:jasper_speleothem Expected: 4224 Got: 5423
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:duskbound_lantern Expected: 4480 Got: 5424
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:iron_plate_stairs Expected: 4410 Got: 5425
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_slate_bricks_stairs Expected: 4459 Got: 5426
-[16:09:24] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:vertical_planks Expected: 4477 Got: 5427
-[16:09:26] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:candle Expected: 4172 Got: 5428
-[16:09:26] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_granite_stairs Expected: 4417 Got: 5429
-[16:09:26] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:roots_white_flower Expected: 4207 Got: 5430
-[16:09:26] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:iron_plate Expected: 4409 Got: 5431
-[16:09:26] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:duskbound_block Expected: 4479 Got: 5432
-[16:09:26] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: quark:stone_andesite_slab Expected: 4422 Got: 5433
-[16:09:26] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: quark:black Expected: 29 Got: 30
-[16:09:26] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: quark:blue Expected: 28 Got: 31
-[16:09:26] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: quark:resilience Expected: 31 Got: 33
-[16:09:26] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: quark:white Expected: 30 Got: 34
-[16:09:26] [Server thread/WARN] [FML]: Registry Potion: Object did not get ID it asked for. Name: quark:danger_sight Expected: 33 Got: 35
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:block.monster_box.growl Expected: 562 Got: 1375
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:block.sponge.hiss Expected: 559 Got: 1376
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:entity.pickarang.pickup Expected: 578 Got: 1377
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:entity.stoneling.meep Expected: 563 Got: 1378
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:entity.stoneling.purr Expected: 564 Got: 1379
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:entity.stoneling.take Expected: 566 Got: 1380
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:entity.stoneling.die Expected: 568 Got: 1381
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:item.horse_whistle.blow Expected: 579 Got: 1382
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:item.soul_bead.curse Expected: 561 Got: 1383
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:entity.pickarang.clank Expected: 577 Got: 1384
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:entity.pickarang.throw Expected: 576 Got: 1385
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:block.pipe.shoot.lenny Expected: 557 Got: 1386
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:entity.frog.jump Expected: 575 Got: 1387
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:item.soul_powder.spawn Expected: 554 Got: 1388
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:entity.stoneling.eat Expected: 567 Got: 1389
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:entity.stoneling.give Expected: 565 Got: 1390
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:entity.stoneling.michael Expected: 570 Got: 1391
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:block.pipe.pickup Expected: 556 Got: 1392
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:entity.stoneling.cry Expected: 569 Got: 1393
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:block.pipe.shoot Expected: 555 Got: 1394
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:entity.boat.add_item Expected: 560 Got: 1395
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:entity.frog.die Expected: 573 Got: 1396
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:entity.frog.idle Expected: 574 Got: 1397
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:entity.frog.wednesday Expected: 571 Got: 1398
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:block.pipe.pickup.lenny Expected: 558 Got: 1399
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:entity.frog.hurt Expected: 572 Got: 1400
-[16:09:26] [Server thread/WARN] [FML]: Registry SoundEvent: Object did not get ID it asked for. Name: quark:block.tiny_potato.shia_labeouf Expected: 580 Got: 1401
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:soul_powder Expected: 77 Got: 239
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:parrot_egg Expected: 78 Got: 240
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:gravisand Expected: 89 Got: 241
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:leash_knot Expected: 49 Got: 242
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:stoneling Expected: 79 Got: 243
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:seat Expected: 88 Got: 244
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:dragon_breath_bottle Expected: 76 Got: 245
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:frog Expected: 84 Got: 246
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:foxhound Expected: 81 Got: 247
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:pirate Expected: 85 Got: 248
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:archaeologist Expected: 80 Got: 249
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:chest_passenger Expected: 39 Got: 250
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:flat_item_frame Expected: 48 Got: 251
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:arrow_ender Expected: 73 Got: 252
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:arrow_torch Expected: 75 Got: 253
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:arrow_explosive Expected: 74 Got: 254
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:wraith Expected: 87 Got: 255
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:ashen Expected: 83 Got: 256
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:crab Expected: 86 Got: 257
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:pickarang Expected: 72 Got: 258
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:glass_item_frame Expected: 71 Got: 259
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:dweller Expected: 82 Got: 260
-[16:09:26] [Server thread/WARN] [FML]: Registry EntityEntry: Object did not get ID it asked for. Name: quark:colored_item_frame Expected: 70 Got: 261
-[16:09:26] [Server thread/INFO] [FML]: Applying holder lookups
-[16:09:26] [Server thread/INFO] [FML]: Holder lookups applied
-[16:09:26] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@70f8f7ca)
-[16:09:27] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 821 advancements
-[16:09:27] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@70f8f7ca)
-[16:09:27] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@70f8f7ca)
-[16:09:27] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@70f8f7ca)
-[16:09:27] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@70f8f7ca)
-[16:09:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[16:09:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 25%
-[16:09:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (5.931s)! For help, type "help" or "?"
-[16:09:29] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentHelper
-[16:09:29] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [getEnchantments, func_82781_a] Descriptor (Lnet/minecraft/item/ItemStack;)Ljava/util/Map;)
-[16:09:29] [Server thread/INFO] [Quark ASM]: Located Method, patching...
-[16:09:29] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/item/ItemStack.func_77986_q ()Lnet/minecraft/nbt/NBTTagList;
-[16:09:29] [Server thread/INFO] [Quark ASM]: Patch result: true
-[16:09:30] [Server thread/INFO] [FML]: Unloading dimension -1
-[16:09:30] [Server thread/INFO] [FML]: Unloading dimension 1
-[16:09:30] [Server thread/INFO] [FML]: Unloading dimension 4
-[16:09:30] [Server thread/INFO] [FML]: Unloading dimension 7
-[16:14:18] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[16:14:18] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,FML@8.0.99.99,baubles@1.5.2,jade@0.1.0,spartanweaponry@1.6.0,appleskin@1.0.14,jei@4.16.1.1013,aether_legacy@1.5.4.1,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,forge@14.23.5.2859,sexmod@1.1.0,quark@r1.6-179,spartanshields@1.5.5,twilightforest@3.11.1021,geckolib3@3.0.30,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p2,simple_hammers@0.0.1-BACKPORT,autoreglib@1.3-32,artifacts@1.12.2-1.2.4,oreexcavation@1.4.150,travelersbackpack@1.0.35
-[16:14:18] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
-[16:14:20] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[16:14:20] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: renny_lopez_2020[/127.235.209.222:57131] logged in with entity id 348 at (253.5, 71.0, 226.5)
-[16:14:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: renny_lopez_2020 joined the game
-[16:14:59] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.trolmastercard.sexmod.em from class com.trolmastercard.sexmod.ex
-[16:16:38] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerWorkbench
-[16:16:38] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
-[16:16:38] [Server thread/INFO] [Quark ASM]: Located Method, patching...
-[16:16:38] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
-[16:16:38] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
-[16:16:38] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
-[16:16:38] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
-[16:16:38] [Server thread/INFO] [Quark ASM]: Patch result: true
-[16:16:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: renny_lopez_2020 has made the advancement [Stone Age]
-[16:17:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: renny_lopez_2020 has made the advancement [Getting an Upgrade]
-[16:19:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: renny_lopez_2020 has made the advancement [Monster Hunter]
-[16:19:54] [Server thread/WARN] [FML]: Quark loaded a new chunk [3, 0] in dimension 0 (overworld) while populating chunk [4, 0], causing cascading worldgen lag.
-[16:19:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[16:19:54] [Server thread/WARN] [FML]: Quark loaded a new chunk [3, 1] in dimension 0 (overworld) while populating chunk [4, 0], causing cascading worldgen lag.
-[16:19:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[16:20:45] [Server thread/WARN] [FML]: Quark loaded a new chunk [12, -3] in dimension 0 (overworld) while populating chunk [13, -2], causing cascading worldgen lag.
-[16:20:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[16:32:14] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 4be7f3e6-577c-4cb7-885f-32522f53f5e7 owned by null
-[16:32:14] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kugs with UUID 277b88ae-a682-409f-9711-0ab8855c4532 owned by null
-[16:32:14] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID c65dbba2-e03e-45b5-b834-1638861e3e35 owned by null
-[16:32:14] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snok with UUID 5790f997-3ebc-465d-a9fc-9189b59f3f4d owned by null
-[16:34:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped renny_lopez_2020
-[16:35:15] [Server thread/WARN] [FML]: Quark loaded a new chunk [-6, 25] in dimension 0 (overworld) while populating chunk [-5, 25], causing cascading worldgen lag.
-[16:35:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[16:35:15] [Server thread/WARN] [FML]: Quark loaded a new chunk [-6, 26] in dimension 0 (overworld) while populating chunk [-5, 25], causing cascading worldgen lag.
-[16:35:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[16:35:34] [Server thread/WARN] [FML]: Quark loaded a new chunk [-10, 17] in dimension 0 (overworld) while populating chunk [-10, 16], causing cascading worldgen lag.
-[16:35:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[16:35:34] [Server thread/WARN] [FML]: Quark loaded a new chunk [-11, 17] in dimension 0 (overworld) while populating chunk [-10, 16], causing cascading worldgen lag.
-[16:35:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[16:37:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Dovni with UUID a9778cb0-8719-4083-9ef6-08d56ea9d011 owned by null
-[16:37:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID 98d4eaff-1eac-4213-b423-c8fd51aefc87 owned by null
-[16:37:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 986b65f6-04a4-4f78-9ad0-7c7a168b388d owned by null
-[16:37:43] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Dovni with UUID 2b868579-f945-4ba5-a511-13a8d9bea327 owned by null
-[16:38:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: renny_lopez_2020 has made the advancement [Sweet dreams]
-[16:38:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: renny_lopez_2020 lost connection: Disconnected
-[16:38:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: renny_lopez_2020 left the game
-[16:39:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[16:39:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[16:39:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[16:39:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[16:39:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[16:39:18] [Server thread/INFO] [FML]: Unloading dimension 0
-[16:39:18] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[16:39:18] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[16:39:18] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[21:23:18] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:23:18] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:23:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:23:18] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[21:23:18] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[21:23:18] [main/INFO] [FML]: Searching /workspaces/servidor/servidor_minecraft/./mods for mods
+[21:23:18] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Quark-r1.6-179.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[21:23:18] [main/WARN] [FML]: The coremod Quark Plugin (vazkii.quark.base.asm.LoadingPlugin) is not signed!
+[21:23:18] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.6.0.jar
+[21:23:18] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:23:18] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[21:23:18] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.7.11 Source=file:/workspaces/servidor/servidor_minecraft/./mods/SpartanWeaponry-1.12.2-1.6.0.jar Service=LaunchWrapper Env=SERVER
+[21:23:18] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
+[21:23:18] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[21:23:18] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[21:23:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:23:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:23:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:23:20] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[21:23:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:23:20] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[21:23:20] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@54534abf
+[21:23:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[21:23:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:23:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[21:23:21] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[21:23:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[21:23:21] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[21:23:21] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.Entity
+[21:23:21] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
+[21:23:21] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:21] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:21] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:21] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
+[21:23:21] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:21] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
+[21:23:21] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:21] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:21] [main/INFO] [Quark ASM]: Transforming net.minecraft.world.WorldServer
+[21:23:21] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [areAllPlayersAsleep, func_73056_e] Descriptor ()Z)
+[21:23:21] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:21] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:21] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [wakeAllPlayers, func_73053_d] Descriptor ()V)
+[21:23:21] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:21] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:22] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemStack
+[21:23:22] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getTextComponent, func_151000_E] Descriptor ()Lnet/minecraft/util/text/ITextComponent;)
+[21:23:22] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:22] [main/INFO] [Quark ASM]: Located patch target node ARETURN
+[21:23:22] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:22] [main/INFO] [Quark ASM]: Transforming net.minecraft.util.DamageSource
+[21:23:22] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [causePlayerDamage, func_76365_a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/util/DamageSource;)
+[21:23:22] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:22] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:22] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.Entity
+[21:23:22] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
+[21:23:22] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:22] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:22] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:22] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
+[21:23:22] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:22] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
+[21:23:22] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:22] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:22] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[21:23:22] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.Enchantment
+[21:23:22] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[21:23:22] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:22] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[21:23:22] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:23] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityItem
+[21:23:23] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onUpdate, func_70071_h_] Descriptor ()V)
+[21:23:23] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:23] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:23] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemStack
+[21:23:23] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getTextComponent, func_151000_E] Descriptor ()Lnet/minecraft/util/text/ITextComponent;)
+[21:23:23] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:23] [main/INFO] [Quark ASM]: Located patch target node ARETURN
+[21:23:23] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:23] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockDynamicLiquid
+[21:23:23] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isBlocked, func_176372_g] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z)
+[21:23:23] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:23] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[21:23:23] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[21:23:23] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:23] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockPistonBase
+[21:23:23] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canPush, func_185646_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;ZLnet/minecraft/util/EnumFacing;)Z)
+[21:23:23] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:23] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/Block.hasTileEntity (Lnet/minecraft/block/state/IBlockState;)Z
+[21:23:23] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:23] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[21:23:23] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:23] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/state/BlockPistonStructureHelper.func_177254_c ()Ljava/util/List;
+[21:23:23] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:23] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[21:23:23] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:23] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[21:23:23] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:23] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [checkForMove, func_176316_e] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V)
+[21:23:23] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:23] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[21:23:23] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:23] [main/INFO] [Quark ASM]: Transforming net.minecraft.tileentity.TileEntityPiston
+[21:23:23] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[21:23:23] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:23] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:23] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [clearPistonTileEntity, func_145866_f] Descriptor ()V)
+[21:23:23] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:23] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[21:23:23] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:23] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[21:23:23] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:23] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[21:23:23] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:24] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentDamage
+[21:23:24] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[21:23:24] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:24] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[21:23:24] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[21:23:24] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:24] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityMinecart
+[21:23:24] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [killMinecart, func_94095_a] Descriptor (Lnet/minecraft/util/DamageSource;)V)
+[21:23:24] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:24] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityMinecart.func_70099_a (Lnet/minecraft/item/ItemStack;F)Lnet/minecraft/entity/item/EntityItem;
+[21:23:24] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:24] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityBoat
+[21:23:24] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [attackEntityFrom, func_70097_a] Descriptor (Lnet/minecraft/util/DamageSource;F)Z)
+[21:23:24] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:24] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityBoat.func_145778_a (Lnet/minecraft/item/Item;IF)Lnet/minecraft/entity/item/EntityItem;
+[21:23:24] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:25] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemBanner
+[21:23:25] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [appendHoverTextFromTileEntityTag, func_185054_a] Descriptor (Lnet/minecraft/item/ItemStack;Ljava/util/List;)V)
+[21:23:25] [main/INFO] [Quark ASM]: Failed to locate the method!
+[21:23:25] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.ai.EntityAITarget
+[21:23:25] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isSuitableTarget, func_179445_a] Descriptor (Lnet/minecraft/entity/EntityLiving;Lnet/minecraft/entity/EntityLivingBase;ZZ)Z)
+[21:23:25] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:25] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:25] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern
+[21:23:25] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [matches, func_77569_a] Descriptor (Lnet/minecraft/inventory/InventoryCrafting;Lnet/minecraft/world/World;)Z)
+[21:23:25] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:25] [main/INFO] [Quark ASM]: Located patch target node INVOKESTATIC net/minecraft/tileentity/TileEntityBanner.func_175113_c (Lnet/minecraft/item/ItemStack;)I
+[21:23:25] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:26] [main/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerMerchant
+[21:23:26] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[21:23:26] [main/INFO] [Quark ASM]: Located Method, patching...
+[21:23:26] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[21:23:26] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[21:23:26] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[21:23:26] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[21:23:26] [main/INFO] [Quark ASM]: Patch result: true
+[21:23:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[21:23:27] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[21:23:27] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[21:23:27] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[21:23:27] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[21:23:27] [Server thread/INFO] [FML]: Searching /workspaces/servidor/servidor_minecraft/./mods for mods
+[21:23:28] [Server thread/INFO] [FML]: Mod geckolib3 is missing the required element 'name'. Substituting geckolib3
+[21:23:29] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
+[21:23:29] [Server thread/INFO] [FML]: Forge Mod Loader has identified 23 mods to load
+[21:23:29] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[21:23:29] [Server thread/WARN] [FML]: Missing English translation for appleskin: assets/appleskin/lang/en_us.lang
+[21:23:29] [Server thread/WARN] [FML]: Missing English translation for geckolib3: assets/geckolib3/lang/en_us.lang
+[21:23:30] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, aether_legacy, appleskin, artifacts, autoreglib, baubles, carryon, sexmod, geckolib3, jei, journeymap, oreexcavation, quark, simple_hammers, spartanshields, spartanweaponry, travelersbackpack, twilightforest, waystones, jade] at CLIENT
+[21:23:30] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, aether_legacy, appleskin, artifacts, autoreglib, baubles, carryon, sexmod, geckolib3, jei, journeymap, oreexcavation, quark, simple_hammers, spartanshields, spartanweaponry, travelersbackpack, twilightforest, waystones, jade] at SERVER
+[21:23:30] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.util.DamageSource
+[21:23:30] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [causePlayerDamage, func_76365_a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/util/DamageSource;)
+[21:23:30] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[21:23:30] [Server thread/INFO] [Quark ASM]: Patch result: true
+[21:23:30] [Server thread/ERROR] [FML]: The mod carryon is expecting signature fd21553434f4905f2f73ea7838147ac4ea07bd88 for source carryon-1.12.2-1.12.7.23.jar, however there is no signature matching that description
+[21:23:31] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[21:23:31] [Server thread/INFO] [FML]: Found 1460 ObjectHolder annotations
+[21:23:31] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[21:23:31] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[21:23:32] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[21:23:32] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[21:23:33] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[21:23:33] [Forge Version Check/INFO] [forge.VersionCheck]: [aether_legacy] Starting version check at https://raw.githubusercontent.com/Modding-Legacy/Aether-Legacy/master/aether-legacy-changelog.json
+[21:23:33] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[21:23:33] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
+[21:23:33] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Starting version check at https://raw.githubusercontent.com/ochotonida/artifacts/1.12/update.json
+[21:23:33] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Found status: AHEAD Target: null
+[21:23:33] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[21:23:33] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[21:23:33] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
+[21:23:33] [Server thread/INFO] [Quark]: 'Food tooltip' is forcefully disabled as it's incompatible with the following loaded mods: [appleskin]
+[21:23:33] [Server thread/INFO] [Quark]: Module vanity is enabled
+[21:23:33] [Server thread/INFO] [Quark]: Module decoration is enabled
+[21:23:33] [Server thread/INFO] [Quark]: Module misc is enabled
+[21:23:33] [Server thread/INFO] [Quark]: Module client is enabled
+[21:23:33] [Server thread/INFO] [Quark]: Module building is enabled
+[21:23:33] [Server thread/INFO] [Quark]: Module tweaks is enabled
+[21:23:33] [Server thread/INFO] [Quark]: Module world is enabled
+[21:23:33] [Server thread/INFO] [Quark]: Module management is enabled
+[21:23:33] [Server thread/INFO] [Quark]: Module experimental is enabled
+[21:23:33] [Server thread/INFO] [Quark]: Module automation is enabled
+[21:23:37] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
+[21:23:37] [Server thread/INFO] [Spartan Weaponry]: Starting up Spartan Weaponry!
+[21:23:37] [Server thread/INFO] [Spartan Weaponry]: API: Loaded internal method handler. API functionality should work now!
+[21:23:37] [Server thread/INFO] [Spartan Weaponry]: Defined config version: 2.0 - Loaded config version: 2.0
+[21:23:37] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[21:23:37] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[21:23:37] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[21:23:37] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[21:23:37] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[21:23:37] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[21:23:38] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Baubles.
+[21:23:38] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
+[21:23:38] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
+[21:23:38] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
+[21:23:38] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
+[21:23:38] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
+[21:23:38] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
+[21:23:39] [Server thread/INFO] [FML]: Applying holder lookups
+[21:23:39] [Server thread/INFO] [FML]: Holder lookups applied
+[21:23:39] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:wooden_hammer
+[21:23:39] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.wooden_hammer
+[21:23:39] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:stone_hammer
+[21:23:39] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.stone_hammer
+[21:23:39] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:golden_hammer
+[21:23:39] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.golden_hammer
+[21:23:39] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:iron_hammer
+[21:23:39] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.iron_hammer
+[21:23:39] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:diamond_hammer
+[21:23:39] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.diamond_hammer
+[21:23:39] [Server thread/INFO] [Spartan Shields]: Items Registered!
+[21:23:39] [Server thread/INFO] [Spartan Weaponry]: Registering 10 modded material based weapons
+[21:23:39] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for materials: Copper, Tin, Bronze, Steel, Silver, Invar, Platinum, Electrum, Nickel, Lead
+[21:23:39] [Server thread/INFO] [Spartan Weaponry]: Items Registered!
+[21:23:39] [Server thread/INFO] [FML]: Applying holder lookups
+[21:23:39] [Server thread/INFO] [FML]: Holder lookups applied
+[21:23:41] [Server thread/INFO] [Spartan Weaponry]: Registering Enchantments!
+[21:23:41] [Server thread/INFO] [Spartan Weaponry]: Registering entities!
+[21:23:41] [Server thread/INFO] [FML]: Applying holder lookups
+[21:23:41] [Server thread/INFO] [FML]: Holder lookups applied
+[21:23:41] [Server thread/INFO] [FML]: Applying holder lookups
+[21:23:41] [Server thread/INFO] [FML]: Holder lookups applied
+[21:23:41] [Server thread/INFO] [FML]: Injecting itemstacks
+[21:23:41] [Server thread/INFO] [FML]: Itemstack injection complete
+[21:23:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[21:23:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[21:23:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[21:23:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[21:23:41] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[21:23:41] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:23:41] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[21:23:41] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:23:41] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:23:42] [Server thread/INFO] [Spartan Shields]: Recipes added!
+[21:23:42] [Server thread/INFO] [Spartan Weaponry]: Registering recipes for Tipped Bolts!
+[21:23:42] [Server thread/INFO] [Spartan Weaponry]: Recipes added!
+[21:23:42] [Server thread/INFO] [FML]: Applying holder lookups
+[21:23:42] [Server thread/INFO] [FML]: Holder lookups applied
+[21:23:42] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.trolmastercard.sexmod.em from class com.trolmastercard.sexmod.ei
+[21:23:43] [Server thread/INFO] [Spartan Weaponry]: Registering OreDictionary entries
+[21:23:43] [Server thread/INFO] [Spartan Weaponry]: Attempting to add new advancement triggers...
+[21:23:43] [Server thread/INFO] [Spartan Weaponry]: New advancement triggers added successfully!
+[21:23:43] [Server thread/INFO] [FML]: Injecting itemstacks
+[21:23:43] [Server thread/INFO] [FML]: Itemstack injection complete
+[21:23:43] [Server thread/INFO] [sexmod]: loading up custom models...
+[21:23:43] [Server thread/INFO] [sexmod]: found 0 custom model(s)
+[21:23:43] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 23 mods
+[21:23:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[21:23:43] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[21:23:44] [Server thread/INFO] [FML]: Applying holder lookups
+[21:23:44] [Server thread/INFO] [FML]: Holder lookups applied
+[21:23:44] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@b48d7e4)
+[21:23:45] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 821 advancements
+[21:23:45] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@b48d7e4)
+[21:23:45] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@b48d7e4)
+[21:23:45] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@b48d7e4)
+[21:23:45] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@b48d7e4)
+[21:23:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[21:23:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 11%
+[21:23:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.589s)! For help, type "help" or "?"
+[21:23:47] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentHelper
+[21:23:47] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [getEnchantments, func_82781_a] Descriptor (Lnet/minecraft/item/ItemStack;)Ljava/util/Map;)
+[21:23:47] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[21:23:47] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/item/ItemStack.func_77986_q ()Lnet/minecraft/nbt/NBTTagList;
+[21:23:47] [Server thread/INFO] [Quark ASM]: Patch result: true
+[21:23:48] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:23:48] [Server thread/INFO] [FML]: Unloading dimension 1
+[21:23:48] [Server thread/INFO] [FML]: Unloading dimension 4
+[21:23:48] [Server thread/INFO] [FML]: Unloading dimension 7
+[21:23:50] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.trolmastercard.sexmod.em from class com.trolmastercard.sexmod.ex
+[21:27:09] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[21:27:09] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,FML@8.0.99.99,baubles@1.5.2,jade@0.1.0,spartanweaponry@1.6.0,appleskin@1.0.14,jei@4.16.1.1013,aether_legacy@1.5.4.1,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,forge@14.23.5.2859,sexmod@1.1.0,quark@r1.6-179,spartanshields@1.5.5,twilightforest@3.11.1021,geckolib3@3.0.30,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p2,simple_hammers@0.0.1-BACKPORT,autoreglib@1.3-32,artifacts@1.12.2-1.2.4,oreexcavation@1.4.150,travelersbackpack@1.0.35
+[21:27:09] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[21:27:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:27:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: renny_lopez_2020[/127.90.18.106:43723] logged in with entity id 395 at (-40.815606413340795, 79.0, 212.24212814975567)
+[21:27:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: renny_lopez_2020 joined the game
+[21:28:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: renny_lopez_2020 lost connection: Disconnected
+[21:28:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: renny_lopez_2020 left the game
+[21:28:48] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[21:28:48] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,FML@8.0.99.99,baubles@1.5.2,jade@0.1.0,spartanweaponry@1.6.0,appleskin@1.0.14,jei@4.16.1.1013,aether_legacy@1.5.4.1,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,forge@14.23.5.2859,sexmod@1.1.0,quark@r1.6-179,spartanshields@1.5.5,twilightforest@3.11.1021,geckolib3@3.0.30,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p2,simple_hammers@0.0.1-BACKPORT,autoreglib@1.3-32,artifacts@1.12.2-1.2.4,oreexcavation@1.4.150,travelersbackpack@1.0.35
+[21:28:48] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[21:28:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:28:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: renny_lopez_2020[/127.90.18.106:35625] logged in with entity id 2239 at (-36.49771344816665, 79.0, 213.12443983810886)
+[21:28:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: renny_lopez_2020 joined the game
+[21:28:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[21:28:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[21:28:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[21:28:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[21:29:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[21:29:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[21:29:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[21:29:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[21:30:39] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerWorkbench
+[21:30:39] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[21:30:39] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[21:30:39] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[21:30:39] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[21:30:39] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[21:30:39] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[21:30:39] [Server thread/INFO] [Quark ASM]: Patch result: true
+[21:30:48] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[21:30:48] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[21:30:48] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[21:30:48] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
