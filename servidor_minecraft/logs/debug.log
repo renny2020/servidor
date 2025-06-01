@@ -21079,3 +21079,38 @@ Caused by: com.google.gson.stream.MalformedJsonException: Invalid escape sequenc
 [22:43:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 986b65f6-04a4-4f78-9ad0-7c7a168b388d owned by null
 [22:43:13] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Dovni with UUID 2b868579-f945-4ba5-a511-13a8d9bea327 owned by null
 [22:43:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:44:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:44:08] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.trolmastercard.sexmod.em from class com.trolmastercard.sexmod.fo
+[22:44:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:45:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: renny_lopez_2020 moved too quickly! 6.790130622264513,1.3290916160677142,-7.531081993570808
+[22:45:32] [Server thread/WARN] [FML]: Quark loaded a new chunk [18, -9] in dimension 0 (overworld) while populating chunk [18, -8], causing cascading worldgen lag.
+[22:45:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:45:32] [Server thread/WARN] [FML]: Quark loaded a new chunk [19, -9] in dimension 0 (overworld) while populating chunk [18, -8], causing cascading worldgen lag.
+[22:45:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:45:32] [Server thread/WARN] [FML]: Quark loaded a new chunk [19, -8] in dimension 0 (overworld) while populating chunk [18, -8], causing cascading worldgen lag.
+[22:45:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:45:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:45:39] [Server thread/WARN] [FML]: Quark loaded a new chunk [21, -8] in dimension 0 (overworld) while populating chunk [20, -7], causing cascading worldgen lag.
+[22:45:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:46:08] [Server thread/WARN] [FML]: Quark loaded a new chunk [9, -12] in dimension 0 (overworld) while populating chunk [8, -12], causing cascading worldgen lag.
+[22:46:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:46:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:47:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:47:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: renny_lopez_2020 moved too quickly! 9.11820818904664,1.1767592750642422,4.683962088807945
+[22:47:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: renny_lopez_2020 moved too quickly! 7.765401749669138,0.2119560347017142,6.512870917938727
+[22:47:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:48:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:49:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:49:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Dovni with UUID a9778cb0-8719-4083-9ef6-08d56ea9d011 owned by null
+[22:49:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID 98d4eaff-1eac-4213-b423-c8fd51aefc87 owned by null
+[22:49:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 986b65f6-04a4-4f78-9ad0-7c7a168b388d owned by null
+[22:49:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Dovni with UUID 2b868579-f945-4ba5-a511-13a8d9bea327 owned by null
+[22:49:28] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 4be7f3e6-577c-4cb7-885f-32522f53f5e7 owned by null
+[22:49:28] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID c65dbba2-e03e-45b5-b834-1638861e3e35 owned by null
+[22:49:28] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kugs with UUID 277b88ae-a682-409f-9711-0ab8855c4532 owned by null
+[22:49:28] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snok with UUID 5790f997-3ebc-465d-a9fc-9189b59f3f4d owned by null
+[22:50:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:50:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:51:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:52:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:53:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
