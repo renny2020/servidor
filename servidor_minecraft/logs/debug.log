@@ -19311,3 +19311,346 @@ Caused by: com.google.gson.stream.MalformedJsonException: Invalid escape sequenc
 [21:31:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:32:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:32:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:33:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:33:58] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[21:33:58] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[21:33:58] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[21:33:58] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[21:34:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:35:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:35:28] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[21:35:28] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[21:35:28] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[21:35:28] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[21:35:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:36:05] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[21:36:05] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[21:36:05] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[21:36:05] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[21:36:21] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[21:36:21] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[21:36:21] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[21:36:21] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[21:36:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:36:46] [Server thread/WARN] [FML]: Quark loaded a new chunk [-18, 19] in dimension 0 (overworld) while populating chunk [-17, 20], causing cascading worldgen lag.
+[21:36:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:37:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:37:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: renny_lopez_2020 lost connection: Disconnected
+[21:37:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: renny_lopez_2020 left the game
+[21:38:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:38:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:39:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:40:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:41:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:41:33] [Server thread/TRACE] [FML]: Handshake channel activating
+[21:41:33] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[21:41:33] [Server thread/DEBUG] [FML]:   Next: HELLO
+[21:41:34] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[21:41:34] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[21:41:34] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:24 mods->FMLHandshakeServerState$2:HELLO
+[21:41:34] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,FML@8.0.99.99,baubles@1.5.2,jade@0.1.0,spartanweaponry@1.6.0,appleskin@1.0.14,jei@4.16.1.1013,aether_legacy@1.5.4.1,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,forge@14.23.5.2859,sexmod@1.1.0,quark@r1.6-179,spartanshields@1.5.5,twilightforest@3.11.1021,geckolib3@3.0.30,waystones@4.1.0,mcp@9.42,journeymap@1.12.2-5.7.1p2,simple_hammers@0.0.1-BACKPORT,autoreglib@1.3-32,artifacts@1.12.2-1.2.4,oreexcavation@1.4.150,travelersbackpack@1.0.35
+[21:41:34] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[21:41:34] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[21:41:34] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[21:41:34] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[21:41:35] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[21:41:35] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[21:41:35] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[21:41:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:41:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: renny_lopez_2020[/127.90.18.106:49281] logged in with entity id 15549 at (-98.09597287726574, 96.0, 302.09958789036006)
+[21:41:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: renny_lopez_2020 joined the game
+[21:41:35] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[21:41:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[21:41:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[21:41:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[21:41:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[21:41:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID c65dbba2-e03e-45b5-b834-1638861e3e35 owned by null
+[21:41:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kugs with UUID 277b88ae-a682-409f-9711-0ab8855c4532 owned by null
+[21:41:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 4be7f3e6-577c-4cb7-885f-32522f53f5e7 owned by null
+[21:41:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snok with UUID 5790f997-3ebc-465d-a9fc-9189b59f3f4d owned by null
+[21:41:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vags with UUID 44ddaa9c-5836-4fbe-8e31-67950135fb9a owned by null
+[21:41:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID a8fca36b-a84c-4a0c-ac7c-f3aa3162f4d4 owned by null
+[21:41:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID c84fb9a8-da27-4993-b35b-068400d4e0b0 owned by null
+[21:41:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID be31ae82-a89e-45b8-9461-2a96bd4ff8be owned by null
+[21:41:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:42:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:42:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: renny_lopez_2020 has made the advancement [Acquire Hardware]
+[21:43:09] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [Artifacts, AutoRegLib, Baubles, Carry On, Fapcraft, Jade, OreExcavation, Simple Hammers, Spartan Shields, Spartan Weaponry, The Aether, The Twilight Forest, Traveler's Backpack, Waystones, geckolib3]
+[21:43:14] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[21:43:14] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[21:43:14] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[21:43:14] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[21:43:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:43:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[21:43:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[21:43:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[21:43:39] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[21:44:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:44:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[21:44:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[21:44:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[21:44:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[21:44:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:44:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[21:44:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[21:44:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[21:44:54] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[21:45:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:45:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[21:45:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[21:45:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[21:45:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[21:46:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:47:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:47:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:47:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: renny_lopez_2020 has made the advancement [Not Today, Thank You]
+[21:47:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:50] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:51] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:52] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:52] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:52] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:52] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:52] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:52] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:52] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:52] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:52] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:52] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:52] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:52] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:52] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:52] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:52] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:52] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:52] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:53] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:54] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:54] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:54] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:54] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:54] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:54] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:54] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:54] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:55] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:55] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:57] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:47:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:12] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:12] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:12] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:15] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:16] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:48:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: renny_lopez_2020 was blown up by Creeper
+[21:48:30] [Server thread/DEBUG] [twilightforest]: Player renny_lopez_2020 respawned and received items held in storage
+[21:48:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:48:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[21:48:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[21:48:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[21:48:49] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[21:49:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:50:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:50:06] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Dovni with UUID a9778cb0-8719-4083-9ef6-08d56ea9d011 owned by null
+[21:50:06] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID 98d4eaff-1eac-4213-b423-c8fd51aefc87 owned by null
+[21:50:06] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 986b65f6-04a4-4f78-9ad0-7c7a168b388d owned by null
+[21:50:06] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Dovni with UUID 2b868579-f945-4ba5-a511-13a8d9bea327 owned by null
+[21:50:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:50:50] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[21:50:50] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[21:50:50] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[21:50:50] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[21:50:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vags with UUID 44ddaa9c-5836-4fbe-8e31-67950135fb9a owned by null
+[21:50:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID a8fca36b-a84c-4a0c-ac7c-f3aa3162f4d4 owned by null
+[21:50:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID c84fb9a8-da27-4993-b35b-068400d4e0b0 owned by null
+[21:50:56] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID be31ae82-a89e-45b8-9461-2a96bd4ff8be owned by null
+[21:51:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:52:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID a0669bc0-ae90-4b3c-8c0f-cea438f31f6f owned by null
+[21:52:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 66ef52da-d4cd-405e-bcda-d81c8de52851 owned by null
+[21:52:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID b7e8c522-7bc1-4e9e-a592-80ed7615e86a owned by null
+[21:52:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID e3617a7e-4625-4eb7-9549-0442c8a84ae4 owned by null
+[21:52:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:52:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Dovni with UUID a9778cb0-8719-4083-9ef6-08d56ea9d011 owned by null
+[21:52:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Zogni with UUID 98d4eaff-1eac-4213-b423-c8fd51aefc87 owned by null
+[21:52:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ahza with UUID 986b65f6-04a4-4f78-9ad0-7c7a168b388d owned by null
+[21:52:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Dovni with UUID 2b868579-f945-4ba5-a511-13a8d9bea327 owned by null
+[21:53:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
