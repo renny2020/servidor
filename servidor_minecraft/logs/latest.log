@@ -634,3 +634,5 @@
 [22:49:28] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nern with UUID c65dbba2-e03e-45b5-b834-1638861e3e35 owned by null
 [22:49:28] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kugs with UUID 277b88ae-a682-409f-9711-0ab8855c4532 owned by null
 [22:49:28] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Snok with UUID 5790f997-3ebc-465d-a9fc-9189b59f3f4d owned by null
+[23:09:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: renny_lopez_2020 lost connection: Timed out
+[23:09:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: renny_lopez_2020 left the game
