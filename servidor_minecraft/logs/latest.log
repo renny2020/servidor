@@ -34,3 +34,11 @@
 [03:31:16] [Server thread/INFO]: renny_lopez_2020 was slain by RHAY
 [03:33:50] [Server thread/INFO]: [renny_lopez_2020: Teleported renny_lopez_2020 to RHAY]
 [03:34:35] [Server thread/INFO]: RHAY tried to swim in lava
+[03:36:21] [Server thread/INFO]: renny_lopez_2020 has made the advancement [Take Aim]
+[03:37:31] [Server thread/INFO]: renny_lopez_2020 burned to death
+[03:39:17] [Server thread/INFO]: renny_lopez_2020 lost connection: Timed out
+[03:39:17] [Server thread/INFO]: renny_lopez_2020 left the game
+[03:39:17] [Server thread/WARN]: handleDisconnection() called twice
+[03:39:47] [Server thread/INFO]: renny_lopez_2020[/127.13.175.74:41417] logged in with entity id 4114 at (121.23082766832015, 70.0, 215.17272196608292)
+[03:39:47] [Server thread/INFO]: renny_lopez_2020 joined the game
+[03:40:27] [Server thread/INFO]: [RHAY: Teleported RHAY to renny_lopez_2020]

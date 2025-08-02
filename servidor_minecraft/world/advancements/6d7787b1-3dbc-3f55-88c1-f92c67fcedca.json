@@ -318,6 +318,7 @@
       "minecraft:blaze": "2025-08-02 03:09:26 +0000",
       "minecraft:skeleton": "2025-08-02 00:24:22 +0000",
       "minecraft:piglin": "2025-08-02 03:04:11 +0000",
+      "minecraft:enderman": "2025-08-02 03:40:01 +0000",
       "minecraft:spider": "2025-08-02 01:30:17 +0000",
       "minecraft:wither_skeleton": "2025-08-02 03:10:02 +0000",
       "minecraft:zombie": "2025-08-02 00:20:02 +0000",
@@ -1959,6 +1960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-02 03:39:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-02 03:29:27 +0000"
@@ -1977,9 +1984,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-02 03:39:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-02 03:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-02 03:39:09 +0000"
     },
     "done": true
   },
@@ -1992,6 +2011,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-02 03:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-02 03:39:09 +0000"
     },
     "done": true
   },
