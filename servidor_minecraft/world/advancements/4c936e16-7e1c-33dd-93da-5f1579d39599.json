@@ -395,7 +395,8 @@
     "criteria": {
       "cooked_porkchop": "2025-08-02 00:26:40 +0000",
       "apple": "2025-08-02 00:20:15 +0000",
-      "cooked_mutton": "2025-08-02 00:28:32 +0000"
+      "cooked_mutton": "2025-08-02 00:28:32 +0000",
+      "cooked_beef": "2025-08-02 01:07:55 +0000"
     },
     "done": false
   },
@@ -666,6 +667,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-02 00:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-02 01:15:17 +0000"
     },
     "done": true
   },
