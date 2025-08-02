@@ -55,3 +55,14 @@
 [04:36:32] [Server thread/INFO]: RHAY tried to swim in lava
 [04:45:43] [Server thread/INFO]: RHAY lost connection: Disconnected
 [04:45:43] [Server thread/INFO]: RHAY left the game
+[05:00:38] [Server thread/INFO]: Stopping the server
+[05:00:38] [Server thread/INFO]: Stopping server
+[05:00:38] [Server thread/INFO]: Saving players
+[05:00:38] [Server thread/INFO]: Saving worlds
+[05:00:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:00:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:00:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:00:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:00:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:00:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:00:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
