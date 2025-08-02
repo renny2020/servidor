@@ -1,189 +1,36 @@
-[00:06:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:06:37] [ServerMain/INFO]: No existing world data, creating new world
-[00:06:37] [ServerMain/INFO]: Loaded 1175 recipes
-[00:06:38] [ServerMain/INFO]: Loaded 1276 advancements
-[00:06:38] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[00:06:38] [Server thread/INFO]: Loading properties
-[00:06:38] [Server thread/INFO]: Default game type: SURVIVAL
-[00:06:38] [Server thread/INFO]: Generating keypair
-[00:06:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:06:38] [Server thread/INFO]: Using epoll channel type
-[00:06:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:06:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:06:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:06:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:06:38] [Server thread/INFO]: Preparing level "world"
-[00:06:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:06:45] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[00:06:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[00:06:46] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[00:06:47] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[00:06:47] [Worker-Main-1/INFO]: Preparing spawn area: 10%
-[00:06:48] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[00:06:48] [Worker-Main-1/INFO]: Preparing spawn area: 24%
-[00:06:49] [Worker-Main-2/INFO]: Preparing spawn area: 38%
-[00:06:49] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[00:06:50] [Worker-Main-2/INFO]: Preparing spawn area: 59%
-[00:06:50] [Worker-Main-1/INFO]: Preparing spawn area: 71%
-[00:06:51] [Worker-Main-1/INFO]: Preparing spawn area: 83%
-[00:06:51] [Server thread/INFO]: Time elapsed: 5764 ms
-[00:06:51] [Server thread/INFO]: Done (12.465s)! For help, type "help"
-[00:06:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:06:51] [Server thread/INFO]: bin/python3 /workspaces/servidor/msx.py<--[HERE]
-[00:08:44] [Server thread/INFO]: renny_lopez_2020[/127.13.175.74:47369] logged in with entity id 15 at (9.5, 70.0, -3.5)
-[00:08:44] [Server thread/INFO]: renny_lopez_2020 joined the game
-[00:10:09] [Server thread/INFO]: Alest[/127.187.155.65:36625] logged in with entity id 775 at (3.5, 70.0, -6.5)
-[00:10:09] [Server thread/INFO]: Alest joined the game
-[00:10:39] [Server thread/INFO]: [Not Secure] <Alest> bien si va
-[00:10:43] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> amos a esperar a emerson
-[00:10:49] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> como te va
-[00:10:59] [Server thread/INFO]: [Not Secure] <Alest> medio lageado va a mi pero weno
-[00:12:09] [Server thread/INFO]: renny_lopez_2020 has made the advancement [Stone Age]
-[00:12:14] [Server thread/INFO]: RHAY[/127.184.82.46:38887] logged in with entity id 1286 at (-1.5, 69.0, -3.5)
-[00:12:14] [Server thread/INFO]: RHAY joined the game
-[00:12:19] [Server thread/INFO]: [Not Secure] <Alest> onde chucha te fuiste, recodate que estoy a 2 chuncks
-[00:12:30] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> acaaa
-[00:12:37] [Server thread/INFO]: [Not Secure] <Alest> biien
-[00:13:20] [Server thread/INFO]: [Not Secure] <Alest> nojoa 20 FPS en mobil
-[00:13:24] [Server thread/INFO]: [Not Secure] <RHAY> jajajajajajajajajajaja
-[00:13:29] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> XD
-[00:13:30] [Server thread/INFO]: [Not Secure] <RHAY> jajajajajajajajajajajajajajajajajajjajajajaja´+q
-[00:14:16] [Server thread/INFO]: [Not Secure] <RHAY> JNJ
-[00:14:25] [Server thread/INFO]: [Not Secure] <RHAY> JAJAJAJAAJAJAJA
-[00:14:37] [Server thread/INFO]: Alest has made the advancement [Stone Age]
-[00:14:58] [Server thread/INFO]: Alest has made the advancement [Getting an Upgrade]
-[00:15:31] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> achoooo teban ontas
-[00:16:02] [Server thread/INFO]: renny_lopez_2020 has made the advancement [Getting an Upgrade]
-[00:17:12] [Server thread/INFO]: RHAY has made the advancement [Stone Age]
-[00:17:28] [Server thread/INFO]: [Not Secure] <Alest> aaaaahhh se me laguea
-[00:17:35] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> JASJAKJSKAJSAS
-[00:17:43] [Server thread/INFO]: RHAY has made the advancement [Getting an Upgrade]
-[00:17:48] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> verga donde estas
-[00:18:40] [Server thread/INFO]: renny_lopez_2020 has made the advancement [Monster Hunter]
-[00:19:30] [Server thread/INFO]: [Not Secure] <Alest> nojoa estedes jugando a más de 100 FPS y mi cel bregando en tre 40 y 20
-[00:19:39] [Server thread/INFO]: Alest has made the advancement [Monster Hunter]
-[00:20:02] [Server thread/INFO]: RHAY has made the advancement [Monster Hunter]
-[00:20:57] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=3, y=63, z=172} iz{x=4, y=62, z=171}
-[00:21:00] [Server thread/INFO]: renny_lopez_2020 has made the advancement [Sweet Dreams]
-[00:21:18] [Server thread/INFO]: RHAY has made the advancement [Sweet Dreams]
-[00:21:28] [Server thread/INFO]: [Not Secure] <RHAY> ACUESTENSEEEEEEEE
-[00:21:32] [Server thread/INFO]: Alest has made the advancement [Sweet Dreams]
-[00:23:14] [Server thread/INFO]: renny_lopez_2020 has made the advancement [Ice Bucket Challenge]
-[00:23:39] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> JKAKJAKJAKJA
-[00:25:00] [Server thread/INFO]: renny_lopez_2020 has made the advancement [Acquire Hardware]
-[00:25:15] [Server thread/INFO]: [Not Secure] <Alest> diablo
-[00:25:51] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> hey no puedes entrar al discord?
-[00:26:01] [Server thread/INFO]: [Not Secure] <Alest> toy comiendo
-[00:28:01] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> teban ontas
-[00:28:43] [Server thread/INFO]: [Not Secure] <Alest> nose estoy en una islita
-[00:30:50] [Server thread/INFO]: [Not Secure] <Alest> a cño me daba 40fps por qué lo tenía capeado
-[00:31:01] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> KJAKJAJLAKJKAJLKAJLKJALJLALKAJLA
-[00:31:12] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> tas pndjo
-[00:31:51] [Server thread/INFO]: [Not Secure] <Alest> vrg pero igual, lo puse a 90 y no pasa de 50, a veces pica 80
-[00:32:02] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> vayalo
-[00:32:43] [Server thread/INFO]: [Not Secure] <Alest> no son estables
-[00:33:04] [Server thread/INFO]: [Not Secure] <Alest> por eso dije, esperen me a la sylvia
-[00:33:25] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> pero esto es temporal
-[00:38:14] [Server thread/INFO]: [Not Secure] <Alest> nojoa tengo unas ganas de jugar rlcraft
-[00:38:29] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> XD
-[00:39:08] [Server thread/INFO]: [Not Secure] <Alest> pero desgraciadamente no puedo
-[00:41:13] [Server thread/INFO]: RHAY has made the advancement [A Seedy Place]
-[00:41:19] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> xd
-[00:41:25] [Server thread/INFO]: [Not Secure] <Alest> increíble
-[00:41:49] [Server thread/INFO]: [Not Secure] <Alest> un sec que voy a cagar
-[00:44:25] [Server thread/INFO]: [Not Secure] <RHAY> ALEEEEEEEJOOOOOO
-[00:44:26] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> volviste
-[00:52:04] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> esteban
-[00:54:48] [Server thread/INFO]: renny_lopez_2020 has made the advancement [Isn't It Iron Pick]
-[00:55:22] [Server thread/INFO]: [Not Secure] <Alest> diablo pero que buena cagada
-[00:55:29] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> kjaksjaksjaksjakjss
-[00:55:31] [Server thread/INFO]: [Not Secure] <RHAY> PERO QUE BUSCATES?
-[00:56:05] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> ya unete al discol
-[00:58:53] [Server thread/INFO]: Alest lost connection: Disconnected
-[00:58:53] [Server thread/INFO]: Alest left the game
-[01:01:12] [Server thread/INFO]: Alest[/127.187.155.65:46863] logged in with entity id 19676 at (651.3991585774077, 77.0, 248.69999998807907)
-[01:01:12] [Server thread/INFO]: Alest joined the game
-[01:09:27] [Server thread/INFO]: renny_lopez_2020 has made the advancement [Diamonds!]
-[01:10:29] [Server thread/INFO]: renny_lopez_2020 has made the advancement [Not Today, Thank You]
-[01:15:01] [Server thread/INFO]: renny_lopez_2020 has made the advancement [Suit Up]
-[01:15:46] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> 4
-[01:16:15] [Server thread/INFO]: [Not Secure] <RHAY> tttttttt
-[01:16:19] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> 3,62,178
-[01:17:37] [Server thread/INFO]: Alest has made the advancement [Diamonds!]
-[01:23:30] [Server thread/INFO]: [Not Secure] <Alest> asdasdasdasd
-[01:25:24] [Server thread/INFO]: Alest has made the advancement [Acquire Hardware]
-[01:26:35] [Server thread/INFO]: Alest has made the advancement [Suit Up]
-[01:31:06] [Server thread/INFO]: RHAY was blown up by Creeper
-[01:32:49] [Server thread/INFO]: Made RHAY a server operator
-[01:34:59] [Server thread/INFO]: [RHAY: Gamerule keepInventory is now set to: true]
-[01:35:20] [Server thread/INFO]: [RHAY: Teleported RHAY to renny_lopez_2020]
-[01:40:58] [Server thread/INFO]: RHAY has made the advancement [Acquire Hardware]
-[01:50:32] [Server thread/INFO]: RHAY has made the advancement [Diamonds!]
-[01:54:54] [Server thread/INFO]: [RHAY: Set own game mode to Creative Mode]
-[01:54:58] [Server thread/INFO]: [RHAY: Set own game mode to Survival Mode]
-[01:55:02] [Server thread/INFO]: [RHAY: Set own game mode to Adventure Mode]
-[01:55:03] [Server thread/INFO]: [RHAY: Set own game mode to Survival Mode]
-[01:55:05] [Server thread/INFO]: [RHAY: Set own game mode to Spectator Mode]
-[01:55:31] [Server thread/INFO]: [RHAY: Set own game mode to Survival Mode]
-[01:55:39] [Server thread/INFO]: Alest lost connection: Disconnected
-[01:55:39] [Server thread/INFO]: Alest left the game
-[01:55:45] [Server thread/INFO]: RHAY has made the advancement [Isn't It Iron Pick]
-[01:55:57] [Server thread/INFO]: RHAY has made the advancement [Suit Up]
-[01:57:54] [Server thread/INFO]: Incorrect argument for command
-[01:57:54] [Server thread/INFO]: op r/op renny_lopez_2020<--[HERE]
-[01:58:27] [Server thread/INFO]: Made renny_lopez_2020 a server operator
-[02:02:10] [Server thread/INFO]: renny_lopez_2020 lost connection: Disconnected
-[02:02:10] [Server thread/INFO]: renny_lopez_2020 left the game
-[02:05:46] [Server thread/INFO]: renny_lopez_2020[/127.13.175.74:42571] logged in with entity id 38479 at (-129.4080661302319, -1.0, 146.62145021285528)
-[02:05:46] [Server thread/INFO]: renny_lopez_2020 joined the game
-[02:09:12] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Spectator Mode]
-[02:09:44] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Survival Mode]
-[02:14:07] [Server thread/INFO]: [RHAY: Teleported RHAY to renny_lopez_2020]
-[02:15:57] [Server thread/INFO]: Alest[/127.187.155.65:44511] logged in with entity id 41079 at (-225.59298780873127, -28.0, 195.69999998807907)
-[02:15:57] [Server thread/INFO]: Alest joined the game
-[02:16:55] [Server thread/INFO]: [renny_lopez_2020: Teleported Alest to renny_lopez_2020]
-[02:18:18] [Server thread/INFO]: renny_lopez_2020 has made the advancement [Cover Me with Diamonds]
-[02:19:20] [Server thread/INFO]: renny_lopez_2020 was slain by Iron Golem
-[02:19:30] [Server thread/INFO]: renny_lopez_2020 was slain by Iron Golem
-[02:19:38] [Server thread/INFO]: renny_lopez_2020 was slain by Iron Golem
-[02:19:46] [Server thread/INFO]: renny_lopez_2020 was slain by Iron Golem
-[02:19:53] [Server thread/INFO]: renny_lopez_2020 was slain by Iron Golem
-[02:20:01] [Server thread/INFO]: renny_lopez_2020 was slain by Iron Golem
-[02:20:13] [Server thread/INFO]: renny_lopez_2020 was slain by Iron Golem
-[02:20:20] [Server thread/INFO]: renny_lopez_2020 was slain by Iron Golem
-[02:20:28] [Server thread/INFO]: renny_lopez_2020 was slain by Iron Golem
-[02:20:35] [Server thread/INFO]: renny_lopez_2020 was slain by Iron Golem
-[02:20:43] [Server thread/INFO]: renny_lopez_2020 was slain by Iron Golem
-[02:20:50] [Server thread/INFO]: renny_lopez_2020 was slain by Iron Golem
-[02:22:01] [Server thread/INFO]: renny_lopez_2020 has made the advancement [A Seedy Place]
-[02:22:39] [Server thread/INFO]: [renny_lopez_2020: Teleported renny_lopez_2020 to RHAY]
-[02:22:50] [Server thread/INFO]: RHAY has made the advancement [Best Friends Forever]
-[02:22:50] [Server thread/INFO]: Alest has made the advancement [Isn't It Iron Pick]
-[02:23:20] [Server thread/INFO]: Alest has made the advancement [Take Aim]
-[02:24:32] [Server thread/INFO]: renny_lopez_2020 has made the advancement [Best Friends Forever]
-[02:24:51] [Server thread/INFO]: [renny_lopez_2020: Teleported renny_lopez_2020 to RHAY]
-[02:25:16] [Server thread/INFO]: RHAY has made the advancement [Ice Bucket Challenge]
-[02:27:18] [Server thread/INFO]: [renny_lopez_2020: Teleported renny_lopez_2020 to Alest]
-[02:27:49] [Server thread/INFO]: [RHAY: Teleported RHAY to renny_lopez_2020]
-[02:29:27] [Server thread/INFO]: renny_lopez_2020 has made the advancement [Who is Cutting Onions?]
-[02:29:53] [Server thread/INFO]: [RHAY: Teleported RHAY to renny_lopez_2020]
-[02:29:55] [Server thread/INFO]: Alest has made the advancement [We Need to Go Deeper]
-[02:29:56] [Server thread/WARN]: renny_lopez_2020 moved too quickly! -8.104222256742297,1.0013359791121417,-5.987526538065765
-[02:29:56] [Server thread/WARN]: RHAY moved too quickly! 4.210955273039104,2.176759275064242,9.031601666109083
-[02:29:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2291ms or 45 ticks behind
-[02:30:15] [Server thread/INFO]: [RHAY: Teleported RHAY to renny_lopez_2020]
-[02:30:26] [Server thread/INFO]: renny_lopez_2020 has made the advancement [We Need to Go Deeper]
-[02:30:38] [Server thread/INFO]: RHAY has made the advancement [We Need to Go Deeper]
-[02:30:38] [Server thread/INFO]: [RHAY: Teleported RHAY to renny_lopez_2020]
-[02:31:23] [Server thread/INFO]: renny_lopez_2020 was doomed to fall by Ghast
-[02:31:56] [Server thread/INFO]: Alest fell from a high place
-[02:32:21] [Server thread/INFO]: Alest fell from a high place
-[02:33:03] [Server thread/INFO]: [RHAY: Teleported RHAY to renny_lopez_2020]
-[02:36:29] [Server thread/INFO]: Alest has made the advancement [Ice Bucket Challenge]
-[02:36:52] [Server thread/INFO]: Alest has made the advancement [Who is Cutting Onions?]
-[02:37:07] [Server thread/INFO]: Alest has made the advancement [Not Today, Thank You]
-[02:37:56] [Server thread/INFO]: RHAY has made the advancement [Who is Cutting Onions?]
-[02:39:27] [Server thread/INFO]: Alest has made the advancement [Oh Shiny]
-[02:42:22] [Server thread/INFO]: [Not Secure] <Alest> eweeweewewe
-[02:50:39] [Server thread/INFO]: renny_lopez_2020 has made the advancement [Enchanter]
-[02:53:38] [Server thread/INFO]: [RHAY: Teleported RHAY to Alest]
+[03:25:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:25:16] [ServerMain/INFO]: Loaded 1175 recipes
+[03:25:17] [ServerMain/INFO]: Loaded 1276 advancements
+[03:25:17] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[03:25:17] [Server thread/INFO]: Loading properties
+[03:25:17] [Server thread/INFO]: Default game type: SURVIVAL
+[03:25:17] [Server thread/INFO]: Generating keypair
+[03:25:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:25:17] [Server thread/INFO]: Using epoll channel type
+[03:25:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:25:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:25:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:25:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:25:17] [Server thread/INFO]: Preparing level "world"
+[03:25:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:25:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:25:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:25:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:25:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:25:23] [Worker-Main-2/INFO]: Preparing spawn area: 75%
+[03:25:23] [Server thread/INFO]: Time elapsed: 2088 ms
+[03:25:23] [Server thread/INFO]: Done (5.407s)! For help, type "help"
+[03:25:44] [Server thread/INFO]: RHAY[/127.184.82.46:33483] logged in with entity id 7 at (-283.336482457259, 59.875, -313.4741832195635)
+[03:25:44] [Server thread/INFO]: RHAY joined the game
+[03:25:46] [Server thread/WARN]: UUID of added entity already exists: cjv['Enderman'/113, l='ServerLevel[world]', x=-384.01, y=78.00, z=-369.90]
+[03:25:48] [Server thread/WARN]: UUID of added entity already exists: cjv['Enderman'/185, l='ServerLevel[world]', x=-150.99, y=68.00, z=-496.10]
+[03:26:46] [Server thread/INFO]: renny_lopez_2020[/127.13.175.74:47033] logged in with entity id 250 at (-244.8782721557836, 67.0, -309.9672946003298)
+[03:26:46] [Server thread/INFO]: renny_lopez_2020 joined the game
+[03:30:08] [Server thread/INFO]: [RHAY: Teleported RHAY to renny_lopez_2020]
+[03:30:41] [Server thread/INFO]: RHAY was slain by renny_lopez_2020
+[03:30:44] [Server thread/WARN]: UUID of added entity already exists: cgd['Sheep'/1015, l='ServerLevel[world]', x=-129.28, y=67.00, z=139.51]
+[03:30:59] [Server thread/INFO]: Villager cmm['Villager'/916, l='ServerLevel[world]', x=6.09, y=65.00, z=295.57] died, message: 'Villager was slain by Zombie'
+[03:31:00] [Server thread/INFO]: [RHAY: Teleported RHAY to renny_lopez_2020]
+[03:31:16] [Server thread/INFO]: renny_lopez_2020 was slain by RHAY
+[03:33:50] [Server thread/INFO]: [renny_lopez_2020: Teleported renny_lopez_2020 to RHAY]
+[03:34:35] [Server thread/INFO]: RHAY tried to swim in lava
