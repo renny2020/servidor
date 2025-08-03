@@ -1955,51 +1955,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-08-02 04:22:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-08-02 03:29:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-08-02 04:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-02 03:39:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-08-02 03:40:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-08-02 04:38:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-08-02 03:53:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-08-02 04:36:54 +0000"
     },
     "done": true
   },
@@ -2015,39 +1973,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/warped_slab": {
-    "criteria": {
-      "has_planks": "2025-08-02 04:36:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-08-02 03:29:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-08-02 04:18:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-08-02 03:52:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-08-02 03:39:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-08-02 04:36:54 +0000"
     },
     "done": true
   },
@@ -2057,21 +1985,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-02 03:39:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-02 03:29:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-08-02 03:40:42 +0000"
     },
     "done": true
   },
@@ -2081,21 +1997,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/warped_fence": {
+  "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
-      "has_planks": "2025-08-02 04:36:54 +0000"
+      "has_nether_bricks": "2025-08-02 03:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-08-02 03:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-02 03:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-02 03:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-02 03:39:09 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-08-02 03:39:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall": {
-    "criteria": {
-      "has_nether_bricks": "2025-08-02 03:29:27 +0000"
     },
     "done": true
   },
@@ -2111,9 +2045,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-02 03:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-02 03:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-02 03:52:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-08-02 03:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-08-02 03:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-08-02 03:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-08-02 04:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-02 04:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-08-02 04:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-02 04:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-02 04:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-08-02 04:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-02 04:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-08-02 04:36:54 +0000"
     },
     "done": true
   },
@@ -2141,27 +2153,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-08-02 04:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_fence": {
-    "criteria": {
-      "has_nether_bricks": "2025-08-02 03:29:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-08-02 04:36:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "has_bone_meal": "2025-08-02 03:53:13 +0000"
+      "has_ink_sac": "2025-08-02 04:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-08-03 02:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-03 02:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-08-03 02:18:01 +0000"
     },
     "done": true
   },
