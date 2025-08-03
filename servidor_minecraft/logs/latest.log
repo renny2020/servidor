@@ -158,3 +158,8 @@
 [02:55:09] [Server thread/INFO]: Alest left the game
 [03:03:05] [Server thread/INFO]: renny_lopez_2020 lost connection: Disconnected
 [03:03:05] [Server thread/INFO]: renny_lopez_2020 left the game
+[03:10:53] [Server thread/INFO]: RHAY lost connection: Timed out
+[03:10:53] [Server thread/INFO]: RHAY left the game
+[03:10:53] [Server thread/WARN]: handleDisconnection() called twice
+[03:11:05] [Server thread/INFO]: RHAY[/127.184.82.46:51945] logged in with entity id 53571 at (-3.8618913659168204, 63.0, 174.96216920585456)
+[03:11:05] [Server thread/INFO]: RHAY joined the game
