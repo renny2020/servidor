@@ -144,3 +144,8 @@
 [02:17:04] [Server thread/INFO]: RHAY joined the game
 [02:26:59] [Server thread/INFO]: Alest[/127.187.155.65:49191] logged in with entity id 37018 at (-135.51043247459907, 70.0, 41.60322022191388)
 [02:26:59] [Server thread/INFO]: Alest joined the game
+[02:32:16] [Server thread/INFO]: [renny_lopez_2020: Set the weather to clear]
+[02:38:05] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-59, y=64, z=127} iz{x=-60, y=63, z=128}
+[02:38:05] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-59, y=64, z=127} iz{x=-60, y=63, z=128}
+[02:41:18] [Server thread/INFO]: Villager cmm['Villager'/13, l='ServerLevel[world]', x=8.92, y=64.92, z=172.52] died, message: 'Villager was slain by Zombie'
+[02:41:24] [Server thread/INFO]: Villager cmm['Villager'/12, l='ServerLevel[world]', x=8.30, y=64.21, z=172.04] died, message: 'Villager was slain by Zombie'
