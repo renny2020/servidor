@@ -8,7 +8,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2025-08-02 00:24:35 +0000",
+      "minecraft:beach": "2025-08-03 02:50:41 +0000",
       "minecraft:forest": "2025-08-02 00:09:35 +0000",
+      "minecraft:ocean": "2025-08-03 02:53:11 +0000",
       "minecraft:sunflower_plains": "2025-08-02 00:21:47 +0000",
       "minecraft:river": "2025-08-02 00:20:26 +0000",
       "minecraft:birch_forest": "2025-08-02 02:24:26 +0000",
@@ -1889,6 +1891,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-08-03 03:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-08-03 02:53:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-08-03 00:36:51 +0000"
@@ -1913,9 +1927,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-03 02:53:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate": {
     "criteria": {
       "has_cobbled_deepslate_slab": "2025-08-03 02:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-08-03 02:54:15 +0000"
     },
     "done": true
   },
