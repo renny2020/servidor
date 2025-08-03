@@ -124,3 +124,10 @@
 [01:01:56] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=93, y=68, z=172} iz{x=92, y=67, z=172}
 [01:01:56] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=93, y=68, z=172} iz{x=92, y=67, z=172}
 [01:03:01] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> asdaqqfgsgf
+[01:14:13] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Spectator Mode]
+[01:14:43] [Server thread/INFO]: [Alest: Set own game mode to Creative Mode]
+[01:14:44] [Server thread/INFO]: [Alest: Set own game mode to Survival Mode]
+[01:14:46] [Server thread/INFO]: [Alest: Set own game mode to Spectator Mode]
+[01:15:08] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Survival Mode]
+[01:15:14] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Creative Mode]
+[01:16:15] [Server thread/INFO]: Villager cmm['Cartographer'/20, l='ServerLevel[world]', x=10.00, y=69.00, z=169.58] died, message: 'Cartographer was slain by Zombie'
