@@ -1,167 +1,26 @@
-[00:26:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:26:41] [ServerMain/INFO]: Loaded 1175 recipes
-[00:26:42] [ServerMain/INFO]: Loaded 1276 advancements
-[00:26:42] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[00:26:42] [Server thread/INFO]: Loading properties
-[00:26:42] [Server thread/INFO]: Default game type: SURVIVAL
-[00:26:42] [Server thread/INFO]: Generating keypair
-[00:26:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:26:42] [Server thread/INFO]: Using epoll channel type
-[00:26:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:26:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:26:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:26:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:26:42] [Server thread/INFO]: Preparing level "world"
-[00:26:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:26:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:26:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:26:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:26:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:26:47] [Server thread/INFO]: Time elapsed: 1910 ms
-[00:26:47] [Server thread/INFO]: Done (4.479s)! For help, type "help"
-[00:29:50] [Server thread/INFO]: renny_lopez_2020[/127.104.201.251:38527] logged in with entity id 8 at (6.256639583138608, 63.0, 180.62586102006708)
-[00:29:50] [Server thread/INFO]: renny_lopez_2020 joined the game
-[00:32:16] [Server thread/INFO]: Villager cmm['Villager'/19, l='ServerLevel[world]', x=66.74, y=66.00, z=222.75] died, message: 'Villager was slain by Zombie'
-[00:32:19] [Server thread/INFO]: Alest[/127.187.155.65:43703] logged in with entity id 1001 at (-130.98897540773135, 70.0, 42.95225737576255)
-[00:32:19] [Server thread/INFO]: Alest joined the game
-[00:46:15] [Server thread/INFO]: Alest has made the advancement [A Seedy Place]
-[00:47:17] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-133, y=68, z=24} iz{x=-133, y=67, z=25}
-[00:47:17] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-133, y=68, z=24} iz{x=-133, y=67, z=25}
-[00:47:17] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-134, y=67, z=24} iz{x=-133, y=67, z=25}
-[00:47:17] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-135, y=68, z=26} iz{x=-135, y=66, z=25}
-[00:47:17] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-136, y=66, z=26} iz{x=-135, y=66, z=26}
-[00:47:19] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-138, y=66, z=28} iz{x=-137, y=65, z=29}
-[00:48:20] [Server thread/INFO]: /advancement (grant|revoke)
-[00:48:20] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[00:48:20] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
-[00:48:20] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[00:48:20] [Server thread/INFO]: /clear [<targets>]
-[00:48:20] [Server thread/INFO]: /clone (<begin>|from)
-[00:48:20] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
-[00:48:20] [Server thread/INFO]: /data (merge|get|remove|modify)
-[00:48:20] [Server thread/INFO]: /datapack (enable|disable|list)
-[00:48:20] [Server thread/INFO]: /debug (start|stop|function)
-[00:48:20] [Server thread/INFO]: /defaultgamemode <gamemode>
-[00:48:20] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[00:48:20] [Server thread/INFO]: /effect (clear|give)
-[00:48:20] [Server thread/INFO]: /me <action>
-[00:48:20] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[00:48:20] [Server thread/INFO]: /experience (add|set|query)
-[00:48:20] [Server thread/INFO]: /xp -> experience
-[00:48:20] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[00:48:20] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
-[00:48:20] [Server thread/INFO]: /forceload (add|remove|query)
-[00:48:20] [Server thread/INFO]: /function <name> [<arguments>|with]
-[00:48:20] [Server thread/INFO]: /gamemode <gamemode> [<target>]
-[00:48:20] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[00:48:20] [Server thread/INFO]: /give <targets> <item> [<count>]
-[00:48:20] [Server thread/INFO]: /help [<command>]
-[00:48:20] [Server thread/INFO]: /item (replace|modify)
-[00:48:20] [Server thread/INFO]: /kick <targets> [<reason>]
-[00:48:20] [Server thread/INFO]: /kill [<targets>]
-[00:48:20] [Server thread/INFO]: /list [uuids]
-[00:48:20] [Server thread/INFO]: /locate (structure|biome|poi)
-[00:48:20] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[00:48:20] [Server thread/INFO]: /msg <targets> <message>
-[00:48:20] [Server thread/INFO]: /tell -> msg
-[00:48:20] [Server thread/INFO]: /w -> msg
-[00:48:20] [Server thread/INFO]: /particle <name> [<pos>]
-[00:48:20] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
-[00:48:20] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[00:48:20] [Server thread/INFO]: /random (value|roll|reset)
-[00:48:20] [Server thread/INFO]: /reload
-[00:48:20] [Server thread/INFO]: /recipe (give|take)
-[00:48:20] [Server thread/INFO]: /return (<value>|fail|run)
-[00:48:20] [Server thread/INFO]: /ride <target> (mount|dismount)
-[00:48:20] [Server thread/INFO]: /say <message>
-[00:48:20] [Server thread/INFO]: /schedule (function|clear)
-[00:48:20] [Server thread/INFO]: /scoreboard (objectives|players)
-[00:48:20] [Server thread/INFO]: /seed
-[00:48:20] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[00:48:20] [Server thread/INFO]: /spawnpoint [<targets>]
-[00:48:20] [Server thread/INFO]: /setworldspawn [<pos>]
-[00:48:20] [Server thread/INFO]: /spectate [<target>]
-[00:48:20] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[00:48:20] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[00:48:20] [Server thread/INFO]: /summon <entity> [<pos>]
-[00:48:20] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[00:48:20] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[00:48:20] [Server thread/INFO]: /teammsg <message>
-[00:48:20] [Server thread/INFO]: /tm -> teammsg
-[00:48:20] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[00:48:20] [Server thread/INFO]: /tp -> teleport
-[00:48:20] [Server thread/INFO]: /tellraw <targets> <message>
-[00:48:20] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
-[00:48:20] [Server thread/INFO]: /time (set|add|query)
-[00:48:20] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[00:48:20] [Server thread/INFO]: /trigger <objective> [add|set]
-[00:48:20] [Server thread/INFO]: /weather (clear|rain|thunder)
-[00:48:20] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[00:48:20] [Server thread/INFO]: /jfr (start|stop)
-[00:48:20] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[00:48:20] [Server thread/INFO]: /banlist [ips|players]
-[00:48:20] [Server thread/INFO]: /ban <targets> [<reason>]
-[00:48:20] [Server thread/INFO]: /deop <targets>
-[00:48:20] [Server thread/INFO]: /op <targets>
-[00:48:20] [Server thread/INFO]: /pardon <targets>
-[00:48:20] [Server thread/INFO]: /pardon-ip <target>
-[00:48:20] [Server thread/INFO]: /perf (start|stop)
-[00:48:20] [Server thread/INFO]: /save-all [flush]
-[00:48:20] [Server thread/INFO]: /save-off
-[00:48:20] [Server thread/INFO]: /save-on
-[00:48:20] [Server thread/INFO]: /setidletimeout <minutes>
-[00:48:20] [Server thread/INFO]: /stop
-[00:48:20] [Server thread/INFO]: /transfer <hostname> [<port>]
-[00:48:20] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[00:49:01] [Server thread/INFO]: An entity is required to run this command here
-[00:49:37] [Server thread/INFO]: Invalid chat component: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
-[00:49:37] [Server thread/INFO]: ...raw alest puto pendejo<--[HERE]
-[00:50:25] [Server thread/INFO]: Made Alest a server operator
-[00:51:48] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> asdadsfsgdgdsfg
-[00:51:51] [Server thread/INFO]: [Not Secure] <Alest> dasdasdasd
-[00:55:39] [Server thread/INFO]: Incorrect argument for command
-[00:55:39] [Server thread/INFO]: tick alest<--[HERE]
-[01:01:56] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=93, y=68, z=172} iz{x=92, y=67, z=172}
-[01:01:56] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=93, y=68, z=172} iz{x=92, y=67, z=172}
-[01:03:01] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> asdaqqfgsgf
-[01:14:13] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Spectator Mode]
-[01:14:43] [Server thread/INFO]: [Alest: Set own game mode to Creative Mode]
-[01:14:44] [Server thread/INFO]: [Alest: Set own game mode to Survival Mode]
-[01:14:46] [Server thread/INFO]: [Alest: Set own game mode to Spectator Mode]
-[01:15:08] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Survival Mode]
-[01:15:14] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Creative Mode]
-[01:16:15] [Server thread/INFO]: Villager cmm['Cartographer'/20, l='ServerLevel[world]', x=10.00, y=69.00, z=169.58] died, message: 'Cartographer was slain by Zombie'
-[01:17:26] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Survival Mode]
-[01:17:40] [Server thread/INFO]: [Alest: Set own game mode to Survival Mode]
-[02:05:09] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Creative Mode]
-[02:07:11] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Spectator Mode]
-[02:08:02] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Creative Mode]
-[02:11:39] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Spectator Mode]
-[02:11:40] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Survival Mode]
-[02:12:29] [Server thread/INFO]: Alest lost connection: Disconnected
-[02:12:29] [Server thread/INFO]: Alest left the game
-[02:17:04] [Server thread/INFO]: RHAY[/127.184.82.46:50609] logged in with entity id 34512 at (9.964477039914891, 63.0, 179.5356031852818)
-[02:17:04] [Server thread/INFO]: RHAY joined the game
-[02:26:59] [Server thread/INFO]: Alest[/127.187.155.65:49191] logged in with entity id 37018 at (-135.51043247459907, 70.0, 41.60322022191388)
-[02:26:59] [Server thread/INFO]: Alest joined the game
-[02:32:16] [Server thread/INFO]: [renny_lopez_2020: Set the weather to clear]
-[02:38:05] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-59, y=64, z=127} iz{x=-60, y=63, z=128}
-[02:38:05] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-59, y=64, z=127} iz{x=-60, y=63, z=128}
-[02:41:18] [Server thread/INFO]: Villager cmm['Villager'/13, l='ServerLevel[world]', x=8.92, y=64.92, z=172.52] died, message: 'Villager was slain by Zombie'
-[02:41:24] [Server thread/INFO]: Villager cmm['Villager'/12, l='ServerLevel[world]', x=8.30, y=64.21, z=172.04] died, message: 'Villager was slain by Zombie'
-[02:53:50] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-230, y=61, z=522} iz{x=-229, y=60, z=522}
-[02:53:50] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-230, y=61, z=522} iz{x=-229, y=60, z=522}
-[02:53:50] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-230, y=61, z=522} iz{x=-229, y=60, z=522}
-[02:53:51] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-230, y=60, z=521} iz{x=-229, y=60, z=522}
-[02:53:52] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-231, y=61, z=523} iz{x=-230, y=59, z=523}
-[02:55:09] [Server thread/INFO]: Alest lost connection: Disconnected
-[02:55:09] [Server thread/INFO]: Alest left the game
-[03:03:05] [Server thread/INFO]: renny_lopez_2020 lost connection: Disconnected
-[03:03:05] [Server thread/INFO]: renny_lopez_2020 left the game
-[03:10:53] [Server thread/INFO]: RHAY lost connection: Timed out
-[03:10:53] [Server thread/INFO]: RHAY left the game
-[03:10:53] [Server thread/WARN]: handleDisconnection() called twice
-[03:11:05] [Server thread/INFO]: RHAY[/127.184.82.46:51945] logged in with entity id 53571 at (-3.8618913659168204, 63.0, 174.96216920585456)
-[03:11:05] [Server thread/INFO]: RHAY joined the game
-[03:52:29] [Server thread/INFO]: RHAY lost connection: Disconnected
-[03:52:29] [Server thread/INFO]: RHAY left the game
+[02:52:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:52:58] [ServerMain/INFO]: Loaded 1175 recipes
+[02:52:58] [ServerMain/INFO]: Loaded 1276 advancements
+[02:52:58] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[02:52:58] [Server thread/INFO]: Loading properties
+[02:52:58] [Server thread/INFO]: Default game type: SURVIVAL
+[02:52:58] [Server thread/INFO]: Generating keypair
+[02:52:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:52:58] [Server thread/INFO]: Using epoll channel type
+[02:52:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:52:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:52:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:52:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:52:58] [Server thread/INFO]: Preparing level "world"
+[02:53:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:53:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:53:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:53:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:53:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:53:04] [Server thread/INFO]: Time elapsed: 1958 ms
+[02:53:04] [Server thread/INFO]: Done (5.533s)! For help, type "help"
+[02:53:11] [Server thread/INFO]: Alest[/127.187.155.65:47117] logged in with entity id 16 at (-122.30000001192093, 70.0, 43.86302675094317)
+[02:53:11] [Server thread/INFO]: Alest joined the game
+[02:55:17] [Server thread/INFO]: renny_lopez_2020[/127.163.143.131:43267] logged in with entity id 663 at (75.31022309637189, 70.0, 175.9154589640488)
+[02:55:17] [Server thread/INFO]: renny_lopez_2020 joined the game
+[03:02:34] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Creative Mode]
