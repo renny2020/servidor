@@ -50,3 +50,16 @@
 [05:21:08] [Server thread/INFO]: renny_lopez_2020 lost connection: Disconnected
 [05:21:08] [Server thread/INFO]: renny_lopez_2020 left the game
 [05:28:33] [Server thread/INFO]: RHAY has made the advancement [Cover Me with Diamonds]
+[05:36:45] [Server thread/INFO]: RHAY lost connection: Disconnected
+[05:36:45] [Server thread/INFO]: RHAY left the game
+[05:37:11] [Server thread/INFO]: Stopping the server
+[05:37:11] [Server thread/INFO]: Stopping server
+[05:37:11] [Server thread/INFO]: Saving players
+[05:37:11] [Server thread/INFO]: Saving worlds
+[05:37:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:37:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:37:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:37:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:37:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:37:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:37:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
