@@ -36,3 +36,6 @@
 [04:19:03] [Server thread/INFO]: RHAY[/127.184.82.46:43521] logged in with entity id 27485 at (-58.71440584257163, 59.0, 131.22980278828848)
 [04:19:03] [Server thread/INFO]: RHAY joined the game
 [04:22:01] [Server thread/INFO]: RHAY burned to death
+[04:45:08] [Server thread/WARN]: renny_lopez_2020 moved too quickly! -9.711108100747861,-2.193406499714534,2.7729424505511986
+[04:50:51] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-170, y=64, z=21} iz{x=-168, y=63, z=20}
+[04:51:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-169, y=63, z=15} iz{x=-167, y=65, z=17}
