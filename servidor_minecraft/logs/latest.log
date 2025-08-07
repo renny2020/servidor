@@ -81,3 +81,8 @@
 [03:08:59] [Server thread/INFO]: Villager cmm['Fletcher'/17623, l='ServerLevel[world]', x=0.30, y=63.00, z=163.30] died, message: 'Fletcher was slain by Zombie'
 [03:09:01] [Server thread/INFO]: [Not Secure] <Alest> a
 [03:10:05] [Server thread/WARN]: renny_lopez_2020 moved too quickly! -8.943804599702617,-2.7459663649071047,3.762135899997446
+[03:21:31] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Spectator Mode]
+[03:22:12] [Server thread/WARN]: renny_lopez_2020 moved too quickly! 10.925528125240021,0.0,1.034768623789276
+[03:23:04] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Survival Mode]
+[03:23:06] [Server thread/INFO]: renny_lopez_2020 fell from a high place
+[03:26:56] [Server thread/INFO]: Alest burned to death
