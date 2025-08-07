@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2025-08-02 01:28:52 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-07 04:15:34 +0000",
       "minecraft:dark_forest": "2025-08-02 01:01:58 +0000",
       "minecraft:forest": "2025-08-02 00:11:08 +0000",
       "minecraft:sunflower_plains": "2025-08-02 00:21:50 +0000",
@@ -2015,6 +2016,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-07 04:10:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-07 03:00:50 +0000"
@@ -2096,6 +2103,12 @@
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-08-07 03:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-07 04:10:53 +0000"
     },
     "done": true
   },
