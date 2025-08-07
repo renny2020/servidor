@@ -1,65 +1,30 @@
-[02:52:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:52:58] [ServerMain/INFO]: Loaded 1175 recipes
-[02:52:58] [ServerMain/INFO]: Loaded 1276 advancements
-[02:52:58] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[02:52:58] [Server thread/INFO]: Loading properties
-[02:52:58] [Server thread/INFO]: Default game type: SURVIVAL
-[02:52:58] [Server thread/INFO]: Generating keypair
-[02:52:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:52:58] [Server thread/INFO]: Using epoll channel type
-[02:52:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:52:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:52:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:52:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:52:58] [Server thread/INFO]: Preparing level "world"
-[02:53:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:53:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:53:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:53:03] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:53:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:53:04] [Server thread/INFO]: Time elapsed: 1958 ms
-[02:53:04] [Server thread/INFO]: Done (5.533s)! For help, type "help"
-[02:53:11] [Server thread/INFO]: Alest[/127.187.155.65:47117] logged in with entity id 16 at (-122.30000001192093, 70.0, 43.86302675094317)
-[02:53:11] [Server thread/INFO]: Alest joined the game
-[02:55:17] [Server thread/INFO]: renny_lopez_2020[/127.163.143.131:43267] logged in with entity id 663 at (75.31022309637189, 70.0, 175.9154589640488)
-[02:55:17] [Server thread/INFO]: renny_lopez_2020 joined the game
-[03:02:34] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Creative Mode]
-[03:05:29] [Server thread/INFO]: [Alest: Set own game mode to Creative Mode]
-[03:08:55] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Survival Mode]
-[03:09:07] [Server thread/INFO]: [Alest: Set own game mode to Survival Mode]
-[03:21:45] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Creative Mode]
-[03:28:47] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Survival Mode]
-[03:34:27] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Creative Mode]
-[03:35:19] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Survival Mode]
-[03:36:03] [Server thread/INFO]: Villager cmm['Cleric'/253, l='ServerLevel[world]', x=4.41, y=64.00, z=161.86] died, message: 'Cleric was slain by Zombie'
-[03:49:09] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> <iaudhfblkjhsDFIJBÑISFDv
-[04:19:03] [Server thread/INFO]: RHAY[/127.184.82.46:43521] logged in with entity id 27485 at (-58.71440584257163, 59.0, 131.22980278828848)
-[04:19:03] [Server thread/INFO]: RHAY joined the game
-[04:22:01] [Server thread/INFO]: RHAY burned to death
-[04:45:08] [Server thread/WARN]: renny_lopez_2020 moved too quickly! -9.711108100747861,-2.193406499714534,2.7729424505511986
-[04:50:51] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-170, y=64, z=21} iz{x=-168, y=63, z=20}
-[04:51:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-169, y=63, z=15} iz{x=-167, y=65, z=17}
-[04:57:14] [Server thread/INFO]: RHAY burned to death
-[05:00:50] [Server thread/INFO]: [Not Secure] <Alest> asdasdasdasdasd
-[05:11:43] [Server thread/INFO]: Alest lost connection: Disconnected
-[05:11:43] [Server thread/INFO]: Alest left the game
-[05:19:12] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Spectator Mode]
-[05:19:32] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Creative Mode]
-[05:19:40] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Survival Mode]
-[05:19:52] [Server thread/INFO]: [renny_lopez_2020: Teleported RHAY to renny_lopez_2020]
-[05:21:08] [Server thread/INFO]: renny_lopez_2020 lost connection: Disconnected
-[05:21:08] [Server thread/INFO]: renny_lopez_2020 left the game
-[05:28:33] [Server thread/INFO]: RHAY has made the advancement [Cover Me with Diamonds]
-[05:36:45] [Server thread/INFO]: RHAY lost connection: Disconnected
-[05:36:45] [Server thread/INFO]: RHAY left the game
-[05:37:11] [Server thread/INFO]: Stopping the server
-[05:37:11] [Server thread/INFO]: Stopping server
-[05:37:11] [Server thread/INFO]: Saving players
-[05:37:11] [Server thread/INFO]: Saving worlds
-[05:37:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:37:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05:37:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05:37:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:37:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:37:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:37:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:18:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:18:10] [ServerMain/INFO]: Loaded 1175 recipes
+[02:18:10] [ServerMain/INFO]: Loaded 1276 advancements
+[02:18:11] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[02:18:11] [Server thread/INFO]: Loading properties
+[02:18:11] [Server thread/INFO]: Default game type: SURVIVAL
+[02:18:11] [Server thread/INFO]: Generating keypair
+[02:18:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:18:11] [Server thread/INFO]: Using epoll channel type
+[02:18:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:18:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:18:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:18:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:18:11] [Server thread/INFO]: Preparing level "world"
+[02:18:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:18:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:18:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:18:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:18:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:18:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:18:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:18:17] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[02:18:17] [Server thread/INFO]: Time elapsed: 3344 ms
+[02:18:17] [Server thread/INFO]: Done (5.814s)! For help, type "help"
+[02:21:07] [Server thread/INFO]: renny_lopez_2020[/127.80.252.253:53877] logged in with entity id 6 at (75.73587724960608, 71.0, 177.8473900400896)
+[02:21:07] [Server thread/INFO]: renny_lopez_2020 joined the game
+[02:21:12] [Server thread/INFO]: Alest[/127.187.155.65:34113] logged in with entity id 358 at (-127.60330509860387, 70.0, 44.33882824932361)
+[02:21:12] [Server thread/INFO]: Alest joined the game
+[02:22:25] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> dasdfdñoihgfa
+[02:22:28] [Server thread/INFO]: [Not Secure] <Alest> aasdasda

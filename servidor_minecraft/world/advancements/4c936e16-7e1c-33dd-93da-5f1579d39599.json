@@ -1929,9 +1929,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_book": "2025-08-05 04:43:44 +0000"
+      "has_wood_slab": "2025-08-05 03:05:57 +0000"
     },
     "done": true
   },
@@ -1941,9 +1941,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
+  "minecraft:recipes/misc/paper": {
     "criteria": {
-      "has_wood_slab": "2025-08-05 03:05:57 +0000"
+      "has_reeds": "2025-08-05 04:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-05 04:43:44 +0000"
     },
     "done": true
   },
@@ -1962,12 +1968,6 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-08-05 04:43:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-08-05 04:06:59 +0000"
     },
     "done": true
   },
