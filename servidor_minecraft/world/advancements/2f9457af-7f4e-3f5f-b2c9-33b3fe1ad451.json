@@ -10,11 +10,17 @@
       "minecraft:flower_forest": "2025-08-02 00:24:35 +0000",
       "minecraft:beach": "2025-08-03 02:50:41 +0000",
       "minecraft:forest": "2025-08-02 00:09:35 +0000",
-      "minecraft:ocean": "2025-08-03 02:53:11 +0000",
-      "minecraft:sunflower_plains": "2025-08-02 00:21:47 +0000",
+      "minecraft:sparse_jungle": "2025-08-07 02:34:18 +0000",
       "minecraft:river": "2025-08-02 00:20:26 +0000",
-      "minecraft:birch_forest": "2025-08-02 02:24:26 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-07 02:37:03 +0000",
+      "minecraft:stony_shore": "2025-08-07 02:40:26 +0000",
       "minecraft:dripstone_caves": "2025-08-02 01:46:11 +0000",
+      "minecraft:ocean": "2025-08-03 02:53:11 +0000",
+      "minecraft:jungle": "2025-08-07 02:33:13 +0000",
+      "minecraft:sunflower_plains": "2025-08-02 00:21:47 +0000",
+      "minecraft:birch_forest": "2025-08-02 02:24:26 +0000",
+      "minecraft:savanna": "2025-08-07 02:40:15 +0000",
+      "minecraft:bamboo_jungle": "2025-08-07 02:36:42 +0000",
       "minecraft:plains": "2025-08-02 00:08:44 +0000"
     },
     "done": false
@@ -2219,6 +2225,72 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-08-05 04:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-08-07 02:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-08-07 02:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-07 02:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-07 02:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-08-07 02:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-07 02:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-07 02:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-08-07 02:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-07 02:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-07 02:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-08-07 02:38:45 +0000"
     },
     "done": true
   },
