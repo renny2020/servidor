@@ -2561,6 +2561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-08-09 05:50:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_hoglin_stable": "2025-08-09 05:28:59 +0000"
