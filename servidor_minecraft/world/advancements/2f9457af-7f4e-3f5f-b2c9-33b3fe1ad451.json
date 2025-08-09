@@ -1233,12 +1233,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-08-09 05:42:49 +0000",
       "minecraft:nether_wastes": "2025-08-02 02:30:26 +0000",
       "minecraft:soul_sand_valley": "2025-08-09 05:26:24 +0000",
       "minecraft:basalt_deltas": "2025-08-02 03:03:42 +0000",
       "minecraft:warped_forest": "2025-08-02 03:04:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
