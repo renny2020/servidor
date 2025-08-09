@@ -36,3 +36,11 @@
 [01:41:42] [Server thread/INFO]: renny_lopez_2020 fell from a high place
 [01:57:20] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> mimirrrrrr
 [02:11:49] [Server thread/INFO]: Alest was slain by Zombie
+[02:20:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[02:24:08] [Server thread/INFO]: renny_lopez_2020 has made the advancement [Hidden in the Depths]
+[02:27:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-39, y=16, z=-112} iz{x=-39, y=15, z=-112}
+[02:27:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-39, y=16, z=-112} iz{x=-39, y=15, z=-112}
+[02:27:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-39, y=16, z=-112} iz{x=-39, y=15, z=-112}
+[02:27:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-39, y=16, z=-112} iz{x=-39, y=15, z=-112}
+[02:27:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-39, y=16, z=-112} iz{x=-39, y=15, z=-112}
+[02:27:38] [Server thread/WARN]: renny_lopez_2020 moved wrongly!
