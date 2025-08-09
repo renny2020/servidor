@@ -27,3 +27,7 @@
 [19:49:41] [Server thread/INFO]: Alest[/127.187.155.65:55027] logged in with entity id 1198 at (-137.69999998807907, 70.0, 42.90462610236463)
 [19:49:41] [Server thread/INFO]: Alest joined the game
 [19:57:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2537ms or 50 ticks behind
+[20:13:28] [Server thread/INFO]: Alest lost connection: Disconnected
+[20:13:28] [Server thread/INFO]: Alest left the game
+[20:14:50] [Server thread/INFO]: Villager cmm['Cartographer'/46, l='ServerLevel[world]', x=1.33, y=63.75, z=152.66] died, message: 'Cartographer was slain by Zombie'
+[20:16:07] [Server thread/INFO]: renny_lopez_2020 fell from a high place
