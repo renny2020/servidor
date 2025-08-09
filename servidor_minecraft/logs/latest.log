@@ -1,131 +1,30 @@
-[02:18:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:18:10] [ServerMain/INFO]: Loaded 1175 recipes
-[02:18:10] [ServerMain/INFO]: Loaded 1276 advancements
-[02:18:11] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[02:18:11] [Server thread/INFO]: Loading properties
-[02:18:11] [Server thread/INFO]: Default game type: SURVIVAL
-[02:18:11] [Server thread/INFO]: Generating keypair
-[02:18:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:18:11] [Server thread/INFO]: Using epoll channel type
-[02:18:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:18:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:18:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:18:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:18:11] [Server thread/INFO]: Preparing level "world"
-[02:18:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:18:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:18:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:18:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:18:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:18:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:18:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:18:17] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[02:18:17] [Server thread/INFO]: Time elapsed: 3344 ms
-[02:18:17] [Server thread/INFO]: Done (5.814s)! For help, type "help"
-[02:21:07] [Server thread/INFO]: renny_lopez_2020[/127.80.252.253:53877] logged in with entity id 6 at (75.73587724960608, 71.0, 177.8473900400896)
-[02:21:07] [Server thread/INFO]: renny_lopez_2020 joined the game
-[02:21:12] [Server thread/INFO]: Alest[/127.187.155.65:34113] logged in with entity id 358 at (-127.60330509860387, 70.0, 44.33882824932361)
-[02:21:12] [Server thread/INFO]: Alest joined the game
-[02:22:25] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> dasdfdñoihgfa
-[02:22:28] [Server thread/INFO]: [Not Secure] <Alest> aasdasda
-[02:35:30] [Server thread/WARN]: renny_lopez_2020 moved too quickly! -9.69599031215671,-0.5475485219240284,-3.188670981517191
-[02:36:35] [Server thread/INFO]: [Not Secure] <Alest> ewd
-[02:38:55] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-1868, y=63, z=238} iz{x=-1869, y=63, z=237}
-[02:38:55] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-1868, y=63, z=238} iz{x=-1869, y=63, z=237}
-[02:38:55] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-1868, y=63, z=238} iz{x=-1869, y=63, z=237}
-[02:38:55] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-1868, y=63, z=238} iz{x=-1869, y=63, z=237}
-[02:44:15] [Server thread/INFO]: renny_lopez_2020 fell from a high place
-[02:50:23] [Server thread/WARN]: renny_lopez_2020 moved too quickly! 4.756440029746145,2.681558398058314,-8.49111936101712
-[02:51:54] [Server thread/INFO]: renny_lopez_2020 lost connection: Timed out
-[02:51:54] [Server thread/INFO]: renny_lopez_2020 left the game
-[02:51:54] [Server thread/WARN]: handleDisconnection() called twice
-[02:52:33] [Server thread/INFO]: renny_lopez_2020[/127.80.252.253:41973] logged in with entity id 15851 at (-116.18013777709433, 70.0, 56.987538708965666)
-[02:52:33] [Server thread/INFO]: renny_lopez_2020 joined the game
-[02:54:36] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> asdcafbsjy
-[02:54:39] [Server thread/INFO]: [Not Secure] <Alest> aasdasdasd
-[02:54:39] [Server thread/INFO]: [Not Secure] <Alest> asd
-[02:54:40] [Server thread/INFO]: [Not Secure] <Alest> asd
-[02:54:40] [Server thread/INFO]: [Not Secure] <Alest> asd
-[02:54:43] [Server thread/INFO]: [Not Secure] <Alest> asdasd
-[02:56:32] [Server thread/WARN]: renny_lopez_2020 moved too quickly! 6.000521222903899,-0.001335979112141672,8.379195117662547
-[03:08:48] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> adasfaf
-[03:08:48] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> asdafsG
-[03:08:49] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> ASDG
-[03:08:49] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> ASGHXFSHY
-[03:08:50] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> JAFRFHSGHJDYTJ
-[03:08:51] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> DYUKATEJUDYUKLTIOÑL
-[03:08:51] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> UJZGFH
-[03:08:52] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> DTUKFIODTYHJDGH
-[03:08:53] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> T7IILTUYJ
-[03:08:53] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> SRTH
-[03:08:53] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> TYUS
-[03:08:54] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> TRGHZDG
-[03:08:54] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> HSRTYU
-[03:08:54] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> DYUKI
-[03:08:55] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> FDHN
-[03:08:55] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> ZSRFYJI
-[03:08:55] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> GU9P
-[03:08:55] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> OL
-[03:08:55] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> YH
-[03:08:56] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> SRTU
-[03:08:56] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> DTKI
-[03:08:56] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> IIL
-[03:08:56] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> UIOP
-[03:08:57] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> YUFJ
-[03:08:57] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> 45346
-[03:08:57] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> 468
-[03:08:57] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> 58
-[03:08:58] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> 5
-[03:08:58] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> E
-[03:08:58] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> 2W4235
-[03:08:59] [Server thread/INFO]: Villager cmm['Fletcher'/17623, l='ServerLevel[world]', x=0.30, y=63.00, z=163.30] died, message: 'Fletcher was slain by Zombie'
-[03:09:01] [Server thread/INFO]: [Not Secure] <Alest> a
-[03:10:05] [Server thread/WARN]: renny_lopez_2020 moved too quickly! -8.943804599702617,-2.7459663649071047,3.762135899997446
-[03:21:31] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Spectator Mode]
-[03:22:12] [Server thread/WARN]: renny_lopez_2020 moved too quickly! 10.925528125240021,0.0,1.034768623789276
-[03:23:04] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Survival Mode]
-[03:23:06] [Server thread/INFO]: renny_lopez_2020 fell from a high place
-[03:26:56] [Server thread/INFO]: Alest burned to death
-[03:36:23] [Server thread/INFO]: Alest was slain by Enderman
-[04:00:09] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> asdfsfgag
-[04:00:10] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> jhxbvvkjbskgfh
-[04:00:12] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> { oizudfygvoiaeurbgo
-[04:00:19] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> aeiou
-[04:05:35] [Server thread/INFO]: renny_lopez_2020 fell from a high place
-[04:10:36] [Server thread/INFO]: Alest has made the advancement [Hot Stuff]
-[04:18:49] [Server thread/INFO]: [renny_lopez_2020: Teleported Alest to renny_lopez_2020]
-[04:26:03] [Server thread/INFO]: Alest lost connection: Disconnected
-[04:26:03] [Server thread/INFO]: Alest left the game
-[04:29:11] [Server thread/INFO]: [renny_lopez_2020: Gave 10000 experience points to renny_lopez_2020]
-[04:29:14] [Server thread/INFO]: [renny_lopez_2020: Gave 10000 experience points to renny_lopez_2020]
-[04:29:16] [Server thread/INFO]: [renny_lopez_2020: Gave 10000 experience points to renny_lopez_2020]
-[04:29:17] [Server thread/INFO]: [renny_lopez_2020: Gave 10000 experience points to renny_lopez_2020]
-[04:29:18] [Server thread/INFO]: [renny_lopez_2020: Gave 10000 experience points to renny_lopez_2020]
-[04:29:19] [Server thread/INFO]: [renny_lopez_2020: Gave 10000 experience points to renny_lopez_2020]
-[04:29:19] [Server thread/INFO]: [renny_lopez_2020: Gave 10000 experience points to renny_lopez_2020]
-[04:29:20] [Server thread/INFO]: [renny_lopez_2020: Gave 10000 experience points to renny_lopez_2020]
-[04:29:21] [Server thread/INFO]: [renny_lopez_2020: Gave 10000 experience points to renny_lopez_2020]
-[04:29:22] [Server thread/INFO]: [renny_lopez_2020: Gave 10000 experience points to renny_lopez_2020]
-[04:29:22] [Server thread/INFO]: [renny_lopez_2020: Gave 10000 experience points to renny_lopez_2020]
-[04:29:23] [Server thread/INFO]: [renny_lopez_2020: Gave 10000 experience points to renny_lopez_2020]
-[04:29:23] [Server thread/INFO]: [renny_lopez_2020: Gave 10000 experience points to renny_lopez_2020]
-[04:29:24] [Server thread/INFO]: [renny_lopez_2020: Gave 10000 experience points to renny_lopez_2020]
-[04:29:25] [Server thread/INFO]: [renny_lopez_2020: Gave 10000 experience points to renny_lopez_2020]
-[04:29:25] [Server thread/INFO]: [renny_lopez_2020: Gave 10000 experience points to renny_lopez_2020]
-[04:29:27] [Server thread/INFO]: [renny_lopez_2020: Gave 10000 experience points to renny_lopez_2020]
-[04:29:42] [Server thread/INFO]: renny_lopez_2020 fell from a high place
-[04:29:51] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Creative Mode]
-[04:56:30] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Survival Mode]
-[05:03:49] [Server thread/INFO]: renny_lopez_2020 lost connection: Disconnected
-[05:03:49] [Server thread/INFO]: renny_lopez_2020 left the game
-[05:04:01] [Server thread/INFO]: Stopping the server
-[05:04:01] [Server thread/INFO]: Stopping server
-[05:04:01] [Server thread/INFO]: Saving players
-[05:04:01] [Server thread/INFO]: Saving worlds
-[05:04:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:04:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05:04:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05:04:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:04:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:04:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:04:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:08:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:08:54] [ServerMain/INFO]: Loaded 1175 recipes
+[01:08:54] [ServerMain/INFO]: Loaded 1276 advancements
+[01:08:55] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[01:08:55] [Server thread/INFO]: Loading properties
+[01:08:55] [Server thread/INFO]: Default game type: SURVIVAL
+[01:08:55] [Server thread/INFO]: Generating keypair
+[01:08:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:08:55] [Server thread/INFO]: Using epoll channel type
+[01:08:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:08:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:08:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:08:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:08:55] [Server thread/INFO]: Preparing level "world"
+[01:08:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:08:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:08:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:08:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:08:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:08:59] [Server thread/INFO]: Time elapsed: 1654 ms
+[01:08:59] [Server thread/INFO]: Done (4.125s)! For help, type "help"
+[01:09:15] [Server thread/INFO]: renny_lopez_2020[/127.177.140.80:38075] logged in with entity id 5 at (74.55383002845157, 70.0, 173.2126607547997)
+[01:09:15] [Server thread/INFO]: renny_lopez_2020 joined the game
+[01:09:36] [Server thread/INFO]: Alest[/127.187.155.65:43383] logged in with entity id 327 at (-133.03774535654532, 64.0, 40.10548689056047)
+[01:09:36] [Server thread/INFO]: Alest joined the game
+[01:24:06] [Server thread/INFO]: renny_lopez_2020 hit the ground too hard
+[01:25:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:25:28] [Server thread/INFO]: dificulty hard<--[HERE]
+[01:26:44] [Server thread/INFO]: The difficulty has been set to Hard
+[01:27:43] [Server thread/INFO]: Alest fell from a high place
