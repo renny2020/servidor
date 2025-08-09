@@ -34,3 +34,19 @@
 [20:20:36] [Server thread/INFO]: RHAY tried to swim in lava to escape Zombified Piglin
 [20:24:27] [Server thread/INFO]: renny_lopez_2020 fell from a high place
 [20:26:09] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=160, y=64, z=13} iz{x=160, y=63, z=13}
+[20:29:00] [Server thread/INFO]: RHAY lost connection: Disconnected
+[20:29:00] [Server thread/INFO]: RHAY left the game
+[20:29:00] [Server thread/WARN]: handleDisconnection() called twice
+[20:30:04] [Server thread/INFO]: RHAY[/127.184.82.46:47983] logged in with entity id 16385 at (175.96409809313187, 87.16610926093821, -39.76420086582611)
+[20:30:04] [Server thread/INFO]: RHAY joined the game
+[20:30:47] [Server thread/INFO]: renny_lopez_2020 fell from a high place
+[20:31:06] [Server thread/INFO]: RHAY was doomed to fall
+[20:33:05] [Server thread/INFO]: RHAY tried to swim in lava
+[20:38:36] [Server thread/INFO]: [renny_lopez_2020: Teleported renny_lopez_2020 to 102.500000, 201.500000, 206.500000]
+[20:38:54] [Server thread/INFO]: renny_lopez_2020 fell from a high place
+[20:40:23] [Server thread/INFO]: [renny_lopez_2020: Teleported renny_lopez_2020 to 102.500000, 201.500000, 206.500000]
+[20:40:31] [Server thread/INFO]: renny_lopez_2020 fell from a high place
+[20:45:17] [Server thread/INFO]: renny_lopez_2020 drowned
+[20:45:55] [Server thread/INFO]: renny_lopez_2020 drowned
+[20:46:03] [Server thread/INFO]: [renny_lopez_2020: Teleported renny_lopez_2020 to 102.500000, 201.500000, 206.500000]
+[20:46:34] [Server thread/INFO]: renny_lopez_2020 fell from a high place
