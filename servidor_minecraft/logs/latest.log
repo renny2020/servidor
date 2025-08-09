@@ -1,148 +1,29 @@
-[01:08:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:08:54] [ServerMain/INFO]: Loaded 1175 recipes
-[01:08:54] [ServerMain/INFO]: Loaded 1276 advancements
-[01:08:55] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[01:08:55] [Server thread/INFO]: Loading properties
-[01:08:55] [Server thread/INFO]: Default game type: SURVIVAL
-[01:08:55] [Server thread/INFO]: Generating keypair
-[01:08:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:08:55] [Server thread/INFO]: Using epoll channel type
-[01:08:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:08:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:08:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:08:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:08:55] [Server thread/INFO]: Preparing level "world"
-[01:08:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:08:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:08:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:08:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:08:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:08:59] [Server thread/INFO]: Time elapsed: 1654 ms
-[01:08:59] [Server thread/INFO]: Done (4.125s)! For help, type "help"
-[01:09:15] [Server thread/INFO]: renny_lopez_2020[/127.177.140.80:38075] logged in with entity id 5 at (74.55383002845157, 70.0, 173.2126607547997)
-[01:09:15] [Server thread/INFO]: renny_lopez_2020 joined the game
-[01:09:36] [Server thread/INFO]: Alest[/127.187.155.65:43383] logged in with entity id 327 at (-133.03774535654532, 64.0, 40.10548689056047)
-[01:09:36] [Server thread/INFO]: Alest joined the game
-[01:24:06] [Server thread/INFO]: renny_lopez_2020 hit the ground too hard
-[01:25:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:25:28] [Server thread/INFO]: dificulty hard<--[HERE]
-[01:26:44] [Server thread/INFO]: The difficulty has been set to Hard
-[01:27:43] [Server thread/INFO]: Alest fell from a high place
-[01:35:26] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Spectator Mode]
-[01:35:37] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Creative Mode]
-[01:40:46] [Server thread/INFO]: Villager cmm['Cleric'/14, l='ServerLevel[world]', x=1.57, y=62.94, z=188.70] died, message: 'Cleric was slain by Zombie'
-[01:41:17] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Spectator Mode]
-[01:41:38] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Survival Mode]
-[01:41:42] [Server thread/INFO]: renny_lopez_2020 fell from a high place
-[01:57:20] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> mimirrrrrr
-[02:11:49] [Server thread/INFO]: Alest was slain by Zombie
-[02:20:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[02:24:08] [Server thread/INFO]: renny_lopez_2020 has made the advancement [Hidden in the Depths]
-[02:27:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-39, y=16, z=-112} iz{x=-39, y=15, z=-112}
-[02:27:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-39, y=16, z=-112} iz{x=-39, y=15, z=-112}
-[02:27:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-39, y=16, z=-112} iz{x=-39, y=15, z=-112}
-[02:27:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-39, y=16, z=-112} iz{x=-39, y=15, z=-112}
-[02:27:04] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-39, y=16, z=-112} iz{x=-39, y=15, z=-112}
-[02:27:38] [Server thread/WARN]: renny_lopez_2020 moved wrongly!
-[02:30:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-49, y=14, z=-173} iz{x=-50, y=15, z=-173}
-[02:30:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-49, y=14, z=-173} iz{x=-50, y=15, z=-173}
-[02:30:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-49, y=14, z=-173} iz{x=-50, y=15, z=-173}
-[02:30:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-49, y=14, z=-173} iz{x=-50, y=15, z=-173}
-[02:30:03] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-49, y=14, z=-173} iz{x=-50, y=15, z=-173}
-[02:32:00] [Server thread/INFO]: renny_lopez_2020 burned to death
-[03:08:11] [Server thread/INFO]: [renny_lopez_2020: The difficulty has been set to Normal]
-[03:09:13] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-6, y=64, z=201} iz{x=-5, y=62, z=202}
-[03:09:13] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-6, y=64, z=201} iz{x=-5, y=62, z=202}
-[03:10:02] [Server thread/INFO]: Alest fell from a high place
-[03:12:20] [Server thread/INFO]: Alest was slain by Spider
-[03:14:11] [Server thread/INFO]: Alest has made the advancement [Cover Me with Diamonds]
-[03:39:19] [Server thread/INFO]: renny_lopez_2020 lost connection: Disconnected
-[03:39:19] [Server thread/INFO]: renny_lopez_2020 left the game
-[03:40:25] [Server thread/INFO]: renny_lopez_2020[/127.177.140.80:48647] logged in with entity id 37493 at (102.59849015925774, 201.0, 204.23691874205178)
-[03:40:25] [Server thread/INFO]: renny_lopez_2020 joined the game
-[03:41:11] [Server thread/INFO]: renny_lopez_2020 fell from a high place
-[03:49:37] [Server thread/INFO]: Alest was slain by renny_lopez_2020
-[03:51:32] [Server thread/INFO]: [renny_lopez_2020: Teleported Alest to renny_lopez_2020]
-[04:05:12] [Server thread/INFO]: [renny_lopez_2020: Teleported Alest to renny_lopez_2020]
-[04:08:35] [Server thread/INFO]: [Alest: Set own game mode to Creative Mode]
-[04:08:36] [Server thread/INFO]: [Alest: Set own game mode to Survival Mode]
-[04:08:37] [Server thread/INFO]: [Alest: Set own game mode to Creative Mode]
-[04:08:37] [Server thread/INFO]: [Alest: Set own game mode to Survival Mode]
-[04:08:39] [Server thread/INFO]: [Alest: Set own game mode to Creative Mode]
-[04:08:41] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Spectator Mode]
-[04:08:50] [Server thread/INFO]: [Alest: Set own game mode to Survival Mode]
-[04:08:59] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Survival Mode]
-[04:10:17] [Server thread/INFO]: [renny_lopez_2020: Teleported Alest to renny_lopez_2020]
-[04:34:32] [Server thread/INFO]: [Alest: Set own game mode to Creative Mode]
-[04:34:41] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Creative Mode]
-[04:35:22] [Server thread/INFO]: [Alest: Set own game mode to Survival Mode]
-[04:35:27] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Survival Mode]
-[04:35:40] [Server thread/INFO]: RHAY[/127.184.82.46:56871] logged in with entity id 50829 at (-67.45119907385963, 59.0, 129.51528812207752)
-[04:35:40] [Server thread/INFO]: RHAY joined the game
-[04:35:48] [Server thread/INFO]: [Not Secure] <renny_lopez_2020> XD
-[04:42:43] [Server thread/INFO]: RHAY fell from a high place
-[04:43:26] [Server thread/INFO]: renny_lopez_2020 fell from a high place
-[04:43:43] [Server thread/INFO]: [renny_lopez_2020: Teleported renny_lopez_2020 to 108.500000, 69.500000, 194.500000]
-[04:44:33] [Server thread/INFO]: RHAY fell from a high place
-[04:45:42] [Server thread/INFO]: renny_lopez_2020 has made the advancement [Voluntary Exile]
-[04:47:16] [Server thread/INFO]: [renny_lopez_2020: Teleported RHAY to renny_lopez_2020]
-[04:49:25] [Server thread/INFO]: Alest has made the advancement [Voluntary Exile]
-[04:51:15] [Server thread/INFO]: RHAY has made the advancement [Voluntary Exile]
-[04:51:17] [Server thread/INFO]: RHAY was slain by Vindicator
-[04:51:32] [Server thread/INFO]: Alest was slain by Vindicator
-[04:51:58] [Server thread/INFO]: RHAY was slain by Vex
-[04:52:52] [Server thread/INFO]: Alest has completed the challenge [Hero of the Village]
-[04:52:52] [Server thread/INFO]: RHAY has completed the challenge [Hero of the Village]
-[04:52:52] [Server thread/INFO]: renny_lopez_2020 has completed the challenge [Hero of the Village]
-[05:09:19] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-39, y=8, z=-111} iz{x=-39, y=8, z=-110}
-[05:09:25] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-38, y=7, z=-123} iz{x=-38, y=6, z=-122}
-[05:09:32] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-38, y=6, z=-149} iz{x=-38, y=5, z=-148}
-[05:09:35] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-38, y=6, z=-149} iz{x=-38, y=7, z=-151}
-[05:09:35] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-38, y=6, z=-149} iz{x=-38, y=7, z=-151}
-[05:09:35] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-38, y=6, z=-149} iz{x=-38, y=7, z=-151}
-[05:09:36] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-38, y=6, z=-149} iz{x=-38, y=7, z=-151}
-[05:09:36] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-38, y=6, z=-149} iz{x=-38, y=7, z=-151}
-[05:09:36] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-38, y=6, z=-149} iz{x=-38, y=7, z=-151}
-[05:11:43] [Server thread/INFO]: Alest burned to death
-[05:14:13] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-24, y=11, z=-9} iz{x=-24, y=11, z=-8}
-[05:14:13] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-24, y=11, z=-9} iz{x=-24, y=11, z=-8}
-[05:14:13] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-24, y=11, z=-9} iz{x=-24, y=11, z=-8}
-[05:14:13] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-24, y=11, z=-9} iz{x=-24, y=11, z=-8}
-[05:14:13] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-24, y=11, z=-9} iz{x=-24, y=11, z=-8}
-[05:14:13] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-24, y=11, z=-9} iz{x=-24, y=11, z=-8}
-[05:14:13] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-24, y=11, z=-9} iz{x=-24, y=11, z=-8}
-[05:14:52] [Server thread/INFO]: renny_lopez_2020 burned to death
-[05:15:40] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=-89, y=35, z=-131} iz{x=-89, y=36, z=-130}
-[05:18:09] [Server thread/INFO]: RHAY tried to swim in lava
-[05:19:19] [Server thread/INFO]: RHAY has made the advancement [Hidden in the Depths]
-[05:19:33] [Server thread/INFO]: Alest has made the advancement [Hidden in the Depths]
-[05:27:42] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=4, y=72, z=42} iz{x=2, y=70, z=42}
-[05:28:12] [Server thread/INFO]: RHAY has made the advancement [Oh Shiny]
-[05:28:13] [Server thread/INFO]: renny_lopez_2020 has made the advancement [Those Were the Days]
-[05:28:59] [Server thread/INFO]: renny_lopez_2020 has made the advancement [War Pigs]
-[05:32:10] [Server thread/INFO]: RHAY has completed the challenge [Hot Tourist Destinations]
-[05:37:21] [Server thread/INFO]: RHAY tried to swim in lava
-[05:38:32] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Spectator Mode]
-[05:38:51] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Creative Mode]
-[05:42:49] [Server thread/INFO]: renny_lopez_2020 has completed the challenge [Hot Tourist Destinations]
-[05:48:59] [Server thread/WARN]: renny_lopez_2020 moved too quickly! 10.370985651549972,0.0,0.7001593634625181
-[05:51:16] [Server thread/INFO]: [renny_lopez_2020: Teleported renny_lopez_2020 to Alest]
-[05:51:17] [Server thread/INFO]: [Alest: Teleported renny_lopez_2020 to Alest]
-[05:51:30] [Server thread/INFO]: RHAY fell from a high place
-[05:57:34] [Server thread/INFO]: RHAY lost connection: Disconnected
-[05:57:34] [Server thread/INFO]: RHAY left the game
-[05:58:01] [Server thread/INFO]: Alest lost connection: Disconnected
-[05:58:01] [Server thread/INFO]: Alest left the game
-[05:58:03] [Server thread/INFO]: renny_lopez_2020 lost connection: Disconnected
-[05:58:03] [Server thread/INFO]: renny_lopez_2020 left the game
-[05:58:21] [Server thread/INFO]: Stopping the server
-[05:58:21] [Server thread/INFO]: Stopping server
-[05:58:21] [Server thread/INFO]: Saving players
-[05:58:21] [Server thread/INFO]: Saving worlds
-[05:58:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:58:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05:58:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05:58:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:58:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:58:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:58:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:46:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:46:16] [ServerMain/INFO]: Loaded 1175 recipes
+[19:46:16] [ServerMain/INFO]: Loaded 1276 advancements
+[19:46:16] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[19:46:16] [Server thread/INFO]: Loading properties
+[19:46:16] [Server thread/INFO]: Default game type: SURVIVAL
+[19:46:16] [Server thread/INFO]: Generating keypair
+[19:46:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:46:16] [Server thread/INFO]: Using epoll channel type
+[19:46:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:46:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:46:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:46:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:46:17] [Server thread/INFO]: Preparing level "world"
+[19:46:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:46:21] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:46:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:46:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:46:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:46:22] [Server thread/INFO]: Time elapsed: 1938 ms
+[19:46:22] [Server thread/INFO]: Done (5.740s)! For help, type "help"
+[19:46:26] [Server thread/INFO]: RHAY[/127.184.82.46:60863] logged in with entity id 6 at (-62.3373904948533, 59.0, 129.99853482847482)
+[19:46:26] [Server thread/INFO]: RHAY joined the game
+[19:48:00] [Server thread/INFO]: renny_lopez_2020[/127.177.140.80:60207] logged in with entity id 734 at (49.680270119580506, 62.9375, 179.0494399082594)
+[19:48:00] [Server thread/INFO]: renny_lopez_2020 joined the game
+[19:48:13] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Survival Mode]
+[19:49:41] [Server thread/INFO]: Alest[/127.187.155.65:55027] logged in with entity id 1198 at (-137.69999998807907, 70.0, 42.90462610236463)
+[19:49:41] [Server thread/INFO]: Alest joined the game
+[19:57:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2537ms or 50 ticks behind
