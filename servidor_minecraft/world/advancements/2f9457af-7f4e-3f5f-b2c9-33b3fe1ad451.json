@@ -344,12 +344,14 @@
       "minecraft:skeleton": "2025-08-02 00:37:59 +0000",
       "minecraft:witch": "2025-08-03 01:51:43 +0000",
       "minecraft:wither_skeleton": "2025-08-02 03:08:53 +0000",
+      "minecraft:ravager": "2025-08-09 04:49:38 +0000",
       "minecraft:cave_spider": "2025-08-02 01:55:22 +0000",
       "minecraft:vindicator": "2025-08-09 04:48:26 +0000",
       "minecraft:enderman": "2025-08-02 03:03:03 +0000",
       "minecraft:magma_cube": "2025-08-02 03:28:12 +0000",
       "minecraft:endermite": "2025-08-09 01:23:15 +0000",
       "minecraft:spider": "2025-08-02 01:37:45 +0000",
+      "minecraft:vex": "2025-08-09 04:52:02 +0000",
       "minecraft:zombie": "2025-08-02 00:18:40 +0000",
       "minecraft:creeper": "2025-08-02 03:40:29 +0000",
       "minecraft:drowned": "2025-08-03 01:18:14 +0000",
@@ -2563,6 +2565,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-08-09 04:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-08-09 04:52:52 +0000"
     },
     "done": true
   },
