@@ -94,3 +94,6 @@
 [21:13:23] [Server thread/INFO]: Alest joined the game
 [21:16:46] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Creative Mode]
 [21:16:55] [Server thread/INFO]: [renny_lopez_2020: Set own game mode to Survival Mode]
+[21:21:38] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=107, y=211, z=198} iz{x=107, y=210, z=198}
+[21:21:39] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=107, y=206, z=198} iz{x=107, y=205, z=198}
+[21:21:40] [Server thread/WARN]: Mismatch in destroy block pos: iz{x=107, y=203, z=198} iz{x=107, y=202, z=198}
