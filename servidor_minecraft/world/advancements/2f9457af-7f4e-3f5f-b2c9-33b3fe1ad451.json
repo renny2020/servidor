@@ -345,6 +345,7 @@
       "minecraft:witch": "2025-08-03 01:51:43 +0000",
       "minecraft:wither_skeleton": "2025-08-02 03:08:53 +0000",
       "minecraft:cave_spider": "2025-08-02 01:55:22 +0000",
+      "minecraft:vindicator": "2025-08-09 04:48:26 +0000",
       "minecraft:enderman": "2025-08-02 03:03:03 +0000",
       "minecraft:magma_cube": "2025-08-02 03:28:12 +0000",
       "minecraft:endermite": "2025-08-09 01:23:15 +0000",
@@ -2550,6 +2551,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-08-09 03:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-09 04:45:42 +0000"
     },
     "done": true
   },
